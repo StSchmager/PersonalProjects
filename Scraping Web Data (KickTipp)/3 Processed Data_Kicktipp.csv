@@ -1,0 +1,1081 @@
+"Spieltag","Spiel","Paarung","Heim","Ausw","Erg","Tipp","Tipper","Pkt","Pkt_","HeimTore","AuswTore","TorDiff","TorDiff_abs","HeimTipp","AuswTipp","TippDiff","TippDiff_abs"
+"1","1","FC Bayern München - Hamburger SV","FC Bayern München","Hamburger SV","5:0","3:0","GesuSan",2,2,5,0,5,5,3,0,3,3
+"1","1","FC Bayern München - Hamburger SV","FC Bayern München","Hamburger SV","5:0","3:0","Marc",2,2,5,0,5,5,3,0,3,3
+"1","1","FC Bayern München - Hamburger SV","FC Bayern München","Hamburger SV","5:0","6:0","AJ",2,2,5,0,5,5,6,0,6,6
+"1","1","FC Bayern München - Hamburger SV","FC Bayern München","Hamburger SV","5:0","3:0","BastiS.",2,2,5,0,5,5,3,0,3,3
+"1","1","FC Bayern München - Hamburger SV","FC Bayern München","Hamburger SV","5:0","3:0","Kryztianov",2,2,5,0,5,5,3,0,3,3
+"1","1","FC Bayern München - Hamburger SV","FC Bayern München","Hamburger SV","5:0","10:0","phil4delphia",2,2,5,0,5,5,10,0,10,10
+"1","1","FC Bayern München - Hamburger SV","FC Bayern München","Hamburger SV","5:0","4:0","Chris",2,2,5,0,5,5,4,0,4,4
+"1","1","FC Bayern München - Hamburger SV","FC Bayern München","Hamburger SV","5:0","4:0","Schmonkey",2,2,5,0,5,5,4,0,4,4
+"2","1","Hertha BSC - Werder Bremen","Hertha BSC","Werder Bremen","1:1","1:1","Marc",4,4,1,1,0,0,1,1,0,0
+"2","1","Hertha BSC - Werder Bremen","Hertha BSC","Werder Bremen","1:1","1:1","GesuSan",4,4,1,1,0,0,1,1,0,0
+"2","1","Hertha BSC - Werder Bremen","Hertha BSC","Werder Bremen","1:1","1:1","Kryztianov",4,4,1,1,0,0,1,1,0,0
+"2","1","Hertha BSC - Werder Bremen","Hertha BSC","Werder Bremen","1:1","0:1","AJ",0,0,1,1,0,0,0,1,-1,1
+"2","1","Hertha BSC - Werder Bremen","Hertha BSC","Werder Bremen","1:1","1:2","BastiS.",0,0,1,1,0,0,1,2,-1,1
+"2","1","Hertha BSC - Werder Bremen","Hertha BSC","Werder Bremen","1:1","1:1","Chris",4,4,1,1,0,0,1,1,0,0
+"2","1","Hertha BSC - Werder Bremen","Hertha BSC","Werder Bremen","1:1","1:0","phil4delphia",0,0,1,1,0,0,1,0,1,1
+"2","1","Hertha BSC - Werder Bremen","Hertha BSC","Werder Bremen","1:1","2:1","Schmonkey",0,0,1,1,0,0,2,1,1,1
+"3","1","VfL Wolfsburg - FC Schalke 04","VfL Wolfsburg","FC Schalke 04","3:0","2:0","Marc",2,2,3,0,3,3,2,0,2,2
+"3","1","VfL Wolfsburg - FC Schalke 04","VfL Wolfsburg","FC Schalke 04","3:0","2:1","Kryztianov",2,2,3,0,3,3,2,1,1,1
+"3","1","VfL Wolfsburg - FC Schalke 04","VfL Wolfsburg","FC Schalke 04","3:0","2:1","GesuSan",2,2,3,0,3,3,2,1,1,1
+"3","1","VfL Wolfsburg - FC Schalke 04","VfL Wolfsburg","FC Schalke 04","3:0","1:1","AJ",0,0,3,0,3,3,1,1,0,0
+"3","1","VfL Wolfsburg - FC Schalke 04","VfL Wolfsburg","FC Schalke 04","3:0","1:0","Chris",2,2,3,0,3,3,1,0,1,1
+"3","1","VfL Wolfsburg - FC Schalke 04","VfL Wolfsburg","FC Schalke 04","3:0","2:2","phil4delphia",0,0,3,0,3,3,2,2,0,0
+"3","1","VfL Wolfsburg - FC Schalke 04","VfL Wolfsburg","FC Schalke 04","3:0","2:0","BastiS.",2,2,3,0,3,3,2,0,2,2
+"3","1","VfL Wolfsburg - FC Schalke 04","VfL Wolfsburg","FC Schalke 04","3:0","1:3","Schmonkey",0,0,3,0,3,3,1,3,-2,2
+"4","1","Bor. Mönchengladbach - Hamburger SV","Bor. Mönchengladbach","Hamburger SV","0:3","2:0","Marc",0,0,0,3,-3,3,2,0,2,2
+"4","1","Bor. Mönchengladbach - Hamburger SV","Bor. Mönchengladbach","Hamburger SV","0:3","1:0","GesuSan",0,0,0,3,-3,3,1,0,1,1
+"4","1","Bor. Mönchengladbach - Hamburger SV","Bor. Mönchengladbach","Hamburger SV","0:3","2:1","AJ",0,0,0,3,-3,3,2,1,1,1
+"4","1","Bor. Mönchengladbach - Hamburger SV","Bor. Mönchengladbach","Hamburger SV","0:3","2:1","Kryztianov",0,0,0,3,-3,3,2,1,1,1
+"4","1","Bor. Mönchengladbach - Hamburger SV","Bor. Mönchengladbach","Hamburger SV","0:3","1:0","Chris",0,0,0,3,-3,3,1,0,1,1
+"4","1","Bor. Mönchengladbach - Hamburger SV","Bor. Mönchengladbach","Hamburger SV","0:3","2:0","BastiS.",0,0,0,3,-3,3,2,0,2,2
+"4","1","Bor. Mönchengladbach - Hamburger SV","Bor. Mönchengladbach","Hamburger SV","0:3","1:0","phil4delphia",0,0,0,3,-3,3,1,0,1,1
+"4","1","Bor. Mönchengladbach - Hamburger SV","Bor. Mönchengladbach","Hamburger SV","0:3","4:1","Schmonkey",0,0,0,3,-3,3,4,1,3,3
+"5","1","FSV Mainz 05 - 1899 Hoffenheim","FSV Mainz 05","1899 Hoffenheim","3:1","2:1","GesuSan",2,2,3,1,2,2,2,1,1,1
+"5","1","FSV Mainz 05 - 1899 Hoffenheim","FSV Mainz 05","1899 Hoffenheim","3:1","1:1","Kryztianov",0,0,3,1,2,2,1,1,0,0
+"5","1","FSV Mainz 05 - 1899 Hoffenheim","FSV Mainz 05","1899 Hoffenheim","3:1","1:1","Marc",0,0,3,1,2,2,1,1,0,0
+"5","1","FSV Mainz 05 - 1899 Hoffenheim","FSV Mainz 05","1899 Hoffenheim","3:1","1:2","Chris",0,0,3,1,2,2,1,2,-1,1
+"5","1","FSV Mainz 05 - 1899 Hoffenheim","FSV Mainz 05","1899 Hoffenheim","3:1","1:0","AJ",2,2,3,1,2,2,1,0,1,1
+"5","1","FSV Mainz 05 - 1899 Hoffenheim","FSV Mainz 05","1899 Hoffenheim","3:1","2:1","phil4delphia",2,2,3,1,2,2,2,1,1,1
+"5","1","FSV Mainz 05 - 1899 Hoffenheim","FSV Mainz 05","1899 Hoffenheim","3:1","1:1","BastiS.",0,0,3,1,2,2,1,1,0,0
+"5","1","FSV Mainz 05 - 1899 Hoffenheim","FSV Mainz 05","1899 Hoffenheim","3:1","3:0","Schmonkey",2,2,3,1,2,2,3,0,3,3
+"6","1","FC Bayern München - VfL Wolfsburg","FC Bayern München","VfL Wolfsburg","5:1","2:1","GesuSan",2,2,5,1,4,4,2,1,1,1
+"6","1","FC Bayern München - VfL Wolfsburg","FC Bayern München","VfL Wolfsburg","5:1","2:1","Chris",2,2,5,1,4,4,2,1,1,1
+"6","1","FC Bayern München - VfL Wolfsburg","FC Bayern München","VfL Wolfsburg","5:1","2:0","Kryztianov",2,2,5,1,4,4,2,0,2,2
+"6","1","FC Bayern München - VfL Wolfsburg","FC Bayern München","VfL Wolfsburg","5:1","2:1","Marc",2,2,5,1,4,4,2,1,1,1
+"6","1","FC Bayern München - VfL Wolfsburg","FC Bayern München","VfL Wolfsburg","5:1","2:1","AJ",2,2,5,1,4,4,2,1,1,1
+"6","1","FC Bayern München - VfL Wolfsburg","FC Bayern München","VfL Wolfsburg","5:1","3:0","Schmonkey",2,2,5,1,4,4,3,0,3,3
+"6","1","FC Bayern München - VfL Wolfsburg","FC Bayern München","VfL Wolfsburg","5:1","3:1","phil4delphia",2,2,5,1,4,4,3,1,2,2
+"6","1","FC Bayern München - VfL Wolfsburg","FC Bayern München","VfL Wolfsburg","5:1","2:0","BastiS.",2,2,5,1,4,4,2,0,2,2
+"7","1","1. FC Köln - FC Ingolstadt","1. FC Köln","FC Ingolstadt","1:1","1:0","GesuSan",0,0,1,1,0,0,1,0,1,1
+"7","1","1. FC Köln - FC Ingolstadt","1. FC Köln","FC Ingolstadt","1:1","2:1","Chris",0,0,1,1,0,0,2,1,1,1
+"7","1","1. FC Köln - FC Ingolstadt","1. FC Köln","FC Ingolstadt","1:1","2:0","Marc",0,0,1,1,0,0,2,0,2,2
+"7","1","1. FC Köln - FC Ingolstadt","1. FC Köln","FC Ingolstadt","1:1","2:0","Kryztianov",0,0,1,1,0,0,2,0,2,2
+"7","1","1. FC Köln - FC Ingolstadt","1. FC Köln","FC Ingolstadt","1:1","1:0","AJ",0,0,1,1,0,0,1,0,1,1
+"7","1","1. FC Köln - FC Ingolstadt","1. FC Köln","FC Ingolstadt","1:1","2:0","BastiS.",0,0,1,1,0,0,2,0,2,2
+"7","1","1. FC Köln - FC Ingolstadt","1. FC Köln","FC Ingolstadt","1:1","2:0","Schmonkey",0,0,1,1,0,0,2,0,2,2
+"7","1","1. FC Köln - FC Ingolstadt","1. FC Köln","FC Ingolstadt","1:1","1:0","phil4delphia",0,0,1,1,0,0,1,0,1,1
+"8","1","SV Darmstadt 98 - FSV Mainz 05","SV Darmstadt 98","FSV Mainz 05","2:3","2:1","GesuSan",0,0,2,3,-1,1,2,1,1,1
+"8","1","SV Darmstadt 98 - FSV Mainz 05","SV Darmstadt 98","FSV Mainz 05","2:3","1:1","Marc",0,0,2,3,-1,1,1,1,0,0
+"8","1","SV Darmstadt 98 - FSV Mainz 05","SV Darmstadt 98","FSV Mainz 05","2:3","NA:NA","Chris",0,0,2,3,-1,1,NA,NA,NA,NA
+"8","1","SV Darmstadt 98 - FSV Mainz 05","SV Darmstadt 98","FSV Mainz 05","2:3","1:2","Kryztianov",3,3,2,3,-1,1,1,2,-1,1
+"8","1","SV Darmstadt 98 - FSV Mainz 05","SV Darmstadt 98","FSV Mainz 05","2:3","2:0","Schmonkey",0,0,2,3,-1,1,2,0,2,2
+"8","1","SV Darmstadt 98 - FSV Mainz 05","SV Darmstadt 98","FSV Mainz 05","2:3","0:0","AJ",0,0,2,3,-1,1,0,0,0,0
+"8","1","SV Darmstadt 98 - FSV Mainz 05","SV Darmstadt 98","FSV Mainz 05","2:3","1:1","phil4delphia",0,0,2,3,-1,1,1,1,0,0
+"8","1","SV Darmstadt 98 - FSV Mainz 05","SV Darmstadt 98","FSV Mainz 05","2:3","2:0","BastiS.",0,0,2,3,-1,1,2,0,2,2
+"9","1","FSV Mainz 05 - Borussia Dortmund","FSV Mainz 05","Borussia Dortmund","0:2","1:2","GesuSan",2,2,0,2,-2,2,1,2,-1,1
+"9","1","FSV Mainz 05 - Borussia Dortmund","FSV Mainz 05","Borussia Dortmund","0:2","0:1","Marc",2,2,0,2,-2,2,0,1,-1,1
+"9","1","FSV Mainz 05 - Borussia Dortmund","FSV Mainz 05","Borussia Dortmund","0:2","0:1","Chris",2,2,0,2,-2,2,0,1,-1,1
+"9","1","FSV Mainz 05 - Borussia Dortmund","FSV Mainz 05","Borussia Dortmund","0:2","0:1","Schmonkey",2,2,0,2,-2,2,0,1,-1,1
+"9","1","FSV Mainz 05 - Borussia Dortmund","FSV Mainz 05","Borussia Dortmund","0:2","1:2","Kryztianov",2,2,0,2,-2,2,1,2,-1,1
+"9","1","FSV Mainz 05 - Borussia Dortmund","FSV Mainz 05","Borussia Dortmund","0:2","0:2","AJ",4,4,0,2,-2,2,0,2,-2,2
+"9","1","FSV Mainz 05 - Borussia Dortmund","FSV Mainz 05","Borussia Dortmund","0:2","2:1","phil4delphia",0,0,0,2,-2,2,2,1,1,1
+"9","1","FSV Mainz 05 - Borussia Dortmund","FSV Mainz 05","Borussia Dortmund","0:2","0:3","BastiS.",2,2,0,2,-2,2,0,3,-3,3
+"10","1","1899 Hoffenheim - Hamburger SV","1899 Hoffenheim","Hamburger SV","0:1","2:1","GesuSan",0,0,0,1,-1,1,2,1,1,1
+"10","1","1899 Hoffenheim - Hamburger SV","1899 Hoffenheim","Hamburger SV","0:1","2:1","Chris",0,0,0,1,-1,1,2,1,1,1
+"10","1","1899 Hoffenheim - Hamburger SV","1899 Hoffenheim","Hamburger SV","0:1","2:0","Marc",0,0,0,1,-1,1,2,0,2,2
+"10","1","1899 Hoffenheim - Hamburger SV","1899 Hoffenheim","Hamburger SV","0:1","2:0","Schmonkey",0,0,0,1,-1,1,2,0,2,2
+"10","1","1899 Hoffenheim - Hamburger SV","1899 Hoffenheim","Hamburger SV","0:1","1:1","Kryztianov",0,0,0,1,-1,1,1,1,0,0
+"10","1","1899 Hoffenheim - Hamburger SV","1899 Hoffenheim","Hamburger SV","0:1","1:1","AJ",0,0,0,1,-1,1,1,1,0,0
+"10","1","1899 Hoffenheim - Hamburger SV","1899 Hoffenheim","Hamburger SV","0:1","1:0","BastiS.",0,0,0,1,-1,1,1,0,1,1
+"10","1","1899 Hoffenheim - Hamburger SV","1899 Hoffenheim","Hamburger SV","0:1","2:1","phil4delphia",0,0,0,1,-1,1,2,1,1,1
+"11","1","Eintracht Frankfurt - FC Bayern München","Eintracht Frankfurt","FC Bayern München","0:0","0:3","GesuSan",0,0,0,0,0,0,0,3,-3,3
+"11","1","Eintracht Frankfurt - FC Bayern München","Eintracht Frankfurt","FC Bayern München","0:0","0:3","Marc",0,0,0,0,0,0,0,3,-3,3
+"11","1","Eintracht Frankfurt - FC Bayern München","Eintracht Frankfurt","FC Bayern München","0:0","0:2","Schmonkey",0,0,0,0,0,0,0,2,-2,2
+"11","1","Eintracht Frankfurt - FC Bayern München","Eintracht Frankfurt","FC Bayern München","0:0","0:4","Chris",0,0,0,0,0,0,0,4,-4,4
+"11","1","Eintracht Frankfurt - FC Bayern München","Eintracht Frankfurt","FC Bayern München","0:0","0:3","Kryztianov",0,0,0,0,0,0,0,3,-3,3
+"11","1","Eintracht Frankfurt - FC Bayern München","Eintracht Frankfurt","FC Bayern München","0:0","0:3","AJ",0,0,0,0,0,0,0,3,-3,3
+"11","1","Eintracht Frankfurt - FC Bayern München","Eintracht Frankfurt","FC Bayern München","0:0","0:3","phil4delphia",0,0,0,0,0,0,0,3,-3,3
+"11","1","Eintracht Frankfurt - FC Bayern München","Eintracht Frankfurt","FC Bayern München","0:0","0:4","BastiS.",0,0,0,0,0,0,0,4,-4,4
+"12","1","Hannover 96 - Hertha BSC","Hannover 96","Hertha BSC","1:3","2:0","GesuSan",0,0,1,3,-2,2,2,0,2,2
+"12","1","Hannover 96 - Hertha BSC","Hannover 96","Hertha BSC","1:3","1:0","Marc",0,0,1,3,-2,2,1,0,1,1
+"12","1","Hannover 96 - Hertha BSC","Hannover 96","Hertha BSC","1:3","0:1","Schmonkey",2,2,1,3,-2,2,0,1,-1,1
+"12","1","Hannover 96 - Hertha BSC","Hannover 96","Hertha BSC","1:3","2:1","Chris",0,0,1,3,-2,2,2,1,1,1
+"12","1","Hannover 96 - Hertha BSC","Hannover 96","Hertha BSC","1:3","0:1","Kryztianov",2,2,1,3,-2,2,0,1,-1,1
+"12","1","Hannover 96 - Hertha BSC","Hannover 96","Hertha BSC","1:3","0:1","AJ",2,2,1,3,-2,2,0,1,-1,1
+"12","1","Hannover 96 - Hertha BSC","Hannover 96","Hertha BSC","1:3","2:1","phil4delphia",0,0,1,3,-2,2,2,1,1,1
+"12","1","Hannover 96 - Hertha BSC","Hannover 96","Hertha BSC","1:3","1:1","BastiS.",0,0,1,3,-2,2,1,1,0,0
+"13","1","Hamburger SV - Borussia Dortmund","Hamburger SV","Borussia Dortmund","3:1","1:2","GesuSan",0,0,3,1,2,2,1,2,-1,1
+"13","1","Hamburger SV - Borussia Dortmund","Hamburger SV","Borussia Dortmund","3:1","0:3","Schmonkey",0,0,3,1,2,2,0,3,-3,3
+"13","1","Hamburger SV - Borussia Dortmund","Hamburger SV","Borussia Dortmund","3:1","0:2","Marc",0,0,3,1,2,2,0,2,-2,2
+"13","1","Hamburger SV - Borussia Dortmund","Hamburger SV","Borussia Dortmund","3:1","0:2","Chris",0,0,3,1,2,2,0,2,-2,2
+"13","1","Hamburger SV - Borussia Dortmund","Hamburger SV","Borussia Dortmund","3:1","1:3","Kryztianov",0,0,3,1,2,2,1,3,-2,2
+"13","1","Hamburger SV - Borussia Dortmund","Hamburger SV","Borussia Dortmund","3:1","0:2","AJ",0,0,3,1,2,2,0,2,-2,2
+"13","1","Hamburger SV - Borussia Dortmund","Hamburger SV","Borussia Dortmund","3:1","2:1","phil4delphia",2,2,3,1,2,2,2,1,1,1
+"13","1","Hamburger SV - Borussia Dortmund","Hamburger SV","Borussia Dortmund","3:1","0:3","BastiS.",0,0,3,1,2,2,0,3,-3,3
+"14","1","SV Darmstadt 98 - 1. FC Köln","SV Darmstadt 98","1. FC Köln","0:0","1:2","GesuSan",0,0,0,0,0,0,1,2,-1,1
+"14","1","SV Darmstadt 98 - 1. FC Köln","SV Darmstadt 98","1. FC Köln","0:0","0:2","Schmonkey",0,0,0,0,0,0,0,2,-2,2
+"14","1","SV Darmstadt 98 - 1. FC Köln","SV Darmstadt 98","1. FC Köln","0:0","1:1","Marc",2,2,0,0,0,0,1,1,0,0
+"14","1","SV Darmstadt 98 - 1. FC Köln","SV Darmstadt 98","1. FC Köln","0:0","NA:NA","Chris",0,0,0,0,0,0,NA,NA,NA,NA
+"14","1","SV Darmstadt 98 - 1. FC Köln","SV Darmstadt 98","1. FC Köln","0:0","0:0","phil4delphia",4,4,0,0,0,0,0,0,0,0
+"14","1","SV Darmstadt 98 - 1. FC Köln","SV Darmstadt 98","1. FC Köln","0:0","1:1","Kryztianov",2,2,0,0,0,0,1,1,0,0
+"14","1","SV Darmstadt 98 - 1. FC Köln","SV Darmstadt 98","1. FC Köln","0:0","0:1","AJ",0,0,0,0,0,0,0,1,-1,1
+"14","1","SV Darmstadt 98 - 1. FC Köln","SV Darmstadt 98","1. FC Köln","0:0","1:2","BastiS.",0,0,0,0,0,0,1,2,-1,1
+"15","1","FC Schalke 04 - Hannover 96","FC Schalke 04","Hannover 96","3:1","2:0","GesuSan",3,3,3,1,2,2,2,0,2,2
+"15","1","FC Schalke 04 - Hannover 96","FC Schalke 04","Hannover 96","3:1","2:1","Schmonkey",2,2,3,1,2,2,2,1,1,1
+"15","1","FC Schalke 04 - Hannover 96","FC Schalke 04","Hannover 96","3:1","2:0","Marc",3,3,3,1,2,2,2,0,2,2
+"15","1","FC Schalke 04 - Hannover 96","FC Schalke 04","Hannover 96","3:1","2:0","Chris",3,3,3,1,2,2,2,0,2,2
+"15","1","FC Schalke 04 - Hannover 96","FC Schalke 04","Hannover 96","3:1","1:1","Kryztianov",0,0,3,1,2,2,1,1,0,0
+"15","1","FC Schalke 04 - Hannover 96","FC Schalke 04","Hannover 96","3:1","1:1","phil4delphia",0,0,3,1,2,2,1,1,0,0
+"15","1","FC Schalke 04 - Hannover 96","FC Schalke 04","Hannover 96","3:1","2:0","AJ",3,3,3,1,2,2,2,0,2,2
+"15","1","FC Schalke 04 - Hannover 96","FC Schalke 04","Hannover 96","3:1","2:0","BastiS.",3,3,3,1,2,2,2,0,2,2
+"1","2","Bayer 04 Leverkusen - 1899 Hoffenheim","Bayer 04 Leverkusen","1899 Hoffenheim","2:1","2:1","GesuSan",4,4,2,1,1,1,2,1,1,1
+"1","2","Bayer 04 Leverkusen - 1899 Hoffenheim","Bayer 04 Leverkusen","1899 Hoffenheim","2:1","1:0","Marc",3,3,2,1,1,1,1,0,1,1
+"1","2","Bayer 04 Leverkusen - 1899 Hoffenheim","Bayer 04 Leverkusen","1899 Hoffenheim","2:1","2:1","AJ",4,4,2,1,1,1,2,1,1,1
+"1","2","Bayer 04 Leverkusen - 1899 Hoffenheim","Bayer 04 Leverkusen","1899 Hoffenheim","2:1","3:1","BastiS.",2,2,2,1,1,1,3,1,2,2
+"1","2","Bayer 04 Leverkusen - 1899 Hoffenheim","Bayer 04 Leverkusen","1899 Hoffenheim","2:1","2:0","Kryztianov",2,2,2,1,1,1,2,0,2,2
+"1","2","Bayer 04 Leverkusen - 1899 Hoffenheim","Bayer 04 Leverkusen","1899 Hoffenheim","2:1","3:1","phil4delphia",2,2,2,1,1,1,3,1,2,2
+"1","2","Bayer 04 Leverkusen - 1899 Hoffenheim","Bayer 04 Leverkusen","1899 Hoffenheim","2:1","1:1","Chris",0,0,2,1,1,1,1,1,0,0
+"1","2","Bayer 04 Leverkusen - 1899 Hoffenheim","Bayer 04 Leverkusen","1899 Hoffenheim","2:1","2:0","Schmonkey",2,2,2,1,1,1,2,0,2,2
+"2","2","Eintracht Frankfurt - FC Augsburg","Eintracht Frankfurt","FC Augsburg","1:1","2:1","Marc",0,0,1,1,0,0,2,1,1,1
+"2","2","Eintracht Frankfurt - FC Augsburg","Eintracht Frankfurt","FC Augsburg","1:1","2:1","GesuSan",0,0,1,1,0,0,2,1,1,1
+"2","2","Eintracht Frankfurt - FC Augsburg","Eintracht Frankfurt","FC Augsburg","1:1","1:1","Kryztianov",4,4,1,1,0,0,1,1,0,0
+"2","2","Eintracht Frankfurt - FC Augsburg","Eintracht Frankfurt","FC Augsburg","1:1","1:1","AJ",4,4,1,1,0,0,1,1,0,0
+"2","2","Eintracht Frankfurt - FC Augsburg","Eintracht Frankfurt","FC Augsburg","1:1","2:1","BastiS.",0,0,1,1,0,0,2,1,1,1
+"2","2","Eintracht Frankfurt - FC Augsburg","Eintracht Frankfurt","FC Augsburg","1:1","2:1","Chris",0,0,1,1,0,0,2,1,1,1
+"2","2","Eintracht Frankfurt - FC Augsburg","Eintracht Frankfurt","FC Augsburg","1:1","2:1","phil4delphia",0,0,1,1,0,0,2,1,1,1
+"2","2","Eintracht Frankfurt - FC Augsburg","Eintracht Frankfurt","FC Augsburg","1:1","2:2","Schmonkey",2,2,1,1,0,0,2,2,0,0
+"3","2","1. FC Köln - Hamburger SV","1. FC Köln","Hamburger SV","2:1","1:0","Marc",3,3,2,1,1,1,1,0,1,1
+"3","2","1. FC Köln - Hamburger SV","1. FC Köln","Hamburger SV","2:1","2:1","Kryztianov",4,4,2,1,1,1,2,1,1,1
+"3","2","1. FC Köln - Hamburger SV","1. FC Köln","Hamburger SV","2:1","2:0","GesuSan",2,2,2,1,1,1,2,0,2,2
+"3","2","1. FC Köln - Hamburger SV","1. FC Köln","Hamburger SV","2:1","2:0","AJ",2,2,2,1,1,1,2,0,2,2
+"3","2","1. FC Köln - Hamburger SV","1. FC Köln","Hamburger SV","2:1","1:0","Chris",3,3,2,1,1,1,1,0,1,1
+"3","2","1. FC Köln - Hamburger SV","1. FC Köln","Hamburger SV","2:1","2:1","phil4delphia",4,4,2,1,1,1,2,1,1,1
+"3","2","1. FC Köln - Hamburger SV","1. FC Köln","Hamburger SV","2:1","2:0","BastiS.",2,2,2,1,1,1,2,0,2,2
+"3","2","1. FC Köln - Hamburger SV","1. FC Köln","Hamburger SV","2:1","1:2","Schmonkey",0,0,2,1,1,1,1,2,-1,1
+"4","2","Hertha BSC - VfB Stuttgart","Hertha BSC","VfB Stuttgart","2:1","1:1","Marc",0,0,2,1,1,1,1,1,0,0
+"4","2","Hertha BSC - VfB Stuttgart","Hertha BSC","VfB Stuttgart","2:1","1:0","GesuSan",3,3,2,1,1,1,1,0,1,1
+"4","2","Hertha BSC - VfB Stuttgart","Hertha BSC","VfB Stuttgart","2:1","2:3","AJ",0,0,2,1,1,1,2,3,-1,1
+"4","2","Hertha BSC - VfB Stuttgart","Hertha BSC","VfB Stuttgart","2:1","1:1","Kryztianov",0,0,2,1,1,1,1,1,0,0
+"4","2","Hertha BSC - VfB Stuttgart","Hertha BSC","VfB Stuttgart","2:1","2:1","Chris",4,4,2,1,1,1,2,1,1,1
+"4","2","Hertha BSC - VfB Stuttgart","Hertha BSC","VfB Stuttgart","2:1","1:2","BastiS.",0,0,2,1,1,1,1,2,-1,1
+"4","2","Hertha BSC - VfB Stuttgart","Hertha BSC","VfB Stuttgart","2:1","1:2","phil4delphia",0,0,2,1,1,1,1,2,-1,1
+"4","2","Hertha BSC - VfB Stuttgart","Hertha BSC","VfB Stuttgart","2:1","2:1","Schmonkey",4,4,2,1,1,1,2,1,1,1
+"5","2","VfL Wolfsburg - Hertha BSC","VfL Wolfsburg","Hertha BSC","2:0","2:0","GesuSan",4,4,2,0,2,2,2,0,2,2
+"5","2","VfL Wolfsburg - Hertha BSC","VfL Wolfsburg","Hertha BSC","2:0","2:0","Kryztianov",4,4,2,0,2,2,2,0,2,2
+"5","2","VfL Wolfsburg - Hertha BSC","VfL Wolfsburg","Hertha BSC","2:0","2:0","Marc",4,4,2,0,2,2,2,0,2,2
+"5","2","VfL Wolfsburg - Hertha BSC","VfL Wolfsburg","Hertha BSC","2:0","2:1","Chris",2,2,2,0,2,2,2,1,1,1
+"5","2","VfL Wolfsburg - Hertha BSC","VfL Wolfsburg","Hertha BSC","2:0","2:0","AJ",4,4,2,0,2,2,2,0,2,2
+"5","2","VfL Wolfsburg - Hertha BSC","VfL Wolfsburg","Hertha BSC","2:0","2:1","phil4delphia",2,2,2,0,2,2,2,1,1,1
+"5","2","VfL Wolfsburg - Hertha BSC","VfL Wolfsburg","Hertha BSC","2:0","3:0","BastiS.",2,2,2,0,2,2,3,0,3,3
+"5","2","VfL Wolfsburg - Hertha BSC","VfL Wolfsburg","Hertha BSC","2:0","2:1","Schmonkey",2,2,2,0,2,2,2,1,1,1
+"6","2","SV Darmstadt 98 - Werder Bremen","SV Darmstadt 98","Werder Bremen","2:1","2:1","GesuSan",4,4,2,1,1,1,2,1,1,1
+"6","2","SV Darmstadt 98 - Werder Bremen","SV Darmstadt 98","Werder Bremen","2:1","1:0","Chris",3,3,2,1,1,1,1,0,1,1
+"6","2","SV Darmstadt 98 - Werder Bremen","SV Darmstadt 98","Werder Bremen","2:1","0:1","Kryztianov",0,0,2,1,1,1,0,1,-1,1
+"6","2","SV Darmstadt 98 - Werder Bremen","SV Darmstadt 98","Werder Bremen","2:1","1:1","Marc",0,0,2,1,1,1,1,1,0,0
+"6","2","SV Darmstadt 98 - Werder Bremen","SV Darmstadt 98","Werder Bremen","2:1","1:1","AJ",0,0,2,1,1,1,1,1,0,0
+"6","2","SV Darmstadt 98 - Werder Bremen","SV Darmstadt 98","Werder Bremen","2:1","2:1","Schmonkey",4,4,2,1,1,1,2,1,1,1
+"6","2","SV Darmstadt 98 - Werder Bremen","SV Darmstadt 98","Werder Bremen","2:1","1:1","phil4delphia",0,0,2,1,1,1,1,1,0,0
+"6","2","SV Darmstadt 98 - Werder Bremen","SV Darmstadt 98","Werder Bremen","2:1","1:1","BastiS.",0,0,2,1,1,1,1,1,0,0
+"7","2","VfB Stuttgart - Bor. Mönchengladbach","VfB Stuttgart","Bor. Mönchengladbach","1:3","1:0","GesuSan",0,0,1,3,-2,2,1,0,1,1
+"7","2","VfB Stuttgart - Bor. Mönchengladbach","VfB Stuttgart","Bor. Mönchengladbach","1:3","0:1","Chris",2,2,1,3,-2,2,0,1,-1,1
+"7","2","VfB Stuttgart - Bor. Mönchengladbach","VfB Stuttgart","Bor. Mönchengladbach","1:3","1:2","Marc",2,2,1,3,-2,2,1,2,-1,1
+"7","2","VfB Stuttgart - Bor. Mönchengladbach","VfB Stuttgart","Bor. Mönchengladbach","1:3","2:2","Kryztianov",0,0,1,3,-2,2,2,2,0,0
+"7","2","VfB Stuttgart - Bor. Mönchengladbach","VfB Stuttgart","Bor. Mönchengladbach","1:3","1:2","AJ",2,2,1,3,-2,2,1,2,-1,1
+"7","2","VfB Stuttgart - Bor. Mönchengladbach","VfB Stuttgart","Bor. Mönchengladbach","1:3","1:3","BastiS.",4,4,1,3,-2,2,1,3,-2,2
+"7","2","VfB Stuttgart - Bor. Mönchengladbach","VfB Stuttgart","Bor. Mönchengladbach","1:3","2:4","Schmonkey",3,3,1,3,-2,2,2,4,-2,2
+"7","2","VfB Stuttgart - Bor. Mönchengladbach","VfB Stuttgart","Bor. Mönchengladbach","1:3","3:2","phil4delphia",0,0,1,3,-2,2,3,2,1,1
+"8","2","Hertha BSC - Hamburger SV","Hertha BSC","Hamburger SV","3:0","1:0","GesuSan",2,2,3,0,3,3,1,0,1,1
+"8","2","Hertha BSC - Hamburger SV","Hertha BSC","Hamburger SV","3:0","1:0","Marc",2,2,3,0,3,3,1,0,1,1
+"8","2","Hertha BSC - Hamburger SV","Hertha BSC","Hamburger SV","3:0","1:2","Chris",0,0,3,0,3,3,1,2,-1,1
+"8","2","Hertha BSC - Hamburger SV","Hertha BSC","Hamburger SV","3:0","1:1","Kryztianov",0,0,3,0,3,3,1,1,0,0
+"8","2","Hertha BSC - Hamburger SV","Hertha BSC","Hamburger SV","3:0","1:2","Schmonkey",0,0,3,0,3,3,1,2,-1,1
+"8","2","Hertha BSC - Hamburger SV","Hertha BSC","Hamburger SV","3:0","1:1","AJ",0,0,3,0,3,3,1,1,0,0
+"8","2","Hertha BSC - Hamburger SV","Hertha BSC","Hamburger SV","3:0","2:1","phil4delphia",2,2,3,0,3,3,2,1,1,1
+"8","2","Hertha BSC - Hamburger SV","Hertha BSC","Hamburger SV","3:0","1:1","BastiS.",0,0,3,0,3,3,1,1,0,0
+"9","2","Hamburger SV - Bayer 04 Leverkusen","Hamburger SV","Bayer 04 Leverkusen","0:0","0:2","GesuSan",0,0,0,0,0,0,0,2,-2,2
+"9","2","Hamburger SV - Bayer 04 Leverkusen","Hamburger SV","Bayer 04 Leverkusen","0:0","1:2","Marc",0,0,0,0,0,0,1,2,-1,1
+"9","2","Hamburger SV - Bayer 04 Leverkusen","Hamburger SV","Bayer 04 Leverkusen","0:0","1:2","Chris",0,0,0,0,0,0,1,2,-1,1
+"9","2","Hamburger SV - Bayer 04 Leverkusen","Hamburger SV","Bayer 04 Leverkusen","0:0","2:1","Schmonkey",0,0,0,0,0,0,2,1,1,1
+"9","2","Hamburger SV - Bayer 04 Leverkusen","Hamburger SV","Bayer 04 Leverkusen","0:0","1:2","Kryztianov",0,0,0,0,0,0,1,2,-1,1
+"9","2","Hamburger SV - Bayer 04 Leverkusen","Hamburger SV","Bayer 04 Leverkusen","0:0","1:2","AJ",0,0,0,0,0,0,1,2,-1,1
+"9","2","Hamburger SV - Bayer 04 Leverkusen","Hamburger SV","Bayer 04 Leverkusen","0:0","0:2","phil4delphia",0,0,0,0,0,0,0,2,-2,2
+"9","2","Hamburger SV - Bayer 04 Leverkusen","Hamburger SV","Bayer 04 Leverkusen","0:0","1:2","BastiS.",0,0,0,0,0,0,1,2,-1,1
+"10","2","FSV Mainz 05 - Werder Bremen","FSV Mainz 05","Werder Bremen","1:3","1:0","GesuSan",0,0,1,3,-2,2,1,0,1,1
+"10","2","FSV Mainz 05 - Werder Bremen","FSV Mainz 05","Werder Bremen","1:3","1:2","Chris",2,2,1,3,-2,2,1,2,-1,1
+"10","2","FSV Mainz 05 - Werder Bremen","FSV Mainz 05","Werder Bremen","1:3","1:2","Marc",2,2,1,3,-2,2,1,2,-1,1
+"10","2","FSV Mainz 05 - Werder Bremen","FSV Mainz 05","Werder Bremen","1:3","3:0","Schmonkey",0,0,1,3,-2,2,3,0,3,3
+"10","2","FSV Mainz 05 - Werder Bremen","FSV Mainz 05","Werder Bremen","1:3","2:1","Kryztianov",0,0,1,3,-2,2,2,1,1,1
+"10","2","FSV Mainz 05 - Werder Bremen","FSV Mainz 05","Werder Bremen","1:3","2:1","AJ",0,0,1,3,-2,2,2,1,1,1
+"10","2","FSV Mainz 05 - Werder Bremen","FSV Mainz 05","Werder Bremen","1:3","2:2","BastiS.",0,0,1,3,-2,2,2,2,0,0
+"10","2","FSV Mainz 05 - Werder Bremen","FSV Mainz 05","Werder Bremen","1:3","2:0","phil4delphia",0,0,1,3,-2,2,2,0,2,2
+"11","2","Hertha BSC - Bor. Mönchengladbach","Hertha BSC","Bor. Mönchengladbach","1:4","1:2","GesuSan",2,2,1,4,-3,3,1,2,-1,1
+"11","2","Hertha BSC - Bor. Mönchengladbach","Hertha BSC","Bor. Mönchengladbach","1:4","0:1","Marc",2,2,1,4,-3,3,0,1,-1,1
+"11","2","Hertha BSC - Bor. Mönchengladbach","Hertha BSC","Bor. Mönchengladbach","1:4","1:2","Schmonkey",2,2,1,4,-3,3,1,2,-1,1
+"11","2","Hertha BSC - Bor. Mönchengladbach","Hertha BSC","Bor. Mönchengladbach","1:4","1:2","Chris",2,2,1,4,-3,3,1,2,-1,1
+"11","2","Hertha BSC - Bor. Mönchengladbach","Hertha BSC","Bor. Mönchengladbach","1:4","1:1","Kryztianov",0,0,1,4,-3,3,1,1,0,0
+"11","2","Hertha BSC - Bor. Mönchengladbach","Hertha BSC","Bor. Mönchengladbach","1:4","1:2","AJ",2,2,1,4,-3,3,1,2,-1,1
+"11","2","Hertha BSC - Bor. Mönchengladbach","Hertha BSC","Bor. Mönchengladbach","1:4","1:2","phil4delphia",2,2,1,4,-3,3,1,2,-1,1
+"11","2","Hertha BSC - Bor. Mönchengladbach","Hertha BSC","Bor. Mönchengladbach","1:4","0:3","BastiS.",3,3,1,4,-3,3,0,3,-3,3
+"12","2","FSV Mainz 05 - VfL Wolfsburg","FSV Mainz 05","VfL Wolfsburg","2:0","1:2","GesuSan",0,0,2,0,2,2,1,2,-1,1
+"12","2","FSV Mainz 05 - VfL Wolfsburg","FSV Mainz 05","VfL Wolfsburg","2:0","0:2","Marc",0,0,2,0,2,2,0,2,-2,2
+"12","2","FSV Mainz 05 - VfL Wolfsburg","FSV Mainz 05","VfL Wolfsburg","2:0","2:1","Schmonkey",2,2,2,0,2,2,2,1,1,1
+"12","2","FSV Mainz 05 - VfL Wolfsburg","FSV Mainz 05","VfL Wolfsburg","2:0","1:2","Chris",0,0,2,0,2,2,1,2,-1,1
+"12","2","FSV Mainz 05 - VfL Wolfsburg","FSV Mainz 05","VfL Wolfsburg","2:0","1:1","Kryztianov",0,0,2,0,2,2,1,1,0,0
+"12","2","FSV Mainz 05 - VfL Wolfsburg","FSV Mainz 05","VfL Wolfsburg","2:0","1:2","AJ",0,0,2,0,2,2,1,2,-1,1
+"12","2","FSV Mainz 05 - VfL Wolfsburg","FSV Mainz 05","VfL Wolfsburg","2:0","0:2","phil4delphia",0,0,2,0,2,2,0,2,-2,2
+"12","2","FSV Mainz 05 - VfL Wolfsburg","FSV Mainz 05","VfL Wolfsburg","2:0","0:2","BastiS.",0,0,2,0,2,2,0,2,-2,2
+"13","2","1. FC Köln - FSV Mainz 05","1. FC Köln","FSV Mainz 05","0:0","2:1","GesuSan",0,0,0,0,0,0,2,1,1,1
+"13","2","1. FC Köln - FSV Mainz 05","1. FC Köln","FSV Mainz 05","0:0","1:2","Schmonkey",0,0,0,0,0,0,1,2,-1,1
+"13","2","1. FC Köln - FSV Mainz 05","1. FC Köln","FSV Mainz 05","0:0","2:1","Marc",0,0,0,0,0,0,2,1,1,1
+"13","2","1. FC Köln - FSV Mainz 05","1. FC Köln","FSV Mainz 05","0:0","1:1","Chris",2,2,0,0,0,0,1,1,0,0
+"13","2","1. FC Köln - FSV Mainz 05","1. FC Köln","FSV Mainz 05","0:0","2:1","Kryztianov",0,0,0,0,0,0,2,1,1,1
+"13","2","1. FC Köln - FSV Mainz 05","1. FC Köln","FSV Mainz 05","0:0","1:1","AJ",2,2,0,0,0,0,1,1,0,0
+"13","2","1. FC Köln - FSV Mainz 05","1. FC Köln","FSV Mainz 05","0:0","1:0","phil4delphia",0,0,0,0,0,0,1,0,1,1
+"13","2","1. FC Köln - FSV Mainz 05","1. FC Köln","FSV Mainz 05","0:0","2:1","BastiS.",0,0,0,0,0,0,2,1,1,1
+"14","2","FC Bayern München - Hertha BSC","FC Bayern München","Hertha BSC","2:0","5:0","GesuSan",2,2,2,0,2,2,5,0,5,5
+"14","2","FC Bayern München - Hertha BSC","FC Bayern München","Hertha BSC","2:0","5:0","Schmonkey",2,2,2,0,2,2,5,0,5,5
+"14","2","FC Bayern München - Hertha BSC","FC Bayern München","Hertha BSC","2:0","3:0","Marc",2,2,2,0,2,2,3,0,3,3
+"14","2","FC Bayern München - Hertha BSC","FC Bayern München","Hertha BSC","2:0","3:0","Chris",2,2,2,0,2,2,3,0,3,3
+"14","2","FC Bayern München - Hertha BSC","FC Bayern München","Hertha BSC","2:0","4:0","phil4delphia",2,2,2,0,2,2,4,0,4,4
+"14","2","FC Bayern München - Hertha BSC","FC Bayern München","Hertha BSC","2:0","3:0","Kryztianov",2,2,2,0,2,2,3,0,3,3
+"14","2","FC Bayern München - Hertha BSC","FC Bayern München","Hertha BSC","2:0","4:1","AJ",2,2,2,0,2,2,4,1,3,3
+"14","2","FC Bayern München - Hertha BSC","FC Bayern München","Hertha BSC","2:0","4:0","BastiS.",2,2,2,0,2,2,4,0,4,4
+"15","2","Hertha BSC - Bayer 04 Leverkusen","Hertha BSC","Bayer 04 Leverkusen","2:1","1:2","GesuSan",0,0,2,1,1,1,1,2,-1,1
+"15","2","Hertha BSC - Bayer 04 Leverkusen","Hertha BSC","Bayer 04 Leverkusen","2:1","0:2","Schmonkey",0,0,2,1,1,1,0,2,-2,2
+"15","2","Hertha BSC - Bayer 04 Leverkusen","Hertha BSC","Bayer 04 Leverkusen","2:1","1:1","Marc",0,0,2,1,1,1,1,1,0,0
+"15","2","Hertha BSC - Bayer 04 Leverkusen","Hertha BSC","Bayer 04 Leverkusen","2:1","1:2","Chris",0,0,2,1,1,1,1,2,-1,1
+"15","2","Hertha BSC - Bayer 04 Leverkusen","Hertha BSC","Bayer 04 Leverkusen","2:1","1:1","Kryztianov",0,0,2,1,1,1,1,1,0,0
+"15","2","Hertha BSC - Bayer 04 Leverkusen","Hertha BSC","Bayer 04 Leverkusen","2:1","1:0","phil4delphia",3,3,2,1,1,1,1,0,1,1
+"15","2","Hertha BSC - Bayer 04 Leverkusen","Hertha BSC","Bayer 04 Leverkusen","2:1","1:2","AJ",0,0,2,1,1,1,1,2,-1,1
+"15","2","Hertha BSC - Bayer 04 Leverkusen","Hertha BSC","Bayer 04 Leverkusen","2:1","1:3","BastiS.",0,0,2,1,1,1,1,3,-2,2
+"1","3","FSV Mainz 05 - FC Ingolstadt","FSV Mainz 05","FC Ingolstadt","0:1","1:1","GesuSan",0,0,0,1,-1,1,1,1,0,0
+"1","3","FSV Mainz 05 - FC Ingolstadt","FSV Mainz 05","FC Ingolstadt","0:1","2:0","Marc",0,0,0,1,-1,1,2,0,2,2
+"1","3","FSV Mainz 05 - FC Ingolstadt","FSV Mainz 05","FC Ingolstadt","0:1","2:0","AJ",0,0,0,1,-1,1,2,0,2,2
+"1","3","FSV Mainz 05 - FC Ingolstadt","FSV Mainz 05","FC Ingolstadt","0:1","2:0","BastiS.",0,0,0,1,-1,1,2,0,2,2
+"1","3","FSV Mainz 05 - FC Ingolstadt","FSV Mainz 05","FC Ingolstadt","0:1","1:0","Kryztianov",0,0,0,1,-1,1,1,0,1,1
+"1","3","FSV Mainz 05 - FC Ingolstadt","FSV Mainz 05","FC Ingolstadt","0:1","2:1","phil4delphia",0,0,0,1,-1,1,2,1,1,1
+"1","3","FSV Mainz 05 - FC Ingolstadt","FSV Mainz 05","FC Ingolstadt","0:1","1:0","Chris",0,0,0,1,-1,1,1,0,1,1
+"1","3","FSV Mainz 05 - FC Ingolstadt","FSV Mainz 05","FC Ingolstadt","0:1","2:1","Schmonkey",0,0,0,1,-1,1,2,1,1,1
+"2","3","1. FC Köln - VfL Wolfsburg","1. FC Köln","VfL Wolfsburg","1:1","0:1","Marc",0,0,1,1,0,0,0,1,-1,1
+"2","3","1. FC Köln - VfL Wolfsburg","1. FC Köln","VfL Wolfsburg","1:1","1:2","GesuSan",0,0,1,1,0,0,1,2,-1,1
+"2","3","1. FC Köln - VfL Wolfsburg","1. FC Köln","VfL Wolfsburg","1:1","1:2","Kryztianov",0,0,1,1,0,0,1,2,-1,1
+"2","3","1. FC Köln - VfL Wolfsburg","1. FC Köln","VfL Wolfsburg","1:1","1:2","AJ",0,0,1,1,0,0,1,2,-1,1
+"2","3","1. FC Köln - VfL Wolfsburg","1. FC Köln","VfL Wolfsburg","1:1","0:3","BastiS.",0,0,1,1,0,0,0,3,-3,3
+"2","3","1. FC Köln - VfL Wolfsburg","1. FC Köln","VfL Wolfsburg","1:1","1:3","Chris",0,0,1,1,0,0,1,3,-2,2
+"2","3","1. FC Köln - VfL Wolfsburg","1. FC Köln","VfL Wolfsburg","1:1","1:1","phil4delphia",4,4,1,1,0,0,1,1,0,0
+"2","3","1. FC Köln - VfL Wolfsburg","1. FC Köln","VfL Wolfsburg","1:1","2:2","Schmonkey",2,2,1,1,0,0,2,2,0,0
+"3","3","FC Augsburg - FC Ingolstadt","FC Augsburg","FC Ingolstadt","0:1","2:1","Marc",0,0,0,1,-1,1,2,1,1,1
+"3","3","FC Augsburg - FC Ingolstadt","FC Augsburg","FC Ingolstadt","0:1","2:0","Kryztianov",0,0,0,1,-1,1,2,0,2,2
+"3","3","FC Augsburg - FC Ingolstadt","FC Augsburg","FC Ingolstadt","0:1","2:1","GesuSan",0,0,0,1,-1,1,2,1,1,1
+"3","3","FC Augsburg - FC Ingolstadt","FC Augsburg","FC Ingolstadt","0:1","3:1","AJ",0,0,0,1,-1,1,3,1,2,2
+"3","3","FC Augsburg - FC Ingolstadt","FC Augsburg","FC Ingolstadt","0:1","2:1","Chris",0,0,0,1,-1,1,2,1,1,1
+"3","3","FC Augsburg - FC Ingolstadt","FC Augsburg","FC Ingolstadt","0:1","1:0","phil4delphia",0,0,0,1,-1,1,1,0,1,1
+"3","3","FC Augsburg - FC Ingolstadt","FC Augsburg","FC Ingolstadt","0:1","2:2","BastiS.",0,0,0,1,-1,1,2,2,0,0
+"3","3","FC Augsburg - FC Ingolstadt","FC Augsburg","FC Ingolstadt","0:1","2:1","Schmonkey",0,0,0,1,-1,1,2,1,1,1
+"4","3","Hannover 96 - Borussia Dortmund","Hannover 96","Borussia Dortmund","2:4","0:2","Marc",3,3,2,4,-2,2,0,2,-2,2
+"4","3","Hannover 96 - Borussia Dortmund","Hannover 96","Borussia Dortmund","2:4","0:2","GesuSan",3,3,2,4,-2,2,0,2,-2,2
+"4","3","Hannover 96 - Borussia Dortmund","Hannover 96","Borussia Dortmund","2:4","0:2","AJ",3,3,2,4,-2,2,0,2,-2,2
+"4","3","Hannover 96 - Borussia Dortmund","Hannover 96","Borussia Dortmund","2:4","0:2","Kryztianov",3,3,2,4,-2,2,0,2,-2,2
+"4","3","Hannover 96 - Borussia Dortmund","Hannover 96","Borussia Dortmund","2:4","0:3","Chris",2,2,2,4,-2,2,0,3,-3,3
+"4","3","Hannover 96 - Borussia Dortmund","Hannover 96","Borussia Dortmund","2:4","0:3","BastiS.",2,2,2,4,-2,2,0,3,-3,3
+"4","3","Hannover 96 - Borussia Dortmund","Hannover 96","Borussia Dortmund","2:4","1:3","phil4delphia",3,3,2,4,-2,2,1,3,-2,2
+"4","3","Hannover 96 - Borussia Dortmund","Hannover 96","Borussia Dortmund","2:4","0:3","Schmonkey",2,2,2,4,-2,2,0,3,-3,3
+"5","3","1. FC Köln - Bor. Mönchengladbach","1. FC Köln","Bor. Mönchengladbach","1:0","1:0","GesuSan",4,4,1,0,1,1,1,0,1,1
+"5","3","1. FC Köln - Bor. Mönchengladbach","1. FC Köln","Bor. Mönchengladbach","1:0","1:1","Kryztianov",0,0,1,0,1,1,1,1,0,0
+"5","3","1. FC Köln - Bor. Mönchengladbach","1. FC Köln","Bor. Mönchengladbach","1:0","2:0","Marc",2,2,1,0,1,1,2,0,2,2
+"5","3","1. FC Köln - Bor. Mönchengladbach","1. FC Köln","Bor. Mönchengladbach","1:0","2:2","Chris",0,0,1,0,1,1,2,2,0,0
+"5","3","1. FC Köln - Bor. Mönchengladbach","1. FC Köln","Bor. Mönchengladbach","1:0","1:1","AJ",0,0,1,0,1,1,1,1,0,0
+"5","3","1. FC Köln - Bor. Mönchengladbach","1. FC Köln","Bor. Mönchengladbach","1:0","0:0","phil4delphia",0,0,1,0,1,1,0,0,0,0
+"5","3","1. FC Köln - Bor. Mönchengladbach","1. FC Köln","Bor. Mönchengladbach","1:0","2:2","BastiS.",0,0,1,0,1,1,2,2,0,0
+"5","3","1. FC Köln - Bor. Mönchengladbach","1. FC Köln","Bor. Mönchengladbach","1:0","1:0","Schmonkey",4,4,1,0,1,1,1,0,1,1
+"6","3","FC Ingolstadt - Hamburger SV","FC Ingolstadt","Hamburger SV","0:1","1:0","GesuSan",0,0,0,1,-1,1,1,0,1,1
+"6","3","FC Ingolstadt - Hamburger SV","FC Ingolstadt","Hamburger SV","0:1","2:1","Chris",0,0,0,1,-1,1,2,1,1,1
+"6","3","FC Ingolstadt - Hamburger SV","FC Ingolstadt","Hamburger SV","0:1","1:1","Kryztianov",0,0,0,1,-1,1,1,1,0,0
+"6","3","FC Ingolstadt - Hamburger SV","FC Ingolstadt","Hamburger SV","0:1","1:0","Marc",0,0,0,1,-1,1,1,0,1,1
+"6","3","FC Ingolstadt - Hamburger SV","FC Ingolstadt","Hamburger SV","0:1","1:0","AJ",0,0,0,1,-1,1,1,0,1,1
+"6","3","FC Ingolstadt - Hamburger SV","FC Ingolstadt","Hamburger SV","0:1","0:2","Schmonkey",2,2,0,1,-1,1,0,2,-2,2
+"6","3","FC Ingolstadt - Hamburger SV","FC Ingolstadt","Hamburger SV","0:1","1:0","phil4delphia",0,0,0,1,-1,1,1,0,1,1
+"6","3","FC Ingolstadt - Hamburger SV","FC Ingolstadt","Hamburger SV","0:1","1:2","BastiS.",3,3,0,1,-1,1,1,2,-1,1
+"7","3","VfL Wolfsburg - Hannover 96","VfL Wolfsburg","Hannover 96","1:1","2:0","GesuSan",0,0,1,1,0,0,2,0,2,2
+"7","3","VfL Wolfsburg - Hannover 96","VfL Wolfsburg","Hannover 96","1:1","2:1","Chris",0,0,1,1,0,0,2,1,1,1
+"7","3","VfL Wolfsburg - Hannover 96","VfL Wolfsburg","Hannover 96","1:1","2:0","Marc",0,0,1,1,0,0,2,0,2,2
+"7","3","VfL Wolfsburg - Hannover 96","VfL Wolfsburg","Hannover 96","1:1","3:0","Kryztianov",0,0,1,1,0,0,3,0,3,3
+"7","3","VfL Wolfsburg - Hannover 96","VfL Wolfsburg","Hannover 96","1:1","3:0","AJ",0,0,1,1,0,0,3,0,3,3
+"7","3","VfL Wolfsburg - Hannover 96","VfL Wolfsburg","Hannover 96","1:1","2:0","BastiS.",0,0,1,1,0,0,2,0,2,2
+"7","3","VfL Wolfsburg - Hannover 96","VfL Wolfsburg","Hannover 96","1:1","2:0","Schmonkey",0,0,1,1,0,0,2,0,2,2
+"7","3","VfL Wolfsburg - Hannover 96","VfL Wolfsburg","Hannover 96","1:1","3:0","phil4delphia",0,0,1,1,0,0,3,0,3,3
+"8","3","FC Ingolstadt - Eintracht Frankfurt","FC Ingolstadt","Eintracht Frankfurt","2:0","1:0","GesuSan",2,2,2,0,2,2,1,0,1,1
+"8","3","FC Ingolstadt - Eintracht Frankfurt","FC Ingolstadt","Eintracht Frankfurt","2:0","0:1","Marc",0,0,2,0,2,2,0,1,-1,1
+"8","3","FC Ingolstadt - Eintracht Frankfurt","FC Ingolstadt","Eintracht Frankfurt","2:0","2:1","Chris",2,2,2,0,2,2,2,1,1,1
+"8","3","FC Ingolstadt - Eintracht Frankfurt","FC Ingolstadt","Eintracht Frankfurt","2:0","1:2","Kryztianov",0,0,2,0,2,2,1,2,-1,1
+"8","3","FC Ingolstadt - Eintracht Frankfurt","FC Ingolstadt","Eintracht Frankfurt","2:0","1:0","Schmonkey",2,2,2,0,2,2,1,0,1,1
+"8","3","FC Ingolstadt - Eintracht Frankfurt","FC Ingolstadt","Eintracht Frankfurt","2:0","0:1","AJ",0,0,2,0,2,2,0,1,-1,1
+"8","3","FC Ingolstadt - Eintracht Frankfurt","FC Ingolstadt","Eintracht Frankfurt","2:0","0:0","phil4delphia",0,0,2,0,2,2,0,0,0,0
+"8","3","FC Ingolstadt - Eintracht Frankfurt","FC Ingolstadt","Eintracht Frankfurt","2:0","1:2","BastiS.",0,0,2,0,2,2,1,2,-1,1
+"9","3","VfL Wolfsburg - 1899 Hoffenheim","VfL Wolfsburg","1899 Hoffenheim","4:2","2:0","GesuSan",3,3,4,2,2,2,2,0,2,2
+"9","3","VfL Wolfsburg - 1899 Hoffenheim","VfL Wolfsburg","1899 Hoffenheim","4:2","2:0","Marc",3,3,4,2,2,2,2,0,2,2
+"9","3","VfL Wolfsburg - 1899 Hoffenheim","VfL Wolfsburg","1899 Hoffenheim","4:2","1:0","Chris",2,2,4,2,2,2,1,0,1,1
+"9","3","VfL Wolfsburg - 1899 Hoffenheim","VfL Wolfsburg","1899 Hoffenheim","4:2","1:0","Schmonkey",2,2,4,2,2,2,1,0,1,1
+"9","3","VfL Wolfsburg - 1899 Hoffenheim","VfL Wolfsburg","1899 Hoffenheim","4:2","2:0","Kryztianov",3,3,4,2,2,2,2,0,2,2
+"9","3","VfL Wolfsburg - 1899 Hoffenheim","VfL Wolfsburg","1899 Hoffenheim","4:2","1:0","AJ",2,2,4,2,2,2,1,0,1,1
+"9","3","VfL Wolfsburg - 1899 Hoffenheim","VfL Wolfsburg","1899 Hoffenheim","4:2","2:1","phil4delphia",2,2,4,2,2,2,2,1,1,1
+"9","3","VfL Wolfsburg - 1899 Hoffenheim","VfL Wolfsburg","1899 Hoffenheim","4:2","3:1","BastiS.",3,3,4,2,2,2,3,1,2,2
+"10","3","SV Darmstadt 98 - VfL Wolfsburg","SV Darmstadt 98","VfL Wolfsburg","0:1","1:2","GesuSan",3,3,0,1,-1,1,1,2,-1,1
+"10","3","SV Darmstadt 98 - VfL Wolfsburg","SV Darmstadt 98","VfL Wolfsburg","0:1","0:1","Chris",4,4,0,1,-1,1,0,1,-1,1
+"10","3","SV Darmstadt 98 - VfL Wolfsburg","SV Darmstadt 98","VfL Wolfsburg","0:1","1:3","Marc",2,2,0,1,-1,1,1,3,-2,2
+"10","3","SV Darmstadt 98 - VfL Wolfsburg","SV Darmstadt 98","VfL Wolfsburg","0:1","1:2","Schmonkey",3,3,0,1,-1,1,1,2,-1,1
+"10","3","SV Darmstadt 98 - VfL Wolfsburg","SV Darmstadt 98","VfL Wolfsburg","0:1","0:2","Kryztianov",2,2,0,1,-1,1,0,2,-2,2
+"10","3","SV Darmstadt 98 - VfL Wolfsburg","SV Darmstadt 98","VfL Wolfsburg","0:1","1:1","AJ",0,0,0,1,-1,1,1,1,0,0
+"10","3","SV Darmstadt 98 - VfL Wolfsburg","SV Darmstadt 98","VfL Wolfsburg","0:1","1:2","BastiS.",3,3,0,1,-1,1,1,2,-1,1
+"10","3","SV Darmstadt 98 - VfL Wolfsburg","SV Darmstadt 98","VfL Wolfsburg","0:1","1:1","phil4delphia",0,0,0,1,-1,1,1,1,0,0
+"11","3","FC Augsburg - FSV Mainz 05","FC Augsburg","FSV Mainz 05","3:3","1:2","GesuSan",0,0,3,3,0,0,1,2,-1,1
+"11","3","FC Augsburg - FSV Mainz 05","FC Augsburg","FSV Mainz 05","3:3","2:1","Marc",0,0,3,3,0,0,2,1,1,1
+"11","3","FC Augsburg - FSV Mainz 05","FC Augsburg","FSV Mainz 05","3:3","0:1","Schmonkey",0,0,3,3,0,0,0,1,-1,1
+"11","3","FC Augsburg - FSV Mainz 05","FC Augsburg","FSV Mainz 05","3:3","1:1","Chris",2,2,3,3,0,0,1,1,0,0
+"11","3","FC Augsburg - FSV Mainz 05","FC Augsburg","FSV Mainz 05","3:3","1:1","Kryztianov",2,2,3,3,0,0,1,1,0,0
+"11","3","FC Augsburg - FSV Mainz 05","FC Augsburg","FSV Mainz 05","3:3","1:1","AJ",2,2,3,3,0,0,1,1,0,0
+"11","3","FC Augsburg - FSV Mainz 05","FC Augsburg","FSV Mainz 05","3:3","1:0","phil4delphia",0,0,3,3,0,0,1,0,1,1
+"11","3","FC Augsburg - FSV Mainz 05","FC Augsburg","FSV Mainz 05","3:3","2:2","BastiS.",2,2,3,3,0,0,2,2,0,0
+"12","3","FC Bayern München - VfB Stuttgart","FC Bayern München","VfB Stuttgart","4:0","4:0","GesuSan",4,4,4,0,4,4,4,0,4,4
+"12","3","FC Bayern München - VfB Stuttgart","FC Bayern München","VfB Stuttgart","4:0","3:0","Marc",2,2,4,0,4,4,3,0,3,3
+"12","3","FC Bayern München - VfB Stuttgart","FC Bayern München","VfB Stuttgart","4:0","6:0","Schmonkey",2,2,4,0,4,4,6,0,6,6
+"12","3","FC Bayern München - VfB Stuttgart","FC Bayern München","VfB Stuttgart","4:0","4:1","Chris",2,2,4,0,4,4,4,1,3,3
+"12","3","FC Bayern München - VfB Stuttgart","FC Bayern München","VfB Stuttgart","4:0","3:0","Kryztianov",2,2,4,0,4,4,3,0,3,3
+"12","3","FC Bayern München - VfB Stuttgart","FC Bayern München","VfB Stuttgart","4:0","4:0","AJ",4,4,4,0,4,4,4,0,4,4
+"12","3","FC Bayern München - VfB Stuttgart","FC Bayern München","VfB Stuttgart","4:0","4:0","phil4delphia",4,4,4,0,4,4,4,0,4,4
+"12","3","FC Bayern München - VfB Stuttgart","FC Bayern München","VfB Stuttgart","4:0","5:0","BastiS.",2,2,4,0,4,4,5,0,5,5
+"13","3","Eintracht Frankfurt - Bayer 04 Leverkusen","Eintracht Frankfurt","Bayer 04 Leverkusen","1:3","0:1","GesuSan",2,2,1,3,-2,2,0,1,-1,1
+"13","3","Eintracht Frankfurt - Bayer 04 Leverkusen","Eintracht Frankfurt","Bayer 04 Leverkusen","1:3","1:2","Schmonkey",2,2,1,3,-2,2,1,2,-1,1
+"13","3","Eintracht Frankfurt - Bayer 04 Leverkusen","Eintracht Frankfurt","Bayer 04 Leverkusen","1:3","1:2","Marc",2,2,1,3,-2,2,1,2,-1,1
+"13","3","Eintracht Frankfurt - Bayer 04 Leverkusen","Eintracht Frankfurt","Bayer 04 Leverkusen","1:3","1:0","Chris",0,0,1,3,-2,2,1,0,1,1
+"13","3","Eintracht Frankfurt - Bayer 04 Leverkusen","Eintracht Frankfurt","Bayer 04 Leverkusen","1:3","1:1","Kryztianov",0,0,1,3,-2,2,1,1,0,0
+"13","3","Eintracht Frankfurt - Bayer 04 Leverkusen","Eintracht Frankfurt","Bayer 04 Leverkusen","1:3","2:2","AJ",0,0,1,3,-2,2,2,2,0,0
+"13","3","Eintracht Frankfurt - Bayer 04 Leverkusen","Eintracht Frankfurt","Bayer 04 Leverkusen","1:3","1:1","phil4delphia",0,0,1,3,-2,2,1,1,0,0
+"13","3","Eintracht Frankfurt - Bayer 04 Leverkusen","Eintracht Frankfurt","Bayer 04 Leverkusen","1:3","1:3","BastiS.",4,4,1,3,-2,2,1,3,-2,2
+"14","3","1899 Hoffenheim - Bor. Mönchengladbach","1899 Hoffenheim","Bor. Mönchengladbach","3:3","0:2","GesuSan",0,0,3,3,0,0,0,2,-2,2
+"14","3","1899 Hoffenheim - Bor. Mönchengladbach","1899 Hoffenheim","Bor. Mönchengladbach","3:3","0:3","Schmonkey",0,0,3,3,0,0,0,3,-3,3
+"14","3","1899 Hoffenheim - Bor. Mönchengladbach","1899 Hoffenheim","Bor. Mönchengladbach","3:3","1:2","Marc",0,0,3,3,0,0,1,2,-1,1
+"14","3","1899 Hoffenheim - Bor. Mönchengladbach","1899 Hoffenheim","Bor. Mönchengladbach","3:3","1:3","Chris",0,0,3,3,0,0,1,3,-2,2
+"14","3","1899 Hoffenheim - Bor. Mönchengladbach","1899 Hoffenheim","Bor. Mönchengladbach","3:3","1:3","phil4delphia",0,0,3,3,0,0,1,3,-2,2
+"14","3","1899 Hoffenheim - Bor. Mönchengladbach","1899 Hoffenheim","Bor. Mönchengladbach","3:3","0:2","Kryztianov",0,0,3,3,0,0,0,2,-2,2
+"14","3","1899 Hoffenheim - Bor. Mönchengladbach","1899 Hoffenheim","Bor. Mönchengladbach","3:3","0:2","AJ",0,0,3,3,0,0,0,2,-2,2
+"14","3","1899 Hoffenheim - Bor. Mönchengladbach","1899 Hoffenheim","Bor. Mönchengladbach","3:3","1:3","BastiS.",0,0,3,3,0,0,1,3,-2,2
+"15","3","Hamburger SV - FSV Mainz 05","Hamburger SV","FSV Mainz 05","1:3","0:1","GesuSan",2,2,1,3,-2,2,0,1,-1,1
+"15","3","Hamburger SV - FSV Mainz 05","Hamburger SV","FSV Mainz 05","1:3","1:2","Schmonkey",2,2,1,3,-2,2,1,2,-1,1
+"15","3","Hamburger SV - FSV Mainz 05","Hamburger SV","FSV Mainz 05","1:3","2:1","Marc",0,0,1,3,-2,2,2,1,1,1
+"15","3","Hamburger SV - FSV Mainz 05","Hamburger SV","FSV Mainz 05","1:3","1:0","Chris",0,0,1,3,-2,2,1,0,1,1
+"15","3","Hamburger SV - FSV Mainz 05","Hamburger SV","FSV Mainz 05","1:3","1:1","Kryztianov",0,0,1,3,-2,2,1,1,0,0
+"15","3","Hamburger SV - FSV Mainz 05","Hamburger SV","FSV Mainz 05","1:3","3:2","phil4delphia",0,0,1,3,-2,2,3,2,1,1
+"15","3","Hamburger SV - FSV Mainz 05","Hamburger SV","FSV Mainz 05","1:3","1:0","AJ",0,0,1,3,-2,2,1,0,1,1
+"15","3","Hamburger SV - FSV Mainz 05","Hamburger SV","FSV Mainz 05","1:3","1:0","BastiS.",0,0,1,3,-2,2,1,0,1,1
+"1","4","SV Darmstadt 98 - Hannover 96","SV Darmstadt 98","Hannover 96","2:2","2:1","GesuSan",0,0,2,2,0,0,2,1,1,1
+"1","4","SV Darmstadt 98 - Hannover 96","SV Darmstadt 98","Hannover 96","2:2","1:1","Marc",2,2,2,2,0,0,1,1,0,0
+"1","4","SV Darmstadt 98 - Hannover 96","SV Darmstadt 98","Hannover 96","2:2","1:2","AJ",0,0,2,2,0,0,1,2,-1,1
+"1","4","SV Darmstadt 98 - Hannover 96","SV Darmstadt 98","Hannover 96","2:2","1:1","BastiS.",2,2,2,2,0,0,1,1,0,0
+"1","4","SV Darmstadt 98 - Hannover 96","SV Darmstadt 98","Hannover 96","2:2","1:1","Kryztianov",2,2,2,2,0,0,1,1,0,0
+"1","4","SV Darmstadt 98 - Hannover 96","SV Darmstadt 98","Hannover 96","2:2","1:0","phil4delphia",0,0,2,2,0,0,1,0,1,1
+"1","4","SV Darmstadt 98 - Hannover 96","SV Darmstadt 98","Hannover 96","2:2","1:0","Chris",0,0,2,2,0,0,1,0,1,1
+"1","4","SV Darmstadt 98 - Hannover 96","SV Darmstadt 98","Hannover 96","2:2","2:0","Schmonkey",0,0,2,2,0,0,2,0,2,2
+"2","4","FC Schalke 04 - SV Darmstadt 98","FC Schalke 04","SV Darmstadt 98","1:1","2:0","Marc",0,0,1,1,0,0,2,0,2,2
+"2","4","FC Schalke 04 - SV Darmstadt 98","FC Schalke 04","SV Darmstadt 98","1:1","2:0","GesuSan",0,0,1,1,0,0,2,0,2,2
+"2","4","FC Schalke 04 - SV Darmstadt 98","FC Schalke 04","SV Darmstadt 98","1:1","2:0","Kryztianov",0,0,1,1,0,0,2,0,2,2
+"2","4","FC Schalke 04 - SV Darmstadt 98","FC Schalke 04","SV Darmstadt 98","1:1","3:0","AJ",0,0,1,1,0,0,3,0,3,3
+"2","4","FC Schalke 04 - SV Darmstadt 98","FC Schalke 04","SV Darmstadt 98","1:1","2:2","BastiS.",2,2,1,1,0,0,2,2,0,0
+"2","4","FC Schalke 04 - SV Darmstadt 98","FC Schalke 04","SV Darmstadt 98","1:1","1:0","Chris",0,0,1,1,0,0,1,0,1,1
+"2","4","FC Schalke 04 - SV Darmstadt 98","FC Schalke 04","SV Darmstadt 98","1:1","3:1","phil4delphia",0,0,1,1,0,0,3,1,2,2
+"2","4","FC Schalke 04 - SV Darmstadt 98","FC Schalke 04","SV Darmstadt 98","1:1","2:1","Schmonkey",0,0,1,1,0,0,2,1,1,1
+"3","4","SV Darmstadt 98 - 1899 Hoffenheim","SV Darmstadt 98","1899 Hoffenheim","0:0","0:1","Marc",0,0,0,0,0,0,0,1,-1,1
+"3","4","SV Darmstadt 98 - 1899 Hoffenheim","SV Darmstadt 98","1899 Hoffenheim","0:0","1:2","Kryztianov",0,0,0,0,0,0,1,2,-1,1
+"3","4","SV Darmstadt 98 - 1899 Hoffenheim","SV Darmstadt 98","1899 Hoffenheim","0:0","1:2","GesuSan",0,0,0,0,0,0,1,2,-1,1
+"3","4","SV Darmstadt 98 - 1899 Hoffenheim","SV Darmstadt 98","1899 Hoffenheim","0:0","1:1","AJ",2,2,0,0,0,0,1,1,0,0
+"3","4","SV Darmstadt 98 - 1899 Hoffenheim","SV Darmstadt 98","1899 Hoffenheim","0:0","0:1","Chris",0,0,0,0,0,0,0,1,-1,1
+"3","4","SV Darmstadt 98 - 1899 Hoffenheim","SV Darmstadt 98","1899 Hoffenheim","0:0","2:1","phil4delphia",0,0,0,0,0,0,2,1,1,1
+"3","4","SV Darmstadt 98 - 1899 Hoffenheim","SV Darmstadt 98","1899 Hoffenheim","0:0","1:0","BastiS.",0,0,0,0,0,0,1,0,1,1
+"3","4","SV Darmstadt 98 - 1899 Hoffenheim","SV Darmstadt 98","1899 Hoffenheim","0:0","2:2","Schmonkey",2,2,0,0,0,0,2,2,0,0
+"4","4","FC Bayern München - FC Augsburg","FC Bayern München","FC Augsburg","2:1","3:0","Marc",2,2,2,1,1,1,3,0,3,3
+"4","4","FC Bayern München - FC Augsburg","FC Bayern München","FC Augsburg","2:1","2:0","GesuSan",2,2,2,1,1,1,2,0,2,2
+"4","4","FC Bayern München - FC Augsburg","FC Bayern München","FC Augsburg","2:1","3:0","AJ",2,2,2,1,1,1,3,0,3,3
+"4","4","FC Bayern München - FC Augsburg","FC Bayern München","FC Augsburg","2:1","3:0","Kryztianov",2,2,2,1,1,1,3,0,3,3
+"4","4","FC Bayern München - FC Augsburg","FC Bayern München","FC Augsburg","2:1","3:1","Chris",2,2,2,1,1,1,3,1,2,2
+"4","4","FC Bayern München - FC Augsburg","FC Bayern München","FC Augsburg","2:1","4:0","BastiS.",2,2,2,1,1,1,4,0,4,4
+"4","4","FC Bayern München - FC Augsburg","FC Bayern München","FC Augsburg","2:1","4:0","phil4delphia",2,2,2,1,1,1,4,0,4,4
+"4","4","FC Bayern München - FC Augsburg","FC Bayern München","FC Augsburg","2:1","3:0","Schmonkey",2,2,2,1,1,1,3,0,3,3
+"5","4","SV Darmstadt 98 - FC Bayern München","SV Darmstadt 98","FC Bayern München","0:3","0:1","GesuSan",2,2,0,3,-3,3,0,1,-1,1
+"5","4","SV Darmstadt 98 - FC Bayern München","SV Darmstadt 98","FC Bayern München","0:3","0:3","Kryztianov",4,4,0,3,-3,3,0,3,-3,3
+"5","4","SV Darmstadt 98 - FC Bayern München","SV Darmstadt 98","FC Bayern München","0:3","0:3","Marc",4,4,0,3,-3,3,0,3,-3,3
+"5","4","SV Darmstadt 98 - FC Bayern München","SV Darmstadt 98","FC Bayern München","0:3","0:4","Chris",2,2,0,3,-3,3,0,4,-4,4
+"5","4","SV Darmstadt 98 - FC Bayern München","SV Darmstadt 98","FC Bayern München","0:3","0:5","AJ",2,2,0,3,-3,3,0,5,-5,5
+"5","4","SV Darmstadt 98 - FC Bayern München","SV Darmstadt 98","FC Bayern München","0:3","0:2","phil4delphia",2,2,0,3,-3,3,0,2,-2,2
+"5","4","SV Darmstadt 98 - FC Bayern München","SV Darmstadt 98","FC Bayern München","0:3","1:4","BastiS.",3,3,0,3,-3,3,1,4,-3,3
+"5","4","SV Darmstadt 98 - FC Bayern München","SV Darmstadt 98","FC Bayern München","0:3","1:1","Schmonkey",0,0,0,3,-3,3,1,1,0,0
+"6","4","Hertha BSC - 1. FC Köln","Hertha BSC","1. FC Köln","2:0","0:2","GesuSan",0,0,2,0,2,2,0,2,-2,2
+"6","4","Hertha BSC - 1. FC Köln","Hertha BSC","1. FC Köln","2:0","1:0","Chris",2,2,2,0,2,2,1,0,1,1
+"6","4","Hertha BSC - 1. FC Köln","Hertha BSC","1. FC Köln","2:0","1:1","Kryztianov",0,0,2,0,2,2,1,1,0,0
+"6","4","Hertha BSC - 1. FC Köln","Hertha BSC","1. FC Köln","2:0","1:1","Marc",0,0,2,0,2,2,1,1,0,0
+"6","4","Hertha BSC - 1. FC Köln","Hertha BSC","1. FC Köln","2:0","0:1","AJ",0,0,2,0,2,2,0,1,-1,1
+"6","4","Hertha BSC - 1. FC Köln","Hertha BSC","1. FC Köln","2:0","2:0","Schmonkey",4,4,2,0,2,2,2,0,2,2
+"6","4","Hertha BSC - 1. FC Köln","Hertha BSC","1. FC Köln","2:0","1:1","phil4delphia",0,0,2,0,2,2,1,1,0,0
+"6","4","Hertha BSC - 1. FC Köln","Hertha BSC","1. FC Köln","2:0","0:2","BastiS.",0,0,2,0,2,2,0,2,-2,2
+"7","4","Werder Bremen - Bayer 04 Leverkusen","Werder Bremen","Bayer 04 Leverkusen","0:3","0:1","GesuSan",2,2,0,3,-3,3,0,1,-1,1
+"7","4","Werder Bremen - Bayer 04 Leverkusen","Werder Bremen","Bayer 04 Leverkusen","0:3","0:1","Chris",2,2,0,3,-3,3,0,1,-1,1
+"7","4","Werder Bremen - Bayer 04 Leverkusen","Werder Bremen","Bayer 04 Leverkusen","0:3","1:2","Marc",2,2,0,3,-3,3,1,2,-1,1
+"7","4","Werder Bremen - Bayer 04 Leverkusen","Werder Bremen","Bayer 04 Leverkusen","0:3","1:2","Kryztianov",2,2,0,3,-3,3,1,2,-1,1
+"7","4","Werder Bremen - Bayer 04 Leverkusen","Werder Bremen","Bayer 04 Leverkusen","0:3","0:1","AJ",2,2,0,3,-3,3,0,1,-1,1
+"7","4","Werder Bremen - Bayer 04 Leverkusen","Werder Bremen","Bayer 04 Leverkusen","0:3","1:2","BastiS.",2,2,0,3,-3,3,1,2,-1,1
+"7","4","Werder Bremen - Bayer 04 Leverkusen","Werder Bremen","Bayer 04 Leverkusen","0:3","1:0","Schmonkey",0,0,0,3,-3,3,1,0,1,1
+"7","4","Werder Bremen - Bayer 04 Leverkusen","Werder Bremen","Bayer 04 Leverkusen","0:3","1:1","phil4delphia",0,0,0,3,-3,3,1,1,0,0
+"8","4","Hannover 96 - Werder Bremen","Hannover 96","Werder Bremen","1:0","1:1","GesuSan",0,0,1,0,1,1,1,1,0,0
+"8","4","Hannover 96 - Werder Bremen","Hannover 96","Werder Bremen","1:0","1:0","Marc",4,4,1,0,1,1,1,0,1,1
+"8","4","Hannover 96 - Werder Bremen","Hannover 96","Werder Bremen","1:0","0:0","Chris",0,0,1,0,1,1,0,0,0,0
+"8","4","Hannover 96 - Werder Bremen","Hannover 96","Werder Bremen","1:0","1:2","Kryztianov",0,0,1,0,1,1,1,2,-1,1
+"8","4","Hannover 96 - Werder Bremen","Hannover 96","Werder Bremen","1:0","1:0","Schmonkey",4,4,1,0,1,1,1,0,1,1
+"8","4","Hannover 96 - Werder Bremen","Hannover 96","Werder Bremen","1:0","0:2","AJ",0,0,1,0,1,1,0,2,-2,2
+"8","4","Hannover 96 - Werder Bremen","Hannover 96","Werder Bremen","1:0","2:1","phil4delphia",3,3,1,0,1,1,2,1,1,1
+"8","4","Hannover 96 - Werder Bremen","Hannover 96","Werder Bremen","1:0","2:2","BastiS.",0,0,1,0,1,1,2,2,0,0
+"9","4","FC Augsburg - SV Darmstadt 98","FC Augsburg","SV Darmstadt 98","0:2","1:0","GesuSan",0,0,0,2,-2,2,1,0,1,1
+"9","4","FC Augsburg - SV Darmstadt 98","FC Augsburg","SV Darmstadt 98","0:2","2:1","Marc",0,0,0,2,-2,2,2,1,1,1
+"9","4","FC Augsburg - SV Darmstadt 98","FC Augsburg","SV Darmstadt 98","0:2","2:2","Chris",0,0,0,2,-2,2,2,2,0,0
+"9","4","FC Augsburg - SV Darmstadt 98","FC Augsburg","SV Darmstadt 98","0:2","0:1","Schmonkey",2,2,0,2,-2,2,0,1,-1,1
+"9","4","FC Augsburg - SV Darmstadt 98","FC Augsburg","SV Darmstadt 98","0:2","1:0","Kryztianov",0,0,0,2,-2,2,1,0,1,1
+"9","4","FC Augsburg - SV Darmstadt 98","FC Augsburg","SV Darmstadt 98","0:2","1:1","AJ",0,0,0,2,-2,2,1,1,0,0
+"9","4","FC Augsburg - SV Darmstadt 98","FC Augsburg","SV Darmstadt 98","0:2","1:0","phil4delphia",0,0,0,2,-2,2,1,0,1,1
+"9","4","FC Augsburg - SV Darmstadt 98","FC Augsburg","SV Darmstadt 98","0:2","2:0","BastiS.",0,0,0,2,-2,2,2,0,2,2
+"10","4","Hannover 96 - Eintracht Frankfurt","Hannover 96","Eintracht Frankfurt","1:2","0:1","GesuSan",3,3,1,2,-1,1,0,1,-1,1
+"10","4","Hannover 96 - Eintracht Frankfurt","Hannover 96","Eintracht Frankfurt","1:2","0:0","Chris",0,0,1,2,-1,1,0,0,0,0
+"10","4","Hannover 96 - Eintracht Frankfurt","Hannover 96","Eintracht Frankfurt","1:2","2:1","Marc",0,0,1,2,-1,1,2,1,1,1
+"10","4","Hannover 96 - Eintracht Frankfurt","Hannover 96","Eintracht Frankfurt","1:2","2:1","Schmonkey",0,0,1,2,-1,1,2,1,1,1
+"10","4","Hannover 96 - Eintracht Frankfurt","Hannover 96","Eintracht Frankfurt","1:2","1:1","Kryztianov",0,0,1,2,-1,1,1,1,0,0
+"10","4","Hannover 96 - Eintracht Frankfurt","Hannover 96","Eintracht Frankfurt","1:2","0:2","AJ",2,2,1,2,-1,1,0,2,-2,2
+"10","4","Hannover 96 - Eintracht Frankfurt","Hannover 96","Eintracht Frankfurt","1:2","2:0","BastiS.",0,0,1,2,-1,1,2,0,2,2
+"10","4","Hannover 96 - Eintracht Frankfurt","Hannover 96","Eintracht Frankfurt","1:2","1:0","phil4delphia",0,0,1,2,-1,1,1,0,1,1
+"11","4","1. FC Köln - 1899 Hoffenheim","1. FC Köln","1899 Hoffenheim","0:0","1:0","GesuSan",0,0,0,0,0,0,1,0,1,1
+"11","4","1. FC Köln - 1899 Hoffenheim","1. FC Köln","1899 Hoffenheim","0:0","1:1","Marc",2,2,0,0,0,0,1,1,0,0
+"11","4","1. FC Köln - 1899 Hoffenheim","1. FC Köln","1899 Hoffenheim","0:0","0:1","Schmonkey",0,0,0,0,0,0,0,1,-1,1
+"11","4","1. FC Köln - 1899 Hoffenheim","1. FC Köln","1899 Hoffenheim","0:0","1:2","Chris",0,0,0,0,0,0,1,2,-1,1
+"11","4","1. FC Köln - 1899 Hoffenheim","1. FC Köln","1899 Hoffenheim","0:0","2:0","Kryztianov",0,0,0,0,0,0,2,0,2,2
+"11","4","1. FC Köln - 1899 Hoffenheim","1. FC Köln","1899 Hoffenheim","0:0","1:0","AJ",0,0,0,0,0,0,1,0,1,1
+"11","4","1. FC Köln - 1899 Hoffenheim","1. FC Köln","1899 Hoffenheim","0:0","0:1","phil4delphia",0,0,0,0,0,0,0,1,-1,1
+"11","4","1. FC Köln - 1899 Hoffenheim","1. FC Köln","1899 Hoffenheim","0:0","1:2","BastiS.",0,0,0,0,0,0,1,2,-1,1
+"12","4","Bayer 04 Leverkusen - 1. FC Köln","Bayer 04 Leverkusen","1. FC Köln","1:2","2:1","GesuSan",0,0,1,2,-1,1,2,1,1,1
+"12","4","Bayer 04 Leverkusen - 1. FC Köln","Bayer 04 Leverkusen","1. FC Köln","1:2","2:0","Marc",0,0,1,2,-1,1,2,0,2,2
+"12","4","Bayer 04 Leverkusen - 1. FC Köln","Bayer 04 Leverkusen","1. FC Köln","1:2","1:2","Schmonkey",4,4,1,2,-1,1,1,2,-1,1
+"12","4","Bayer 04 Leverkusen - 1. FC Köln","Bayer 04 Leverkusen","1. FC Köln","1:2","1:0","Chris",0,0,1,2,-1,1,1,0,1,1
+"12","4","Bayer 04 Leverkusen - 1. FC Köln","Bayer 04 Leverkusen","1. FC Köln","1:2","1:1","Kryztianov",0,0,1,2,-1,1,1,1,0,0
+"12","4","Bayer 04 Leverkusen - 1. FC Köln","Bayer 04 Leverkusen","1. FC Köln","1:2","3:2","AJ",0,0,1,2,-1,1,3,2,1,1
+"12","4","Bayer 04 Leverkusen - 1. FC Köln","Bayer 04 Leverkusen","1. FC Köln","1:2","2:1","phil4delphia",0,0,1,2,-1,1,2,1,1,1
+"12","4","Bayer 04 Leverkusen - 1. FC Köln","Bayer 04 Leverkusen","1. FC Köln","1:2","3:2","BastiS.",0,0,1,2,-1,1,3,2,1,1
+"13","4","VfL Wolfsburg - Werder Bremen","VfL Wolfsburg","Werder Bremen","6:0","2:0","GesuSan",2,2,6,0,6,6,2,0,2,2
+"13","4","VfL Wolfsburg - Werder Bremen","VfL Wolfsburg","Werder Bremen","6:0","3:0","Schmonkey",2,2,6,0,6,6,3,0,3,3
+"13","4","VfL Wolfsburg - Werder Bremen","VfL Wolfsburg","Werder Bremen","6:0","2:0","Marc",2,2,6,0,6,6,2,0,2,2
+"13","4","VfL Wolfsburg - Werder Bremen","VfL Wolfsburg","Werder Bremen","6:0","2:1","Chris",2,2,6,0,6,6,2,1,1,1
+"13","4","VfL Wolfsburg - Werder Bremen","VfL Wolfsburg","Werder Bremen","6:0","2:1","Kryztianov",2,2,6,0,6,6,2,1,1,1
+"13","4","VfL Wolfsburg - Werder Bremen","VfL Wolfsburg","Werder Bremen","6:0","2:1","AJ",2,2,6,0,6,6,2,1,1,1
+"13","4","VfL Wolfsburg - Werder Bremen","VfL Wolfsburg","Werder Bremen","6:0","2:0","phil4delphia",2,2,6,0,6,6,2,0,2,2
+"13","4","VfL Wolfsburg - Werder Bremen","VfL Wolfsburg","Werder Bremen","6:0","2:0","BastiS.",2,2,6,0,6,6,2,0,2,2
+"14","4","Werder Bremen - Hamburger SV","Werder Bremen","Hamburger SV","1:3","1:0","GesuSan",0,0,1,3,-2,2,1,0,1,1
+"14","4","Werder Bremen - Hamburger SV","Werder Bremen","Hamburger SV","1:3","1:0","Schmonkey",0,0,1,3,-2,2,1,0,1,1
+"14","4","Werder Bremen - Hamburger SV","Werder Bremen","Hamburger SV","1:3","1:1","Marc",0,0,1,3,-2,2,1,1,0,0
+"14","4","Werder Bremen - Hamburger SV","Werder Bremen","Hamburger SV","1:3","1:2","Chris",2,2,1,3,-2,2,1,2,-1,1
+"14","4","Werder Bremen - Hamburger SV","Werder Bremen","Hamburger SV","1:3","1:0","phil4delphia",0,0,1,3,-2,2,1,0,1,1
+"14","4","Werder Bremen - Hamburger SV","Werder Bremen","Hamburger SV","1:3","2:2","Kryztianov",0,0,1,3,-2,2,2,2,0,0
+"14","4","Werder Bremen - Hamburger SV","Werder Bremen","Hamburger SV","1:3","1:1","AJ",0,0,1,3,-2,2,1,1,0,0
+"14","4","Werder Bremen - Hamburger SV","Werder Bremen","Hamburger SV","1:3","1:1","BastiS.",0,0,1,3,-2,2,1,1,0,0
+"15","4","Bor. Mönchengladbach - FC Bayern München","Bor. Mönchengladbach","FC Bayern München","3:1","1:3","GesuSan",0,0,3,1,2,2,1,3,-2,2
+"15","4","Bor. Mönchengladbach - FC Bayern München","Bor. Mönchengladbach","FC Bayern München","3:1","0:3","Schmonkey",0,0,3,1,2,2,0,3,-3,3
+"15","4","Bor. Mönchengladbach - FC Bayern München","Bor. Mönchengladbach","FC Bayern München","3:1","1:2","Marc",0,0,3,1,2,2,1,2,-1,1
+"15","4","Bor. Mönchengladbach - FC Bayern München","Bor. Mönchengladbach","FC Bayern München","3:1","1:3","Chris",0,0,3,1,2,2,1,3,-2,2
+"15","4","Bor. Mönchengladbach - FC Bayern München","Bor. Mönchengladbach","FC Bayern München","3:1","1:2","Kryztianov",0,0,3,1,2,2,1,2,-1,1
+"15","4","Bor. Mönchengladbach - FC Bayern München","Bor. Mönchengladbach","FC Bayern München","3:1","0:2","phil4delphia",0,0,3,1,2,2,0,2,-2,2
+"15","4","Bor. Mönchengladbach - FC Bayern München","Bor. Mönchengladbach","FC Bayern München","3:1","1:3","AJ",0,0,3,1,2,2,1,3,-2,2
+"15","4","Bor. Mönchengladbach - FC Bayern München","Bor. Mönchengladbach","FC Bayern München","3:1","1:3","BastiS.",0,0,3,1,2,2,1,3,-2,2
+"1","5","FC Augsburg - Hertha BSC","FC Augsburg","Hertha BSC","0:1","2:0","GesuSan",0,0,0,1,-1,1,2,0,2,2
+"1","5","FC Augsburg - Hertha BSC","FC Augsburg","Hertha BSC","0:1","2:0","Marc",0,0,0,1,-1,1,2,0,2,2
+"1","5","FC Augsburg - Hertha BSC","FC Augsburg","Hertha BSC","0:1","1:1","AJ",0,0,0,1,-1,1,1,1,0,0
+"1","5","FC Augsburg - Hertha BSC","FC Augsburg","Hertha BSC","0:1","2:0","BastiS.",0,0,0,1,-1,1,2,0,2,2
+"1","5","FC Augsburg - Hertha BSC","FC Augsburg","Hertha BSC","0:1","2:2","Kryztianov",0,0,0,1,-1,1,2,2,0,0
+"1","5","FC Augsburg - Hertha BSC","FC Augsburg","Hertha BSC","0:1","2:1","phil4delphia",0,0,0,1,-1,1,2,1,1,1
+"1","5","FC Augsburg - Hertha BSC","FC Augsburg","Hertha BSC","0:1","2:1","Chris",0,0,0,1,-1,1,2,1,1,1
+"1","5","FC Augsburg - Hertha BSC","FC Augsburg","Hertha BSC","0:1","2:0","Schmonkey",0,0,0,1,-1,1,2,0,2,2
+"2","5","1899 Hoffenheim - FC Bayern München","1899 Hoffenheim","FC Bayern München","1:2","1:3","Marc",2,2,1,2,-1,1,1,3,-2,2
+"2","5","1899 Hoffenheim - FC Bayern München","1899 Hoffenheim","FC Bayern München","1:2","1:3","GesuSan",2,2,1,2,-1,1,1,3,-2,2
+"2","5","1899 Hoffenheim - FC Bayern München","1899 Hoffenheim","FC Bayern München","1:2","1:3","Kryztianov",2,2,1,2,-1,1,1,3,-2,2
+"2","5","1899 Hoffenheim - FC Bayern München","1899 Hoffenheim","FC Bayern München","1:2","0:3","AJ",2,2,1,2,-1,1,0,3,-3,3
+"2","5","1899 Hoffenheim - FC Bayern München","1899 Hoffenheim","FC Bayern München","1:2","1:3","BastiS.",2,2,1,2,-1,1,1,3,-2,2
+"2","5","1899 Hoffenheim - FC Bayern München","1899 Hoffenheim","FC Bayern München","1:2","0:1","Chris",3,3,1,2,-1,1,0,1,-1,1
+"2","5","1899 Hoffenheim - FC Bayern München","1899 Hoffenheim","FC Bayern München","1:2","0:2","phil4delphia",2,2,1,2,-1,1,0,2,-2,2
+"2","5","1899 Hoffenheim - FC Bayern München","1899 Hoffenheim","FC Bayern München","1:2","0:2","Schmonkey",2,2,1,2,-1,1,0,2,-2,2
+"3","5","VfB Stuttgart - Eintracht Frankfurt","VfB Stuttgart","Eintracht Frankfurt","1:4","1:1","Marc",0,0,1,4,-3,3,1,1,0,0
+"3","5","VfB Stuttgart - Eintracht Frankfurt","VfB Stuttgart","Eintracht Frankfurt","1:4","1:1","Kryztianov",0,0,1,4,-3,3,1,1,0,0
+"3","5","VfB Stuttgart - Eintracht Frankfurt","VfB Stuttgart","Eintracht Frankfurt","1:4","1:0","GesuSan",0,0,1,4,-3,3,1,0,1,1
+"3","5","VfB Stuttgart - Eintracht Frankfurt","VfB Stuttgart","Eintracht Frankfurt","1:4","3:2","AJ",0,0,1,4,-3,3,3,2,1,1
+"3","5","VfB Stuttgart - Eintracht Frankfurt","VfB Stuttgart","Eintracht Frankfurt","1:4","1:2","Chris",2,2,1,4,-3,3,1,2,-1,1
+"3","5","VfB Stuttgart - Eintracht Frankfurt","VfB Stuttgart","Eintracht Frankfurt","1:4","3:2","phil4delphia",0,0,1,4,-3,3,3,2,1,1
+"3","5","VfB Stuttgart - Eintracht Frankfurt","VfB Stuttgart","Eintracht Frankfurt","1:4","2:0","BastiS.",0,0,1,4,-3,3,2,0,2,2
+"3","5","VfB Stuttgart - Eintracht Frankfurt","VfB Stuttgart","Eintracht Frankfurt","1:4","3:1","Schmonkey",0,0,1,4,-3,3,3,1,2,2
+"4","5","FC Ingolstadt - VfL Wolfsburg","FC Ingolstadt","VfL Wolfsburg","0:0","0:2","Marc",0,0,0,0,0,0,0,2,-2,2
+"4","5","FC Ingolstadt - VfL Wolfsburg","FC Ingolstadt","VfL Wolfsburg","0:0","1:2","GesuSan",0,0,0,0,0,0,1,2,-1,1
+"4","5","FC Ingolstadt - VfL Wolfsburg","FC Ingolstadt","VfL Wolfsburg","0:0","0:2","AJ",0,0,0,0,0,0,0,2,-2,2
+"4","5","FC Ingolstadt - VfL Wolfsburg","FC Ingolstadt","VfL Wolfsburg","0:0","0:2","Kryztianov",0,0,0,0,0,0,0,2,-2,2
+"4","5","FC Ingolstadt - VfL Wolfsburg","FC Ingolstadt","VfL Wolfsburg","0:0","1:4","Chris",0,0,0,0,0,0,1,4,-3,3
+"4","5","FC Ingolstadt - VfL Wolfsburg","FC Ingolstadt","VfL Wolfsburg","0:0","1:3","BastiS.",0,0,0,0,0,0,1,3,-2,2
+"4","5","FC Ingolstadt - VfL Wolfsburg","FC Ingolstadt","VfL Wolfsburg","0:0","1:1","phil4delphia",2,2,0,0,0,0,1,1,0,0
+"4","5","FC Ingolstadt - VfL Wolfsburg","FC Ingolstadt","VfL Wolfsburg","0:0","1:2","Schmonkey",0,0,0,0,0,0,1,2,-1,1
+"5","5","Hamburger SV - Eintracht Frankfurt","Hamburger SV","Eintracht Frankfurt","0:0","1:2","GesuSan",0,0,0,0,0,0,1,2,-1,1
+"5","5","Hamburger SV - Eintracht Frankfurt","Hamburger SV","Eintracht Frankfurt","0:0","1:1","Kryztianov",2,2,0,0,0,0,1,1,0,0
+"5","5","Hamburger SV - Eintracht Frankfurt","Hamburger SV","Eintracht Frankfurt","0:0","1:2","Marc",0,0,0,0,0,0,1,2,-1,1
+"5","5","Hamburger SV - Eintracht Frankfurt","Hamburger SV","Eintracht Frankfurt","0:0","1:0","Chris",0,0,0,0,0,0,1,0,1,1
+"5","5","Hamburger SV - Eintracht Frankfurt","Hamburger SV","Eintracht Frankfurt","0:0","1:2","AJ",0,0,0,0,0,0,1,2,-1,1
+"5","5","Hamburger SV - Eintracht Frankfurt","Hamburger SV","Eintracht Frankfurt","0:0","1:1","phil4delphia",2,2,0,0,0,0,1,1,0,0
+"5","5","Hamburger SV - Eintracht Frankfurt","Hamburger SV","Eintracht Frankfurt","0:0","1:3","BastiS.",0,0,0,0,0,0,1,3,-2,2
+"5","5","Hamburger SV - Eintracht Frankfurt","Hamburger SV","Eintracht Frankfurt","0:0","2:3","Schmonkey",0,0,0,0,0,0,2,3,-1,1
+"6","5","FC Schalke 04 - Eintracht Frankfurt","FC Schalke 04","Eintracht Frankfurt","2:0","2:1","GesuSan",2,2,2,0,2,2,2,1,1,1
+"6","5","FC Schalke 04 - Eintracht Frankfurt","FC Schalke 04","Eintracht Frankfurt","2:0","1:0","Chris",2,2,2,0,2,2,1,0,1,1
+"6","5","FC Schalke 04 - Eintracht Frankfurt","FC Schalke 04","Eintracht Frankfurt","2:0","2:1","Kryztianov",2,2,2,0,2,2,2,1,1,1
+"6","5","FC Schalke 04 - Eintracht Frankfurt","FC Schalke 04","Eintracht Frankfurt","2:0","1:0","Marc",2,2,2,0,2,2,1,0,1,1
+"6","5","FC Schalke 04 - Eintracht Frankfurt","FC Schalke 04","Eintracht Frankfurt","2:0","2:1","AJ",2,2,2,0,2,2,2,1,1,1
+"6","5","FC Schalke 04 - Eintracht Frankfurt","FC Schalke 04","Eintracht Frankfurt","2:0","3:0","Schmonkey",2,2,2,0,2,2,3,0,3,3
+"6","5","FC Schalke 04 - Eintracht Frankfurt","FC Schalke 04","Eintracht Frankfurt","2:0","3:2","phil4delphia",2,2,2,0,2,2,3,2,1,1
+"6","5","FC Schalke 04 - Eintracht Frankfurt","FC Schalke 04","Eintracht Frankfurt","2:0","2:2","BastiS.",0,0,2,0,2,2,2,2,0,0
+"7","5","FC Augsburg - 1899 Hoffenheim","FC Augsburg","1899 Hoffenheim","1:3","1:0","GesuSan",0,0,1,3,-2,2,1,0,1,1
+"7","5","FC Augsburg - 1899 Hoffenheim","FC Augsburg","1899 Hoffenheim","1:3","1:1","Chris",0,0,1,3,-2,2,1,1,0,0
+"7","5","FC Augsburg - 1899 Hoffenheim","FC Augsburg","1899 Hoffenheim","1:3","1:1","Marc",0,0,1,3,-2,2,1,1,0,0
+"7","5","FC Augsburg - 1899 Hoffenheim","FC Augsburg","1899 Hoffenheim","1:3","1:1","Kryztianov",0,0,1,3,-2,2,1,1,0,0
+"7","5","FC Augsburg - 1899 Hoffenheim","FC Augsburg","1899 Hoffenheim","1:3","1:0","AJ",0,0,1,3,-2,2,1,0,1,1
+"7","5","FC Augsburg - 1899 Hoffenheim","FC Augsburg","1899 Hoffenheim","1:3","2:2","BastiS.",0,0,1,3,-2,2,2,2,0,0
+"7","5","FC Augsburg - 1899 Hoffenheim","FC Augsburg","1899 Hoffenheim","1:3","0:1","Schmonkey",2,2,1,3,-2,2,0,1,-1,1
+"7","5","FC Augsburg - 1899 Hoffenheim","FC Augsburg","1899 Hoffenheim","1:3","1:1","phil4delphia",0,0,1,3,-2,2,1,1,0,0
+"8","5","1899 Hoffenheim - VfB Stuttgart","1899 Hoffenheim","VfB Stuttgart","2:2","2:1","GesuSan",0,0,2,2,0,0,2,1,1,1
+"8","5","1899 Hoffenheim - VfB Stuttgart","1899 Hoffenheim","VfB Stuttgart","2:2","0:1","Marc",0,0,2,2,0,0,0,1,-1,1
+"8","5","1899 Hoffenheim - VfB Stuttgart","1899 Hoffenheim","VfB Stuttgart","2:2","1:0","Chris",0,0,2,2,0,0,1,0,1,1
+"8","5","1899 Hoffenheim - VfB Stuttgart","1899 Hoffenheim","VfB Stuttgart","2:2","1:1","Kryztianov",2,2,2,2,0,0,1,1,0,0
+"8","5","1899 Hoffenheim - VfB Stuttgart","1899 Hoffenheim","VfB Stuttgart","2:2","1:3","Schmonkey",0,0,2,2,0,0,1,3,-2,2
+"8","5","1899 Hoffenheim - VfB Stuttgart","1899 Hoffenheim","VfB Stuttgart","2:2","1:1","AJ",2,2,2,2,0,0,1,1,0,0
+"8","5","1899 Hoffenheim - VfB Stuttgart","1899 Hoffenheim","VfB Stuttgart","2:2","2:3","phil4delphia",0,0,2,2,0,0,2,3,-1,1
+"8","5","1899 Hoffenheim - VfB Stuttgart","1899 Hoffenheim","VfB Stuttgart","2:2","1:0","BastiS.",0,0,2,2,0,0,1,0,1,1
+"9","5","Werder Bremen - FC Bayern München","Werder Bremen","FC Bayern München","0:1","0:3","GesuSan",2,2,0,1,-1,1,0,3,-3,3
+"9","5","Werder Bremen - FC Bayern München","Werder Bremen","FC Bayern München","0:1","0:2","Marc",2,2,0,1,-1,1,0,2,-2,2
+"9","5","Werder Bremen - FC Bayern München","Werder Bremen","FC Bayern München","0:1","0:5","Chris",2,2,0,1,-1,1,0,5,-5,5
+"9","5","Werder Bremen - FC Bayern München","Werder Bremen","FC Bayern München","0:1","0:2","Schmonkey",2,2,0,1,-1,1,0,2,-2,2
+"9","5","Werder Bremen - FC Bayern München","Werder Bremen","FC Bayern München","0:1","0:3","Kryztianov",2,2,0,1,-1,1,0,3,-3,3
+"9","5","Werder Bremen - FC Bayern München","Werder Bremen","FC Bayern München","0:1","0:4","AJ",2,2,0,1,-1,1,0,4,-4,4
+"9","5","Werder Bremen - FC Bayern München","Werder Bremen","FC Bayern München","0:1","0:2","phil4delphia",2,2,0,1,-1,1,0,2,-2,2
+"9","5","Werder Bremen - FC Bayern München","Werder Bremen","FC Bayern München","0:1","1:4","BastiS.",2,2,0,1,-1,1,1,4,-3,3
+"10","5","Bayer 04 Leverkusen - VfB Stuttgart","Bayer 04 Leverkusen","VfB Stuttgart","4:3","2:0","GesuSan",2,2,4,3,1,1,2,0,2,2
+"10","5","Bayer 04 Leverkusen - VfB Stuttgart","Bayer 04 Leverkusen","VfB Stuttgart","4:3","2:1","Chris",3,3,4,3,1,1,2,1,1,1
+"10","5","Bayer 04 Leverkusen - VfB Stuttgart","Bayer 04 Leverkusen","VfB Stuttgart","4:3","2:1","Marc",3,3,4,3,1,1,2,1,1,1
+"10","5","Bayer 04 Leverkusen - VfB Stuttgart","Bayer 04 Leverkusen","VfB Stuttgart","4:3","3:1","Schmonkey",2,2,4,3,1,1,3,1,2,2
+"10","5","Bayer 04 Leverkusen - VfB Stuttgart","Bayer 04 Leverkusen","VfB Stuttgart","4:3","1:0","Kryztianov",3,3,4,3,1,1,1,0,1,1
+"10","5","Bayer 04 Leverkusen - VfB Stuttgart","Bayer 04 Leverkusen","VfB Stuttgart","4:3","2:1","AJ",3,3,4,3,1,1,2,1,1,1
+"10","5","Bayer 04 Leverkusen - VfB Stuttgart","Bayer 04 Leverkusen","VfB Stuttgart","4:3","3:0","BastiS.",2,2,4,3,1,1,3,0,3,3
+"10","5","Bayer 04 Leverkusen - VfB Stuttgart","Bayer 04 Leverkusen","VfB Stuttgart","4:3","3:2","phil4delphia",3,3,4,3,1,1,3,2,1,1
+"11","5","Werder Bremen - Borussia Dortmund","Werder Bremen","Borussia Dortmund","1:3","1:3","GesuSan",4,4,1,3,-2,2,1,3,-2,2
+"11","5","Werder Bremen - Borussia Dortmund","Werder Bremen","Borussia Dortmund","1:3","0:2","Marc",3,3,1,3,-2,2,0,2,-2,2
+"11","5","Werder Bremen - Borussia Dortmund","Werder Bremen","Borussia Dortmund","1:3","1:3","Schmonkey",4,4,1,3,-2,2,1,3,-2,2
+"11","5","Werder Bremen - Borussia Dortmund","Werder Bremen","Borussia Dortmund","1:3","0:0","Chris",0,0,1,3,-2,2,0,0,0,0
+"11","5","Werder Bremen - Borussia Dortmund","Werder Bremen","Borussia Dortmund","1:3","0:1","Kryztianov",2,2,1,3,-2,2,0,1,-1,1
+"11","5","Werder Bremen - Borussia Dortmund","Werder Bremen","Borussia Dortmund","1:3","0:3","AJ",2,2,1,3,-2,2,0,3,-3,3
+"11","5","Werder Bremen - Borussia Dortmund","Werder Bremen","Borussia Dortmund","1:3","1:3","phil4delphia",4,4,1,3,-2,2,1,3,-2,2
+"11","5","Werder Bremen - Borussia Dortmund","Werder Bremen","Borussia Dortmund","1:3","1:3","BastiS.",4,4,1,3,-2,2,1,3,-2,2
+"12","5","1899 Hoffenheim - Eintracht Frankfurt","1899 Hoffenheim","Eintracht Frankfurt","0:0","1:2","GesuSan",0,0,0,0,0,0,1,2,-1,1
+"12","5","1899 Hoffenheim - Eintracht Frankfurt","1899 Hoffenheim","Eintracht Frankfurt","0:0","2:1","Marc",0,0,0,0,0,0,2,1,1,1
+"12","5","1899 Hoffenheim - Eintracht Frankfurt","1899 Hoffenheim","Eintracht Frankfurt","0:0","1:3","Schmonkey",0,0,0,0,0,0,1,3,-2,2
+"12","5","1899 Hoffenheim - Eintracht Frankfurt","1899 Hoffenheim","Eintracht Frankfurt","0:0","1:1","Chris",2,2,0,0,0,0,1,1,0,0
+"12","5","1899 Hoffenheim - Eintracht Frankfurt","1899 Hoffenheim","Eintracht Frankfurt","0:0","2:1","Kryztianov",0,0,0,0,0,0,2,1,1,1
+"12","5","1899 Hoffenheim - Eintracht Frankfurt","1899 Hoffenheim","Eintracht Frankfurt","0:0","0:2","AJ",0,0,0,0,0,0,0,2,-2,2
+"12","5","1899 Hoffenheim - Eintracht Frankfurt","1899 Hoffenheim","Eintracht Frankfurt","0:0","3:1","phil4delphia",0,0,0,0,0,0,3,1,2,2
+"12","5","1899 Hoffenheim - Eintracht Frankfurt","1899 Hoffenheim","Eintracht Frankfurt","0:0","1:2","BastiS.",0,0,0,0,0,0,1,2,-1,1
+"13","5","Bor. Mönchengladbach - Hannover 96","Bor. Mönchengladbach","Hannover 96","2:1","2:0","GesuSan",2,2,2,1,1,1,2,0,2,2
+"13","5","Bor. Mönchengladbach - Hannover 96","Bor. Mönchengladbach","Hannover 96","2:1","1:0","Schmonkey",3,3,2,1,1,1,1,0,1,1
+"13","5","Bor. Mönchengladbach - Hannover 96","Bor. Mönchengladbach","Hannover 96","2:1","2:0","Marc",2,2,2,1,1,1,2,0,2,2
+"13","5","Bor. Mönchengladbach - Hannover 96","Bor. Mönchengladbach","Hannover 96","2:1","2:1","Chris",4,4,2,1,1,1,2,1,1,1
+"13","5","Bor. Mönchengladbach - Hannover 96","Bor. Mönchengladbach","Hannover 96","2:1","2:0","Kryztianov",2,2,2,1,1,1,2,0,2,2
+"13","5","Bor. Mönchengladbach - Hannover 96","Bor. Mönchengladbach","Hannover 96","2:1","2:0","AJ",2,2,2,1,1,1,2,0,2,2
+"13","5","Bor. Mönchengladbach - Hannover 96","Bor. Mönchengladbach","Hannover 96","2:1","2:1","phil4delphia",4,4,2,1,1,1,2,1,1,1
+"13","5","Bor. Mönchengladbach - Hannover 96","Bor. Mönchengladbach","Hannover 96","2:1","4:1","BastiS.",2,2,2,1,1,1,4,1,3,3
+"14","5","Hannover 96 - FC Ingolstadt","Hannover 96","FC Ingolstadt","4:0","1:2","GesuSan",0,0,4,0,4,4,1,2,-1,1
+"14","5","Hannover 96 - FC Ingolstadt","Hannover 96","FC Ingolstadt","4:0","0:1","Schmonkey",0,0,4,0,4,4,0,1,-1,1
+"14","5","Hannover 96 - FC Ingolstadt","Hannover 96","FC Ingolstadt","4:0","0:1","Marc",0,0,4,0,4,4,0,1,-1,1
+"14","5","Hannover 96 - FC Ingolstadt","Hannover 96","FC Ingolstadt","4:0","0:0","Chris",0,0,4,0,4,4,0,0,0,0
+"14","5","Hannover 96 - FC Ingolstadt","Hannover 96","FC Ingolstadt","4:0","2:1","phil4delphia",2,2,4,0,4,4,2,1,1,1
+"14","5","Hannover 96 - FC Ingolstadt","Hannover 96","FC Ingolstadt","4:0","1:1","Kryztianov",0,0,4,0,4,4,1,1,0,0
+"14","5","Hannover 96 - FC Ingolstadt","Hannover 96","FC Ingolstadt","4:0","1:1","AJ",0,0,4,0,4,4,1,1,0,0
+"14","5","Hannover 96 - FC Ingolstadt","Hannover 96","FC Ingolstadt","4:0","2:2","BastiS.",0,0,4,0,4,4,2,2,0,0
+"15","5","1. FC Köln - FC Augsburg","1. FC Köln","FC Augsburg","0:1","1:0","GesuSan",0,0,0,1,-1,1,1,0,1,1
+"15","5","1. FC Köln - FC Augsburg","1. FC Köln","FC Augsburg","0:1","0:2","Schmonkey",2,2,0,1,-1,1,0,2,-2,2
+"15","5","1. FC Köln - FC Augsburg","1. FC Köln","FC Augsburg","0:1","1:1","Marc",0,0,0,1,-1,1,1,1,0,0
+"15","5","1. FC Köln - FC Augsburg","1. FC Köln","FC Augsburg","0:1","2:0","Chris",0,0,0,1,-1,1,2,0,2,2
+"15","5","1. FC Köln - FC Augsburg","1. FC Köln","FC Augsburg","0:1","2:1","Kryztianov",0,0,0,1,-1,1,2,1,1,1
+"15","5","1. FC Köln - FC Augsburg","1. FC Köln","FC Augsburg","0:1","1:1","phil4delphia",0,0,0,1,-1,1,1,1,0,0
+"15","5","1. FC Köln - FC Augsburg","1. FC Köln","FC Augsburg","0:1","1:1","AJ",0,0,0,1,-1,1,1,1,0,0
+"15","5","1. FC Köln - FC Augsburg","1. FC Köln","FC Augsburg","0:1","1:0","BastiS.",0,0,0,1,-1,1,1,0,1,1
+"1","6","Werder Bremen - FC Schalke 04","Werder Bremen","FC Schalke 04","0:3","0:2","GesuSan",2,2,0,3,-3,3,0,2,-2,2
+"1","6","Werder Bremen - FC Schalke 04","Werder Bremen","FC Schalke 04","0:3","0:1","Marc",2,2,0,3,-3,3,0,1,-1,1
+"1","6","Werder Bremen - FC Schalke 04","Werder Bremen","FC Schalke 04","0:3","1:2","AJ",2,2,0,3,-3,3,1,2,-1,1
+"1","6","Werder Bremen - FC Schalke 04","Werder Bremen","FC Schalke 04","0:3","2:2","BastiS.",0,0,0,3,-3,3,2,2,0,0
+"1","6","Werder Bremen - FC Schalke 04","Werder Bremen","FC Schalke 04","0:3","2:2","Kryztianov",0,0,0,3,-3,3,2,2,0,0
+"1","6","Werder Bremen - FC Schalke 04","Werder Bremen","FC Schalke 04","0:3","0:2","phil4delphia",2,2,0,3,-3,3,0,2,-2,2
+"1","6","Werder Bremen - FC Schalke 04","Werder Bremen","FC Schalke 04","0:3","2:0","Chris",0,0,0,3,-3,3,2,0,2,2
+"1","6","Werder Bremen - FC Schalke 04","Werder Bremen","FC Schalke 04","0:3","2:2","Schmonkey",0,0,0,3,-3,3,2,2,0,0
+"2","6","Hannover 96 - Bayer 04 Leverkusen","Hannover 96","Bayer 04 Leverkusen","0:1","0:2","Marc",2,2,0,1,-1,1,0,2,-2,2
+"2","6","Hannover 96 - Bayer 04 Leverkusen","Hannover 96","Bayer 04 Leverkusen","0:1","0:2","GesuSan",2,2,0,1,-1,1,0,2,-2,2
+"2","6","Hannover 96 - Bayer 04 Leverkusen","Hannover 96","Bayer 04 Leverkusen","0:1","0:2","Kryztianov",2,2,0,1,-1,1,0,2,-2,2
+"2","6","Hannover 96 - Bayer 04 Leverkusen","Hannover 96","Bayer 04 Leverkusen","0:1","0:2","AJ",2,2,0,1,-1,1,0,2,-2,2
+"2","6","Hannover 96 - Bayer 04 Leverkusen","Hannover 96","Bayer 04 Leverkusen","0:1","0:3","BastiS.",2,2,0,1,-1,1,0,3,-3,3
+"2","6","Hannover 96 - Bayer 04 Leverkusen","Hannover 96","Bayer 04 Leverkusen","0:1","1:2","Chris",3,3,0,1,-1,1,1,2,-1,1
+"2","6","Hannover 96 - Bayer 04 Leverkusen","Hannover 96","Bayer 04 Leverkusen","0:1","1:1","phil4delphia",0,0,0,1,-1,1,1,1,0,0
+"2","6","Hannover 96 - Bayer 04 Leverkusen","Hannover 96","Bayer 04 Leverkusen","0:1","2:2","Schmonkey",0,0,0,1,-1,1,2,2,0,0
+"3","6","FSV Mainz 05 - Hannover 96","FSV Mainz 05","Hannover 96","3:0","2:1","Marc",2,2,3,0,3,3,2,1,1,1
+"3","6","FSV Mainz 05 - Hannover 96","FSV Mainz 05","Hannover 96","3:0","2:0","Kryztianov",2,2,3,0,3,3,2,0,2,2
+"3","6","FSV Mainz 05 - Hannover 96","FSV Mainz 05","Hannover 96","3:0","2:1","GesuSan",2,2,3,0,3,3,2,1,1,1
+"3","6","FSV Mainz 05 - Hannover 96","FSV Mainz 05","Hannover 96","3:0","1:0","AJ",2,2,3,0,3,3,1,0,1,1
+"3","6","FSV Mainz 05 - Hannover 96","FSV Mainz 05","Hannover 96","3:0","2:1","Chris",2,2,3,0,3,3,2,1,1,1
+"3","6","FSV Mainz 05 - Hannover 96","FSV Mainz 05","Hannover 96","3:0","2:0","phil4delphia",2,2,3,0,3,3,2,0,2,2
+"3","6","FSV Mainz 05 - Hannover 96","FSV Mainz 05","Hannover 96","3:0","1:1","BastiS.",0,0,3,0,3,3,1,1,0,0
+"3","6","FSV Mainz 05 - Hannover 96","FSV Mainz 05","Hannover 96","3:0","2:0","Schmonkey",2,2,3,0,3,3,2,0,2,2
+"4","6","Bayer 04 Leverkusen - SV Darmstadt 98","Bayer 04 Leverkusen","SV Darmstadt 98","0:1","2:0","Marc",0,0,0,1,-1,1,2,0,2,2
+"4","6","Bayer 04 Leverkusen - SV Darmstadt 98","Bayer 04 Leverkusen","SV Darmstadt 98","0:1","2:1","GesuSan",0,0,0,1,-1,1,2,1,1,1
+"4","6","Bayer 04 Leverkusen - SV Darmstadt 98","Bayer 04 Leverkusen","SV Darmstadt 98","0:1","3:0","AJ",0,0,0,1,-1,1,3,0,3,3
+"4","6","Bayer 04 Leverkusen - SV Darmstadt 98","Bayer 04 Leverkusen","SV Darmstadt 98","0:1","2:0","Kryztianov",0,0,0,1,-1,1,2,0,2,2
+"4","6","Bayer 04 Leverkusen - SV Darmstadt 98","Bayer 04 Leverkusen","SV Darmstadt 98","0:1","3:0","Chris",0,0,0,1,-1,1,3,0,3,3
+"4","6","Bayer 04 Leverkusen - SV Darmstadt 98","Bayer 04 Leverkusen","SV Darmstadt 98","0:1","2:0","BastiS.",0,0,0,1,-1,1,2,0,2,2
+"4","6","Bayer 04 Leverkusen - SV Darmstadt 98","Bayer 04 Leverkusen","SV Darmstadt 98","0:1","2:1","phil4delphia",0,0,0,1,-1,1,2,1,1,1
+"4","6","Bayer 04 Leverkusen - SV Darmstadt 98","Bayer 04 Leverkusen","SV Darmstadt 98","0:1","3:1","Schmonkey",0,0,0,1,-1,1,3,1,2,2
+"5","6","Werder Bremen - FC Ingolstadt","Werder Bremen","FC Ingolstadt","0:1","0:1","GesuSan",4,4,0,1,-1,1,0,1,-1,1
+"5","6","Werder Bremen - FC Ingolstadt","Werder Bremen","FC Ingolstadt","0:1","2:0","Kryztianov",0,0,0,1,-1,1,2,0,2,2
+"5","6","Werder Bremen - FC Ingolstadt","Werder Bremen","FC Ingolstadt","0:1","2:0","Marc",0,0,0,1,-1,1,2,0,2,2
+"5","6","Werder Bremen - FC Ingolstadt","Werder Bremen","FC Ingolstadt","0:1","0:0","Chris",0,0,0,1,-1,1,0,0,0,0
+"5","6","Werder Bremen - FC Ingolstadt","Werder Bremen","FC Ingolstadt","0:1","2:0","AJ",0,0,0,1,-1,1,2,0,2,2
+"5","6","Werder Bremen - FC Ingolstadt","Werder Bremen","FC Ingolstadt","0:1","2:1","phil4delphia",0,0,0,1,-1,1,2,1,1,1
+"5","6","Werder Bremen - FC Ingolstadt","Werder Bremen","FC Ingolstadt","0:1","2:2","BastiS.",0,0,0,1,-1,1,2,2,0,0
+"5","6","Werder Bremen - FC Ingolstadt","Werder Bremen","FC Ingolstadt","0:1","1:2","Schmonkey",3,3,0,1,-1,1,1,2,-1,1
+"6","6","1899 Hoffenheim - Borussia Dortmund","1899 Hoffenheim","Borussia Dortmund","1:1","0:2","GesuSan",0,0,1,1,0,0,0,2,-2,2
+"6","6","1899 Hoffenheim - Borussia Dortmund","1899 Hoffenheim","Borussia Dortmund","1:1","0:2","Chris",0,0,1,1,0,0,0,2,-2,2
+"6","6","1899 Hoffenheim - Borussia Dortmund","1899 Hoffenheim","Borussia Dortmund","1:1","0:2","Kryztianov",0,0,1,1,0,0,0,2,-2,2
+"6","6","1899 Hoffenheim - Borussia Dortmund","1899 Hoffenheim","Borussia Dortmund","1:1","0:2","Marc",0,0,1,1,0,0,0,2,-2,2
+"6","6","1899 Hoffenheim - Borussia Dortmund","1899 Hoffenheim","Borussia Dortmund","1:1","0:2","AJ",0,0,1,1,0,0,0,2,-2,2
+"6","6","1899 Hoffenheim - Borussia Dortmund","1899 Hoffenheim","Borussia Dortmund","1:1","1:2","Schmonkey",0,0,1,1,0,0,1,2,-1,1
+"6","6","1899 Hoffenheim - Borussia Dortmund","1899 Hoffenheim","Borussia Dortmund","1:1","1:2","phil4delphia",0,0,1,1,0,0,1,2,-1,1
+"6","6","1899 Hoffenheim - Borussia Dortmund","1899 Hoffenheim","Borussia Dortmund","1:1","0:2","BastiS.",0,0,1,1,0,0,0,2,-2,2
+"7","6","FSV Mainz 05 - FC Bayern München","FSV Mainz 05","FC Bayern München","0:3","0:2","GesuSan",2,2,0,3,-3,3,0,2,-2,2
+"7","6","FSV Mainz 05 - FC Bayern München","FSV Mainz 05","FC Bayern München","0:3","1:3","Chris",2,2,0,3,-3,3,1,3,-2,2
+"7","6","FSV Mainz 05 - FC Bayern München","FSV Mainz 05","FC Bayern München","0:3","0:3","Marc",4,4,0,3,-3,3,0,3,-3,3
+"7","6","FSV Mainz 05 - FC Bayern München","FSV Mainz 05","FC Bayern München","0:3","0:2","Kryztianov",2,2,0,3,-3,3,0,2,-2,2
+"7","6","FSV Mainz 05 - FC Bayern München","FSV Mainz 05","FC Bayern München","0:3","0:3","AJ",4,4,0,3,-3,3,0,3,-3,3
+"7","6","FSV Mainz 05 - FC Bayern München","FSV Mainz 05","FC Bayern München","0:3","0:4","BastiS.",2,2,0,3,-3,3,0,4,-4,4
+"7","6","FSV Mainz 05 - FC Bayern München","FSV Mainz 05","FC Bayern München","0:3","1:2","Schmonkey",2,2,0,3,-3,3,1,2,-1,1
+"7","6","FSV Mainz 05 - FC Bayern München","FSV Mainz 05","FC Bayern München","0:3","0:2","phil4delphia",2,2,0,3,-3,3,0,2,-2,2
+"8","6","Bor. Mönchengladbach - VfL Wolfsburg","Bor. Mönchengladbach","VfL Wolfsburg","2:0","1:2","GesuSan",0,0,2,0,2,2,1,2,-1,1
+"8","6","Bor. Mönchengladbach - VfL Wolfsburg","Bor. Mönchengladbach","VfL Wolfsburg","2:0","1:2","Marc",0,0,2,0,2,2,1,2,-1,1
+"8","6","Bor. Mönchengladbach - VfL Wolfsburg","Bor. Mönchengladbach","VfL Wolfsburg","2:0","1:2","Chris",0,0,2,0,2,2,1,2,-1,1
+"8","6","Bor. Mönchengladbach - VfL Wolfsburg","Bor. Mönchengladbach","VfL Wolfsburg","2:0","2:2","Kryztianov",0,0,2,0,2,2,2,2,0,0
+"8","6","Bor. Mönchengladbach - VfL Wolfsburg","Bor. Mönchengladbach","VfL Wolfsburg","2:0","3:1","Schmonkey",3,3,2,0,2,2,3,1,2,2
+"8","6","Bor. Mönchengladbach - VfL Wolfsburg","Bor. Mönchengladbach","VfL Wolfsburg","2:0","1:1","AJ",0,0,2,0,2,2,1,1,0,0
+"8","6","Bor. Mönchengladbach - VfL Wolfsburg","Bor. Mönchengladbach","VfL Wolfsburg","2:0","2:2","phil4delphia",0,0,2,0,2,2,2,2,0,0
+"8","6","Bor. Mönchengladbach - VfL Wolfsburg","Bor. Mönchengladbach","VfL Wolfsburg","2:0","2:2","BastiS.",0,0,2,0,2,2,2,2,0,0
+"9","6","FC Schalke 04 - Hertha BSC","FC Schalke 04","Hertha BSC","2:1","2:0","GesuSan",2,2,2,1,1,1,2,0,2,2
+"9","6","FC Schalke 04 - Hertha BSC","FC Schalke 04","Hertha BSC","2:1","1:1","Marc",0,0,2,1,1,1,1,1,0,0
+"9","6","FC Schalke 04 - Hertha BSC","FC Schalke 04","Hertha BSC","2:1","1:0","Chris",3,3,2,1,1,1,1,0,1,1
+"9","6","FC Schalke 04 - Hertha BSC","FC Schalke 04","Hertha BSC","2:1","3:1","Schmonkey",2,2,2,1,1,1,3,1,2,2
+"9","6","FC Schalke 04 - Hertha BSC","FC Schalke 04","Hertha BSC","2:1","2:2","Kryztianov",0,0,2,1,1,1,2,2,0,0
+"9","6","FC Schalke 04 - Hertha BSC","FC Schalke 04","Hertha BSC","2:1","1:1","AJ",0,0,2,1,1,1,1,1,0,0
+"9","6","FC Schalke 04 - Hertha BSC","FC Schalke 04","Hertha BSC","2:1","1:1","phil4delphia",0,0,2,1,1,1,1,1,0,0
+"9","6","FC Schalke 04 - Hertha BSC","FC Schalke 04","Hertha BSC","2:1","2:0","BastiS.",2,2,2,1,1,1,2,0,2,2
+"10","6","FC Bayern München - 1. FC Köln","FC Bayern München","1. FC Köln","4:0","2:0","GesuSan",2,2,4,0,4,4,2,0,2,2
+"10","6","FC Bayern München - 1. FC Köln","FC Bayern München","1. FC Köln","4:0","1:0","Chris",2,2,4,0,4,4,1,0,1,1
+"10","6","FC Bayern München - 1. FC Köln","FC Bayern München","1. FC Köln","4:0","3:0","Marc",2,2,4,0,4,4,3,0,3,3
+"10","6","FC Bayern München - 1. FC Köln","FC Bayern München","1. FC Köln","4:0","2:0","Schmonkey",2,2,4,0,4,4,2,0,2,2
+"10","6","FC Bayern München - 1. FC Köln","FC Bayern München","1. FC Köln","4:0","3:0","Kryztianov",2,2,4,0,4,4,3,0,3,3
+"10","6","FC Bayern München - 1. FC Köln","FC Bayern München","1. FC Köln","4:0","4:1","AJ",2,2,4,0,4,4,4,1,3,3
+"10","6","FC Bayern München - 1. FC Köln","FC Bayern München","1. FC Köln","4:0","3:1","BastiS.",2,2,4,0,4,4,3,1,2,2
+"10","6","FC Bayern München - 1. FC Köln","FC Bayern München","1. FC Köln","4:0","3:0","phil4delphia",2,2,4,0,4,4,3,0,3,3
+"11","6","FC Schalke 04 - FC Ingolstadt","FC Schalke 04","FC Ingolstadt","1:1","1:0","GesuSan",0,0,1,1,0,0,1,0,1,1
+"11","6","FC Schalke 04 - FC Ingolstadt","FC Schalke 04","FC Ingolstadt","1:1","2:1","Marc",0,0,1,1,0,0,2,1,1,1
+"11","6","FC Schalke 04 - FC Ingolstadt","FC Schalke 04","FC Ingolstadt","1:1","2:0","Schmonkey",0,0,1,1,0,0,2,0,2,2
+"11","6","FC Schalke 04 - FC Ingolstadt","FC Schalke 04","FC Ingolstadt","1:1","2:1","Chris",0,0,1,1,0,0,2,1,1,1
+"11","6","FC Schalke 04 - FC Ingolstadt","FC Schalke 04","FC Ingolstadt","1:1","2:1","Kryztianov",0,0,1,1,0,0,2,1,1,1
+"11","6","FC Schalke 04 - FC Ingolstadt","FC Schalke 04","FC Ingolstadt","1:1","2:1","AJ",0,0,1,1,0,0,2,1,1,1
+"11","6","FC Schalke 04 - FC Ingolstadt","FC Schalke 04","FC Ingolstadt","1:1","2:1","phil4delphia",0,0,1,1,0,0,2,1,1,1
+"11","6","FC Schalke 04 - FC Ingolstadt","FC Schalke 04","FC Ingolstadt","1:1","2:0","BastiS.",0,0,1,1,0,0,2,0,2,2
+"12","6","Bor. Mönchengladbach - FC Ingolstadt","Bor. Mönchengladbach","FC Ingolstadt","0:0","2:1","GesuSan",0,0,0,0,0,0,2,1,1,1
+"12","6","Bor. Mönchengladbach - FC Ingolstadt","Bor. Mönchengladbach","FC Ingolstadt","0:0","2:0","Marc",0,0,0,0,0,0,2,0,2,2
+"12","6","Bor. Mönchengladbach - FC Ingolstadt","Bor. Mönchengladbach","FC Ingolstadt","0:0","3:1","Schmonkey",0,0,0,0,0,0,3,1,2,2
+"12","6","Bor. Mönchengladbach - FC Ingolstadt","Bor. Mönchengladbach","FC Ingolstadt","0:0","1:0","Chris",0,0,0,0,0,0,1,0,1,1
+"12","6","Bor. Mönchengladbach - FC Ingolstadt","Bor. Mönchengladbach","FC Ingolstadt","0:0","2:0","Kryztianov",0,0,0,0,0,0,2,0,2,2
+"12","6","Bor. Mönchengladbach - FC Ingolstadt","Bor. Mönchengladbach","FC Ingolstadt","0:0","2:0","AJ",0,0,0,0,0,0,2,0,2,2
+"12","6","Bor. Mönchengladbach - FC Ingolstadt","Bor. Mönchengladbach","FC Ingolstadt","0:0","3:1","phil4delphia",0,0,0,0,0,0,3,1,2,2
+"12","6","Bor. Mönchengladbach - FC Ingolstadt","Bor. Mönchengladbach","FC Ingolstadt","0:0","3:1","BastiS.",0,0,0,0,0,0,3,1,2,2
+"13","6","VfB Stuttgart - FC Augsburg","VfB Stuttgart","FC Augsburg","0:4","1:0","GesuSan",0,0,0,4,-4,4,1,0,1,1
+"13","6","VfB Stuttgart - FC Augsburg","VfB Stuttgart","FC Augsburg","0:4","0:1","Schmonkey",2,2,0,4,-4,4,0,1,-1,1
+"13","6","VfB Stuttgart - FC Augsburg","VfB Stuttgart","FC Augsburg","0:4","3:1","Marc",0,0,0,4,-4,4,3,1,2,2
+"13","6","VfB Stuttgart - FC Augsburg","VfB Stuttgart","FC Augsburg","0:4","1:0","Chris",0,0,0,4,-4,4,1,0,1,1
+"13","6","VfB Stuttgart - FC Augsburg","VfB Stuttgart","FC Augsburg","0:4","1:1","Kryztianov",0,0,0,4,-4,4,1,1,0,0
+"13","6","VfB Stuttgart - FC Augsburg","VfB Stuttgart","FC Augsburg","0:4","3:2","AJ",0,0,0,4,-4,4,3,2,1,1
+"13","6","VfB Stuttgart - FC Augsburg","VfB Stuttgart","FC Augsburg","0:4","2:2","phil4delphia",0,0,0,4,-4,4,2,2,0,0
+"13","6","VfB Stuttgart - FC Augsburg","VfB Stuttgart","FC Augsburg","0:4","1:1","BastiS.",0,0,0,4,-4,4,1,1,0,0
+"14","6","FSV Mainz 05 - Eintracht Frankfurt","FSV Mainz 05","Eintracht Frankfurt","2:1","1:0","GesuSan",3,3,2,1,1,1,1,0,1,1
+"14","6","FSV Mainz 05 - Eintracht Frankfurt","FSV Mainz 05","Eintracht Frankfurt","2:1","2:1","Schmonkey",4,4,2,1,1,1,2,1,1,1
+"14","6","FSV Mainz 05 - Eintracht Frankfurt","FSV Mainz 05","Eintracht Frankfurt","2:1","2:1","Marc",4,4,2,1,1,1,2,1,1,1
+"14","6","FSV Mainz 05 - Eintracht Frankfurt","FSV Mainz 05","Eintracht Frankfurt","2:1","1:0","Chris",3,3,2,1,1,1,1,0,1,1
+"14","6","FSV Mainz 05 - Eintracht Frankfurt","FSV Mainz 05","Eintracht Frankfurt","2:1","1:0","phil4delphia",3,3,2,1,1,1,1,0,1,1
+"14","6","FSV Mainz 05 - Eintracht Frankfurt","FSV Mainz 05","Eintracht Frankfurt","2:1","1:1","Kryztianov",0,0,2,1,1,1,1,1,0,0
+"14","6","FSV Mainz 05 - Eintracht Frankfurt","FSV Mainz 05","Eintracht Frankfurt","2:1","2:1","AJ",4,4,2,1,1,1,2,1,1,1
+"14","6","FSV Mainz 05 - Eintracht Frankfurt","FSV Mainz 05","Eintracht Frankfurt","2:1","1:0","BastiS.",3,3,2,1,1,1,1,0,1,1
+"15","6","FC Ingolstadt - 1899 Hoffenheim","FC Ingolstadt","1899 Hoffenheim","1:1","1:0","GesuSan",0,0,1,1,0,0,1,0,1,1
+"15","6","FC Ingolstadt - 1899 Hoffenheim","FC Ingolstadt","1899 Hoffenheim","1:1","1:3","Schmonkey",0,0,1,1,0,0,1,3,-2,2
+"15","6","FC Ingolstadt - 1899 Hoffenheim","FC Ingolstadt","1899 Hoffenheim","1:1","0:1","Marc",0,0,1,1,0,0,0,1,-1,1
+"15","6","FC Ingolstadt - 1899 Hoffenheim","FC Ingolstadt","1899 Hoffenheim","1:1","1:0","Chris",0,0,1,1,0,0,1,0,1,1
+"15","6","FC Ingolstadt - 1899 Hoffenheim","FC Ingolstadt","1899 Hoffenheim","1:1","1:2","Kryztianov",0,0,1,1,0,0,1,2,-1,1
+"15","6","FC Ingolstadt - 1899 Hoffenheim","FC Ingolstadt","1899 Hoffenheim","1:1","0:1","phil4delphia",0,0,1,1,0,0,0,1,-1,1
+"15","6","FC Ingolstadt - 1899 Hoffenheim","FC Ingolstadt","1899 Hoffenheim","1:1","2:1","AJ",0,0,1,1,0,0,2,1,1,1
+"15","6","FC Ingolstadt - 1899 Hoffenheim","FC Ingolstadt","1899 Hoffenheim","1:1","0:2","BastiS.",0,0,1,1,0,0,0,2,-2,2
+"1","7","Borussia Dortmund - Bor. Mönchengladbach","Borussia Dortmund","Bor. Mönchengladbach","4:0","2:1","GesuSan",2,2,4,0,4,4,2,1,1,1
+"1","7","Borussia Dortmund - Bor. Mönchengladbach","Borussia Dortmund","Bor. Mönchengladbach","4:0","2:1","Marc",2,2,4,0,4,4,2,1,1,1
+"1","7","Borussia Dortmund - Bor. Mönchengladbach","Borussia Dortmund","Bor. Mönchengladbach","4:0","1:0","AJ",2,2,4,0,4,4,1,0,1,1
+"1","7","Borussia Dortmund - Bor. Mönchengladbach","Borussia Dortmund","Bor. Mönchengladbach","4:0","2:0","BastiS.",2,2,4,0,4,4,2,0,2,2
+"1","7","Borussia Dortmund - Bor. Mönchengladbach","Borussia Dortmund","Bor. Mönchengladbach","4:0","2:1","Kryztianov",2,2,4,0,4,4,2,1,1,1
+"1","7","Borussia Dortmund - Bor. Mönchengladbach","Borussia Dortmund","Bor. Mönchengladbach","4:0","3:2","phil4delphia",2,2,4,0,4,4,3,2,1,1
+"1","7","Borussia Dortmund - Bor. Mönchengladbach","Borussia Dortmund","Bor. Mönchengladbach","4:0","3:2","Chris",2,2,4,0,4,4,3,2,1,1
+"1","7","Borussia Dortmund - Bor. Mönchengladbach","Borussia Dortmund","Bor. Mönchengladbach","4:0","1:1","Schmonkey",0,0,4,0,4,4,1,1,0,0
+"2","7","Hamburger SV - VfB Stuttgart","Hamburger SV","VfB Stuttgart","3:2","1:0","Marc",3,3,3,2,1,1,1,0,1,1
+"2","7","Hamburger SV - VfB Stuttgart","Hamburger SV","VfB Stuttgart","3:2","0:1","GesuSan",0,0,3,2,1,1,0,1,-1,1
+"2","7","Hamburger SV - VfB Stuttgart","Hamburger SV","VfB Stuttgart","3:2","1:1","Kryztianov",0,0,3,2,1,1,1,1,0,0
+"2","7","Hamburger SV - VfB Stuttgart","Hamburger SV","VfB Stuttgart","3:2","0:2","AJ",0,0,3,2,1,1,0,2,-2,2
+"2","7","Hamburger SV - VfB Stuttgart","Hamburger SV","VfB Stuttgart","3:2","1:1","BastiS.",0,0,3,2,1,1,1,1,0,0
+"2","7","Hamburger SV - VfB Stuttgart","Hamburger SV","VfB Stuttgart","3:2","0:2","Chris",0,0,3,2,1,1,0,2,-2,2
+"2","7","Hamburger SV - VfB Stuttgart","Hamburger SV","VfB Stuttgart","3:2","1:3","phil4delphia",0,0,3,2,1,1,1,3,-2,2
+"2","7","Hamburger SV - VfB Stuttgart","Hamburger SV","VfB Stuttgart","3:2","1:3","Schmonkey",0,0,3,2,1,1,1,3,-2,2
+"3","7","FC Bayern München - Bayer 04 Leverkusen","FC Bayern München","Bayer 04 Leverkusen","3:0","2:0","Marc",2,2,3,0,3,3,2,0,2,2
+"3","7","FC Bayern München - Bayer 04 Leverkusen","FC Bayern München","Bayer 04 Leverkusen","3:0","1:0","Kryztianov",2,2,3,0,3,3,1,0,1,1
+"3","7","FC Bayern München - Bayer 04 Leverkusen","FC Bayern München","Bayer 04 Leverkusen","3:0","2:0","GesuSan",2,2,3,0,3,3,2,0,2,2
+"3","7","FC Bayern München - Bayer 04 Leverkusen","FC Bayern München","Bayer 04 Leverkusen","3:0","2:1","AJ",2,2,3,0,3,3,2,1,1,1
+"3","7","FC Bayern München - Bayer 04 Leverkusen","FC Bayern München","Bayer 04 Leverkusen","3:0","1:1","Chris",0,0,3,0,3,3,1,1,0,0
+"3","7","FC Bayern München - Bayer 04 Leverkusen","FC Bayern München","Bayer 04 Leverkusen","3:0","3:1","phil4delphia",2,2,3,0,3,3,3,1,2,2
+"3","7","FC Bayern München - Bayer 04 Leverkusen","FC Bayern München","Bayer 04 Leverkusen","3:0","3:1","BastiS.",2,2,3,0,3,3,3,1,2,2
+"3","7","FC Bayern München - Bayer 04 Leverkusen","FC Bayern München","Bayer 04 Leverkusen","3:0","2:0","Schmonkey",2,2,3,0,3,3,2,0,2,2
+"4","7","Eintracht Frankfurt - 1. FC Köln","Eintracht Frankfurt","1. FC Köln","6:2","1:2","Marc",0,0,6,2,4,4,1,2,-1,1
+"4","7","Eintracht Frankfurt - 1. FC Köln","Eintracht Frankfurt","1. FC Köln","6:2","1:1","GesuSan",0,0,6,2,4,4,1,1,0,0
+"4","7","Eintracht Frankfurt - 1. FC Köln","Eintracht Frankfurt","1. FC Köln","6:2","1:1","AJ",0,0,6,2,4,4,1,1,0,0
+"4","7","Eintracht Frankfurt - 1. FC Köln","Eintracht Frankfurt","1. FC Köln","6:2","2:2","Kryztianov",0,0,6,2,4,4,2,2,0,0
+"4","7","Eintracht Frankfurt - 1. FC Köln","Eintracht Frankfurt","1. FC Köln","6:2","0:0","Chris",0,0,6,2,4,4,0,0,0,0
+"4","7","Eintracht Frankfurt - 1. FC Köln","Eintracht Frankfurt","1. FC Köln","6:2","2:1","BastiS.",2,2,6,2,4,4,2,1,1,1
+"4","7","Eintracht Frankfurt - 1. FC Köln","Eintracht Frankfurt","1. FC Köln","6:2","1:1","phil4delphia",0,0,6,2,4,4,1,1,0,0
+"4","7","Eintracht Frankfurt - 1. FC Köln","Eintracht Frankfurt","1. FC Köln","6:2","2:0","Schmonkey",2,2,6,2,4,4,2,0,2,2
+"5","7","VfB Stuttgart - FC Schalke 04","VfB Stuttgart","FC Schalke 04","0:1","0:1","GesuSan",4,4,0,1,-1,1,0,1,-1,1
+"5","7","VfB Stuttgart - FC Schalke 04","VfB Stuttgart","FC Schalke 04","0:1","1:2","Kryztianov",3,3,0,1,-1,1,1,2,-1,1
+"5","7","VfB Stuttgart - FC Schalke 04","VfB Stuttgart","FC Schalke 04","0:1","1:1","Marc",0,0,0,1,-1,1,1,1,0,0
+"5","7","VfB Stuttgart - FC Schalke 04","VfB Stuttgart","FC Schalke 04","0:1","0:1","Chris",4,4,0,1,-1,1,0,1,-1,1
+"5","7","VfB Stuttgart - FC Schalke 04","VfB Stuttgart","FC Schalke 04","0:1","0:2","AJ",2,2,0,1,-1,1,0,2,-2,2
+"5","7","VfB Stuttgart - FC Schalke 04","VfB Stuttgart","FC Schalke 04","0:1","1:2","phil4delphia",3,3,0,1,-1,1,1,2,-1,1
+"5","7","VfB Stuttgart - FC Schalke 04","VfB Stuttgart","FC Schalke 04","0:1","1:2","BastiS.",3,3,0,1,-1,1,1,2,-1,1
+"5","7","VfB Stuttgart - FC Schalke 04","VfB Stuttgart","FC Schalke 04","0:1","1:2","Schmonkey",3,3,0,1,-1,1,1,2,-1,1
+"6","7","Bor. Mönchengladbach - FC Augsburg","Bor. Mönchengladbach","FC Augsburg","4:2","0:2","GesuSan",0,0,4,2,2,2,0,2,-2,2
+"6","7","Bor. Mönchengladbach - FC Augsburg","Bor. Mönchengladbach","FC Augsburg","4:2","1:0","Chris",2,2,4,2,2,2,1,0,1,1
+"6","7","Bor. Mönchengladbach - FC Augsburg","Bor. Mönchengladbach","FC Augsburg","4:2","1:1","Kryztianov",0,0,4,2,2,2,1,1,0,0
+"6","7","Bor. Mönchengladbach - FC Augsburg","Bor. Mönchengladbach","FC Augsburg","4:2","0:1","Marc",0,0,4,2,2,2,0,1,-1,1
+"6","7","Bor. Mönchengladbach - FC Augsburg","Bor. Mönchengladbach","FC Augsburg","4:2","1:1","AJ",0,0,4,2,2,2,1,1,0,0
+"6","7","Bor. Mönchengladbach - FC Augsburg","Bor. Mönchengladbach","FC Augsburg","4:2","0:1","Schmonkey",0,0,4,2,2,2,0,1,-1,1
+"6","7","Bor. Mönchengladbach - FC Augsburg","Bor. Mönchengladbach","FC Augsburg","4:2","2:0","phil4delphia",3,3,4,2,2,2,2,0,2,2
+"6","7","Bor. Mönchengladbach - FC Augsburg","Bor. Mönchengladbach","FC Augsburg","4:2","2:0","BastiS.",3,3,4,2,2,2,2,0,2,2
+"7","7","Hamburger SV - FC Schalke 04","Hamburger SV","FC Schalke 04","0:1","0:1","GesuSan",4,4,0,1,-1,1,0,1,-1,1
+"7","7","Hamburger SV - FC Schalke 04","Hamburger SV","FC Schalke 04","0:1","1:2","Chris",3,3,0,1,-1,1,1,2,-1,1
+"7","7","Hamburger SV - FC Schalke 04","Hamburger SV","FC Schalke 04","0:1","0:1","Marc",4,4,0,1,-1,1,0,1,-1,1
+"7","7","Hamburger SV - FC Schalke 04","Hamburger SV","FC Schalke 04","0:1","1:1","Kryztianov",0,0,0,1,-1,1,1,1,0,0
+"7","7","Hamburger SV - FC Schalke 04","Hamburger SV","FC Schalke 04","0:1","1:1","AJ",0,0,0,1,-1,1,1,1,0,0
+"7","7","Hamburger SV - FC Schalke 04","Hamburger SV","FC Schalke 04","0:1","1:2","BastiS.",3,3,0,1,-1,1,1,2,-1,1
+"7","7","Hamburger SV - FC Schalke 04","Hamburger SV","FC Schalke 04","0:1","2:1","Schmonkey",0,0,0,1,-1,1,2,1,1,1
+"7","7","Hamburger SV - FC Schalke 04","Hamburger SV","FC Schalke 04","0:1","0:1","phil4delphia",4,4,0,1,-1,1,0,1,-1,1
+"8","7","FC Schalke 04 - 1. FC Köln","FC Schalke 04","1. FC Köln","0:3","1:0","GesuSan",0,0,0,3,-3,3,1,0,1,1
+"8","7","FC Schalke 04 - 1. FC Köln","FC Schalke 04","1. FC Köln","0:3","2:1","Marc",0,0,0,3,-3,3,2,1,1,1
+"8","7","FC Schalke 04 - 1. FC Köln","FC Schalke 04","1. FC Köln","0:3","2:0","Chris",0,0,0,3,-3,3,2,0,2,2
+"8","7","FC Schalke 04 - 1. FC Köln","FC Schalke 04","1. FC Köln","0:3","2:2","Kryztianov",0,0,0,3,-3,3,2,2,0,0
+"8","7","FC Schalke 04 - 1. FC Köln","FC Schalke 04","1. FC Köln","0:3","1:0","Schmonkey",0,0,0,3,-3,3,1,0,1,1
+"8","7","FC Schalke 04 - 1. FC Köln","FC Schalke 04","1. FC Köln","0:3","1:0","AJ",0,0,0,3,-3,3,1,0,1,1
+"8","7","FC Schalke 04 - 1. FC Köln","FC Schalke 04","1. FC Köln","0:3","2:0","phil4delphia",0,0,0,3,-3,3,2,0,2,2
+"8","7","FC Schalke 04 - 1. FC Köln","FC Schalke 04","1. FC Köln","0:3","2:0","BastiS.",0,0,0,3,-3,3,2,0,2,2
+"9","7","Eintracht Frankfurt - Bor. Mönchengladbach","Eintracht Frankfurt","Bor. Mönchengladbach","1:5","2:1","GesuSan",0,0,1,5,-4,4,2,1,1,1
+"9","7","Eintracht Frankfurt - Bor. Mönchengladbach","Eintracht Frankfurt","Bor. Mönchengladbach","1:5","0:2","Marc",2,2,1,5,-4,4,0,2,-2,2
+"9","7","Eintracht Frankfurt - Bor. Mönchengladbach","Eintracht Frankfurt","Bor. Mönchengladbach","1:5","1:2","Chris",2,2,1,5,-4,4,1,2,-1,1
+"9","7","Eintracht Frankfurt - Bor. Mönchengladbach","Eintracht Frankfurt","Bor. Mönchengladbach","1:5","1:2","Schmonkey",2,2,1,5,-4,4,1,2,-1,1
+"9","7","Eintracht Frankfurt - Bor. Mönchengladbach","Eintracht Frankfurt","Bor. Mönchengladbach","1:5","2:2","Kryztianov",0,0,1,5,-4,4,2,2,0,0
+"9","7","Eintracht Frankfurt - Bor. Mönchengladbach","Eintracht Frankfurt","Bor. Mönchengladbach","1:5","2:1","AJ",0,0,1,5,-4,4,2,1,1,1
+"9","7","Eintracht Frankfurt - Bor. Mönchengladbach","Eintracht Frankfurt","Bor. Mönchengladbach","1:5","3:2","phil4delphia",0,0,1,5,-4,4,3,2,1,1
+"9","7","Eintracht Frankfurt - Bor. Mönchengladbach","Eintracht Frankfurt","Bor. Mönchengladbach","1:5","2:2","BastiS.",0,0,1,5,-4,4,2,2,0,0
+"10","7","FC Ingolstadt - Hertha BSC","FC Ingolstadt","Hertha BSC","0:1","1:0","GesuSan",0,0,0,1,-1,1,1,0,1,1
+"10","7","FC Ingolstadt - Hertha BSC","FC Ingolstadt","Hertha BSC","0:1","3:2","Chris",0,0,0,1,-1,1,3,2,1,1
+"10","7","FC Ingolstadt - Hertha BSC","FC Ingolstadt","Hertha BSC","0:1","2:1","Marc",0,0,0,1,-1,1,2,1,1,1
+"10","7","FC Ingolstadt - Hertha BSC","FC Ingolstadt","Hertha BSC","0:1","1:2","Schmonkey",3,3,0,1,-1,1,1,2,-1,1
+"10","7","FC Ingolstadt - Hertha BSC","FC Ingolstadt","Hertha BSC","0:1","0:1","Kryztianov",4,4,0,1,-1,1,0,1,-1,1
+"10","7","FC Ingolstadt - Hertha BSC","FC Ingolstadt","Hertha BSC","0:1","0:0","AJ",0,0,0,1,-1,1,0,0,0,0
+"10","7","FC Ingolstadt - Hertha BSC","FC Ingolstadt","Hertha BSC","0:1","2:1","BastiS.",0,0,0,1,-1,1,2,1,1,1
+"10","7","FC Ingolstadt - Hertha BSC","FC Ingolstadt","Hertha BSC","0:1","1:1","phil4delphia",0,0,0,1,-1,1,1,1,0,0
+"11","7","VfL Wolfsburg - Bayer 04 Leverkusen","VfL Wolfsburg","Bayer 04 Leverkusen","2:1","2:1","GesuSan",4,4,2,1,1,1,2,1,1,1
+"11","7","VfL Wolfsburg - Bayer 04 Leverkusen","VfL Wolfsburg","Bayer 04 Leverkusen","2:1","2:1","Marc",4,4,2,1,1,1,2,1,1,1
+"11","7","VfL Wolfsburg - Bayer 04 Leverkusen","VfL Wolfsburg","Bayer 04 Leverkusen","2:1","3:1","Schmonkey",2,2,2,1,1,1,3,1,2,2
+"11","7","VfL Wolfsburg - Bayer 04 Leverkusen","VfL Wolfsburg","Bayer 04 Leverkusen","2:1","1:2","Chris",0,0,2,1,1,1,1,2,-1,1
+"11","7","VfL Wolfsburg - Bayer 04 Leverkusen","VfL Wolfsburg","Bayer 04 Leverkusen","2:1","2:2","Kryztianov",0,0,2,1,1,1,2,2,0,0
+"11","7","VfL Wolfsburg - Bayer 04 Leverkusen","VfL Wolfsburg","Bayer 04 Leverkusen","2:1","2:2","AJ",0,0,2,1,1,1,2,2,0,0
+"11","7","VfL Wolfsburg - Bayer 04 Leverkusen","VfL Wolfsburg","Bayer 04 Leverkusen","2:1","3:2","phil4delphia",3,3,2,1,1,1,3,2,1,1
+"11","7","VfL Wolfsburg - Bayer 04 Leverkusen","VfL Wolfsburg","Bayer 04 Leverkusen","2:1","2:2","BastiS.",0,0,2,1,1,1,2,2,0,0
+"12","7","SV Darmstadt 98 - Hamburger SV","SV Darmstadt 98","Hamburger SV","1:1","1:0","GesuSan",0,0,1,1,0,0,1,0,1,1
+"12","7","SV Darmstadt 98 - Hamburger SV","SV Darmstadt 98","Hamburger SV","1:1","1:1","Marc",4,4,1,1,0,0,1,1,0,0
+"12","7","SV Darmstadt 98 - Hamburger SV","SV Darmstadt 98","Hamburger SV","1:1","0:1","Schmonkey",0,0,1,1,0,0,0,1,-1,1
+"12","7","SV Darmstadt 98 - Hamburger SV","SV Darmstadt 98","Hamburger SV","1:1","1:2","Chris",0,0,1,1,0,0,1,2,-1,1
+"12","7","SV Darmstadt 98 - Hamburger SV","SV Darmstadt 98","Hamburger SV","1:1","1:1","Kryztianov",4,4,1,1,0,0,1,1,0,0
+"12","7","SV Darmstadt 98 - Hamburger SV","SV Darmstadt 98","Hamburger SV","1:1","1:1","AJ",4,4,1,1,0,0,1,1,0,0
+"12","7","SV Darmstadt 98 - Hamburger SV","SV Darmstadt 98","Hamburger SV","1:1","1:0","phil4delphia",0,0,1,1,0,0,1,0,1,1
+"12","7","SV Darmstadt 98 - Hamburger SV","SV Darmstadt 98","Hamburger SV","1:1","2:1","BastiS.",0,0,1,1,0,0,2,1,1,1
+"13","7","FC Schalke 04 - FC Bayern München","FC Schalke 04","FC Bayern München","1:3","1:3","GesuSan",4,4,1,3,-2,2,1,3,-2,2
+"13","7","FC Schalke 04 - FC Bayern München","FC Schalke 04","FC Bayern München","1:3","0:2","Schmonkey",3,3,1,3,-2,2,0,2,-2,2
+"13","7","FC Schalke 04 - FC Bayern München","FC Schalke 04","FC Bayern München","1:3","0:3","Marc",2,2,1,3,-2,2,0,3,-3,3
+"13","7","FC Schalke 04 - FC Bayern München","FC Schalke 04","FC Bayern München","1:3","0:3","Chris",2,2,1,3,-2,2,0,3,-3,3
+"13","7","FC Schalke 04 - FC Bayern München","FC Schalke 04","FC Bayern München","1:3","0:3","Kryztianov",2,2,1,3,-2,2,0,3,-3,3
+"13","7","FC Schalke 04 - FC Bayern München","FC Schalke 04","FC Bayern München","1:3","0:3","AJ",2,2,1,3,-2,2,0,3,-3,3
+"13","7","FC Schalke 04 - FC Bayern München","FC Schalke 04","FC Bayern München","1:3","0:2","phil4delphia",3,3,1,3,-2,2,0,2,-2,2
+"13","7","FC Schalke 04 - FC Bayern München","FC Schalke 04","FC Bayern München","1:3","0:3","BastiS.",2,2,1,3,-2,2,0,3,-3,3
+"14","7","Borussia Dortmund - VfB Stuttgart","Borussia Dortmund","VfB Stuttgart","4:1","2:0","GesuSan",2,2,4,1,3,3,2,0,2,2
+"14","7","Borussia Dortmund - VfB Stuttgart","Borussia Dortmund","VfB Stuttgart","4:1","3:2","Schmonkey",2,2,4,1,3,3,3,2,1,1
+"14","7","Borussia Dortmund - VfB Stuttgart","Borussia Dortmund","VfB Stuttgart","4:1","3:2","Marc",2,2,4,1,3,3,3,2,1,1
+"14","7","Borussia Dortmund - VfB Stuttgart","Borussia Dortmund","VfB Stuttgart","4:1","2:0","Chris",2,2,4,1,3,3,2,0,2,2
+"14","7","Borussia Dortmund - VfB Stuttgart","Borussia Dortmund","VfB Stuttgart","4:1","3:2","phil4delphia",2,2,4,1,3,3,3,2,1,1
+"14","7","Borussia Dortmund - VfB Stuttgart","Borussia Dortmund","VfB Stuttgart","4:1","2:0","Kryztianov",2,2,4,1,3,3,2,0,2,2
+"14","7","Borussia Dortmund - VfB Stuttgart","Borussia Dortmund","VfB Stuttgart","4:1","3:1","AJ",2,2,4,1,3,3,3,1,2,2
+"14","7","Borussia Dortmund - VfB Stuttgart","Borussia Dortmund","VfB Stuttgart","4:1","2:0","BastiS.",2,2,4,1,3,3,2,0,2,2
+"15","7","VfL Wolfsburg - Borussia Dortmund","VfL Wolfsburg","Borussia Dortmund","1:2","1:2","GesuSan",4,4,1,2,-1,1,1,2,-1,1
+"15","7","VfL Wolfsburg - Borussia Dortmund","VfL Wolfsburg","Borussia Dortmund","1:2","2:1","Schmonkey",0,0,1,2,-1,1,2,1,1,1
+"15","7","VfL Wolfsburg - Borussia Dortmund","VfL Wolfsburg","Borussia Dortmund","1:2","1:2","Marc",4,4,1,2,-1,1,1,2,-1,1
+"15","7","VfL Wolfsburg - Borussia Dortmund","VfL Wolfsburg","Borussia Dortmund","1:2","1:1","Chris",0,0,1,2,-1,1,1,1,0,0
+"15","7","VfL Wolfsburg - Borussia Dortmund","VfL Wolfsburg","Borussia Dortmund","1:2","2:3","Kryztianov",3,3,1,2,-1,1,2,3,-1,1
+"15","7","VfL Wolfsburg - Borussia Dortmund","VfL Wolfsburg","Borussia Dortmund","1:2","2:1","phil4delphia",0,0,1,2,-1,1,2,1,1,1
+"15","7","VfL Wolfsburg - Borussia Dortmund","VfL Wolfsburg","Borussia Dortmund","1:2","2:3","AJ",3,3,1,2,-1,1,2,3,-1,1
+"15","7","VfL Wolfsburg - Borussia Dortmund","VfL Wolfsburg","Borussia Dortmund","1:2","2:3","BastiS.",3,3,1,2,-1,1,2,3,-1,1
+"1","8","VfL Wolfsburg - Eintracht Frankfurt","VfL Wolfsburg","Eintracht Frankfurt","2:1","2:0","GesuSan",2,2,2,1,1,1,2,0,2,2
+"1","8","VfL Wolfsburg - Eintracht Frankfurt","VfL Wolfsburg","Eintracht Frankfurt","2:1","2:0","Marc",2,2,2,1,1,1,2,0,2,2
+"1","8","VfL Wolfsburg - Eintracht Frankfurt","VfL Wolfsburg","Eintracht Frankfurt","2:1","2:0","AJ",2,2,2,1,1,1,2,0,2,2
+"1","8","VfL Wolfsburg - Eintracht Frankfurt","VfL Wolfsburg","Eintracht Frankfurt","2:1","3:0","BastiS.",2,2,2,1,1,1,3,0,3,3
+"1","8","VfL Wolfsburg - Eintracht Frankfurt","VfL Wolfsburg","Eintracht Frankfurt","2:1","2:0","Kryztianov",2,2,2,1,1,1,2,0,2,2
+"1","8","VfL Wolfsburg - Eintracht Frankfurt","VfL Wolfsburg","Eintracht Frankfurt","2:1","3:1","phil4delphia",2,2,2,1,1,1,3,1,2,2
+"1","8","VfL Wolfsburg - Eintracht Frankfurt","VfL Wolfsburg","Eintracht Frankfurt","2:1","3:1","Chris",2,2,2,1,1,1,3,1,2,2
+"1","8","VfL Wolfsburg - Eintracht Frankfurt","VfL Wolfsburg","Eintracht Frankfurt","2:1","3:0","Schmonkey",2,2,2,1,1,1,3,0,3,3
+"2","8","FC Ingolstadt - Borussia Dortmund","FC Ingolstadt","Borussia Dortmund","0:4","0:2","Marc",2,2,0,4,-4,4,0,2,-2,2
+"2","8","FC Ingolstadt - Borussia Dortmund","FC Ingolstadt","Borussia Dortmund","0:4","0:2","GesuSan",2,2,0,4,-4,4,0,2,-2,2
+"2","8","FC Ingolstadt - Borussia Dortmund","FC Ingolstadt","Borussia Dortmund","0:4","0:2","Kryztianov",2,2,0,4,-4,4,0,2,-2,2
+"2","8","FC Ingolstadt - Borussia Dortmund","FC Ingolstadt","Borussia Dortmund","0:4","0:2","AJ",2,2,0,4,-4,4,0,2,-2,2
+"2","8","FC Ingolstadt - Borussia Dortmund","FC Ingolstadt","Borussia Dortmund","0:4","0:2","BastiS.",2,2,0,4,-4,4,0,2,-2,2
+"2","8","FC Ingolstadt - Borussia Dortmund","FC Ingolstadt","Borussia Dortmund","0:4","0:2","Chris",2,2,0,4,-4,4,0,2,-2,2
+"2","8","FC Ingolstadt - Borussia Dortmund","FC Ingolstadt","Borussia Dortmund","0:4","1:3","phil4delphia",2,2,0,4,-4,4,1,3,-2,2
+"2","8","FC Ingolstadt - Borussia Dortmund","FC Ingolstadt","Borussia Dortmund","0:4","1:1","Schmonkey",0,0,0,4,-4,4,1,1,0,0
+"3","8","Borussia Dortmund - Hertha BSC","Borussia Dortmund","Hertha BSC","3:1","3:1","Marc",4,4,3,1,2,2,3,1,2,2
+"3","8","Borussia Dortmund - Hertha BSC","Borussia Dortmund","Hertha BSC","3:1","2:0","Kryztianov",3,3,3,1,2,2,2,0,2,2
+"3","8","Borussia Dortmund - Hertha BSC","Borussia Dortmund","Hertha BSC","3:1","3:0","GesuSan",2,2,3,1,2,2,3,0,3,3
+"3","8","Borussia Dortmund - Hertha BSC","Borussia Dortmund","Hertha BSC","3:1","2:0","AJ",3,3,3,1,2,2,2,0,2,2
+"3","8","Borussia Dortmund - Hertha BSC","Borussia Dortmund","Hertha BSC","3:1","2:0","Chris",3,3,3,1,2,2,2,0,2,2
+"3","8","Borussia Dortmund - Hertha BSC","Borussia Dortmund","Hertha BSC","3:1","4:0","phil4delphia",2,2,3,1,2,2,4,0,4,4
+"3","8","Borussia Dortmund - Hertha BSC","Borussia Dortmund","Hertha BSC","3:1","4:0","BastiS.",2,2,3,1,2,2,4,0,4,4
+"3","8","Borussia Dortmund - Hertha BSC","Borussia Dortmund","Hertha BSC","3:1","3:0","Schmonkey",2,2,3,1,2,2,3,0,3,3
+"4","8","1899 Hoffenheim - Werder Bremen","1899 Hoffenheim","Werder Bremen","1:3","1:0","Marc",0,0,1,3,-2,2,1,0,1,1
+"4","8","1899 Hoffenheim - Werder Bremen","1899 Hoffenheim","Werder Bremen","1:3","1:0","GesuSan",0,0,1,3,-2,2,1,0,1,1
+"4","8","1899 Hoffenheim - Werder Bremen","1899 Hoffenheim","Werder Bremen","1:3","0:1","AJ",2,2,1,3,-2,2,0,1,-1,1
+"4","8","1899 Hoffenheim - Werder Bremen","1899 Hoffenheim","Werder Bremen","1:3","1:1","Kryztianov",0,0,1,3,-2,2,1,1,0,0
+"4","8","1899 Hoffenheim - Werder Bremen","1899 Hoffenheim","Werder Bremen","1:3","1:0","Chris",0,0,1,3,-2,2,1,0,1,1
+"4","8","1899 Hoffenheim - Werder Bremen","1899 Hoffenheim","Werder Bremen","1:3","2:0","BastiS.",0,0,1,3,-2,2,2,0,2,2
+"4","8","1899 Hoffenheim - Werder Bremen","1899 Hoffenheim","Werder Bremen","1:3","1:1","phil4delphia",0,0,1,3,-2,2,1,1,0,0
+"4","8","1899 Hoffenheim - Werder Bremen","1899 Hoffenheim","Werder Bremen","1:3","3:1","Schmonkey",0,0,1,3,-2,2,3,1,2,2
+"5","8","FC Augsburg - Hannover 96","FC Augsburg","Hannover 96","2:0","2:0","GesuSan",4,4,2,0,2,2,2,0,2,2
+"5","8","FC Augsburg - Hannover 96","FC Augsburg","Hannover 96","2:0","2:0","Kryztianov",4,4,2,0,2,2,2,0,2,2
+"5","8","FC Augsburg - Hannover 96","FC Augsburg","Hannover 96","2:0","2:1","Marc",2,2,2,0,2,2,2,1,1,1
+"5","8","FC Augsburg - Hannover 96","FC Augsburg","Hannover 96","2:0","2:0","Chris",4,4,2,0,2,2,2,0,2,2
+"5","8","FC Augsburg - Hannover 96","FC Augsburg","Hannover 96","2:0","1:1","AJ",0,0,2,0,2,2,1,1,0,0
+"5","8","FC Augsburg - Hannover 96","FC Augsburg","Hannover 96","2:0","1:0","phil4delphia",2,2,2,0,2,2,1,0,1,1
+"5","8","FC Augsburg - Hannover 96","FC Augsburg","Hannover 96","2:0","3:1","BastiS.",3,3,2,0,2,2,3,1,2,2
+"5","8","FC Augsburg - Hannover 96","FC Augsburg","Hannover 96","2:0","1:1","Schmonkey",0,0,2,0,2,2,1,1,0,0
+"6","8","Bayer 04 Leverkusen - FSV Mainz 05","Bayer 04 Leverkusen","FSV Mainz 05","1:0","2:1","GesuSan",3,3,1,0,1,1,2,1,1,1
+"6","8","Bayer 04 Leverkusen - FSV Mainz 05","Bayer 04 Leverkusen","FSV Mainz 05","1:0","2:1","Chris",3,3,1,0,1,1,2,1,1,1
+"6","8","Bayer 04 Leverkusen - FSV Mainz 05","Bayer 04 Leverkusen","FSV Mainz 05","1:0","2:1","Kryztianov",3,3,1,0,1,1,2,1,1,1
+"6","8","Bayer 04 Leverkusen - FSV Mainz 05","Bayer 04 Leverkusen","FSV Mainz 05","1:0","2:0","Marc",2,2,1,0,1,1,2,0,2,2
+"6","8","Bayer 04 Leverkusen - FSV Mainz 05","Bayer 04 Leverkusen","FSV Mainz 05","1:0","2:1","AJ",3,3,1,0,1,1,2,1,1,1
+"6","8","Bayer 04 Leverkusen - FSV Mainz 05","Bayer 04 Leverkusen","FSV Mainz 05","1:0","1:2","Schmonkey",0,0,1,0,1,1,1,2,-1,1
+"6","8","Bayer 04 Leverkusen - FSV Mainz 05","Bayer 04 Leverkusen","FSV Mainz 05","1:0","3:2","phil4delphia",3,3,1,0,1,1,3,2,1,1
+"6","8","Bayer 04 Leverkusen - FSV Mainz 05","Bayer 04 Leverkusen","FSV Mainz 05","1:0","3:1","BastiS.",2,2,1,0,1,1,3,1,2,2
+"7","8","Eintracht Frankfurt - Hertha BSC","Eintracht Frankfurt","Hertha BSC","1:1","1:0","GesuSan",0,0,1,1,0,0,1,0,1,1
+"7","8","Eintracht Frankfurt - Hertha BSC","Eintracht Frankfurt","Hertha BSC","1:1","2:0","Chris",0,0,1,1,0,0,2,0,2,2
+"7","8","Eintracht Frankfurt - Hertha BSC","Eintracht Frankfurt","Hertha BSC","1:1","2:1","Marc",0,0,1,1,0,0,2,1,1,1
+"7","8","Eintracht Frankfurt - Hertha BSC","Eintracht Frankfurt","Hertha BSC","1:1","2:2","Kryztianov",2,2,1,1,0,0,2,2,0,0
+"7","8","Eintracht Frankfurt - Hertha BSC","Eintracht Frankfurt","Hertha BSC","1:1","1:0","AJ",0,0,1,1,0,0,1,0,1,1
+"7","8","Eintracht Frankfurt - Hertha BSC","Eintracht Frankfurt","Hertha BSC","1:1","3:0","BastiS.",0,0,1,1,0,0,3,0,3,3
+"7","8","Eintracht Frankfurt - Hertha BSC","Eintracht Frankfurt","Hertha BSC","1:1","3:1","Schmonkey",0,0,1,1,0,0,3,1,2,2
+"7","8","Eintracht Frankfurt - Hertha BSC","Eintracht Frankfurt","Hertha BSC","1:1","2:1","phil4delphia",0,0,1,1,0,0,2,1,1,1
+"8","8","FC Bayern München - Borussia Dortmund","FC Bayern München","Borussia Dortmund","5:1","1:2","GesuSan",0,0,5,1,4,4,1,2,-1,1
+"8","8","FC Bayern München - Borussia Dortmund","FC Bayern München","Borussia Dortmund","5:1","2:1","Marc",2,2,5,1,4,4,2,1,1,1
+"8","8","FC Bayern München - Borussia Dortmund","FC Bayern München","Borussia Dortmund","5:1","3:1","Chris",2,2,5,1,4,4,3,1,2,2
+"8","8","FC Bayern München - Borussia Dortmund","FC Bayern München","Borussia Dortmund","5:1","2:1","Kryztianov",2,2,5,1,4,4,2,1,1,1
+"8","8","FC Bayern München - Borussia Dortmund","FC Bayern München","Borussia Dortmund","5:1","2:0","Schmonkey",2,2,5,1,4,4,2,0,2,2
+"8","8","FC Bayern München - Borussia Dortmund","FC Bayern München","Borussia Dortmund","5:1","2:1","AJ",2,2,5,1,4,4,2,1,1,1
+"8","8","FC Bayern München - Borussia Dortmund","FC Bayern München","Borussia Dortmund","5:1","2:0","phil4delphia",2,2,5,1,4,4,2,0,2,2
+"8","8","FC Bayern München - Borussia Dortmund","FC Bayern München","Borussia Dortmund","5:1","2:3","BastiS.",0,0,5,1,4,4,2,3,-1,1
+"9","8","1. FC Köln - Hannover 96","1. FC Köln","Hannover 96","0:1","2:1","GesuSan",0,0,0,1,-1,1,2,1,1,1
+"9","8","1. FC Köln - Hannover 96","1. FC Köln","Hannover 96","0:1","2:1","Marc",0,0,0,1,-1,1,2,1,1,1
+"9","8","1. FC Köln - Hannover 96","1. FC Köln","Hannover 96","0:1","2:0","Chris",0,0,0,1,-1,1,2,0,2,2
+"9","8","1. FC Köln - Hannover 96","1. FC Köln","Hannover 96","0:1","2:1","Schmonkey",0,0,0,1,-1,1,2,1,1,1
+"9","8","1. FC Köln - Hannover 96","1. FC Köln","Hannover 96","0:1","2:0","Kryztianov",0,0,0,1,-1,1,2,0,2,2
+"9","8","1. FC Köln - Hannover 96","1. FC Köln","Hannover 96","0:1","2:0","AJ",0,0,0,1,-1,1,2,0,2,2
+"9","8","1. FC Köln - Hannover 96","1. FC Köln","Hannover 96","0:1","1:0","phil4delphia",0,0,0,1,-1,1,1,0,1,1
+"9","8","1. FC Köln - Hannover 96","1. FC Köln","Hannover 96","0:1","2:0","BastiS.",0,0,0,1,-1,1,2,0,2,2
+"10","8","Borussia Dortmund - FC Augsburg","Borussia Dortmund","FC Augsburg","5:1","2:0","GesuSan",2,2,5,1,4,4,2,0,2,2
+"10","8","Borussia Dortmund - FC Augsburg","Borussia Dortmund","FC Augsburg","5:1","2:0","Chris",2,2,5,1,4,4,2,0,2,2
+"10","8","Borussia Dortmund - FC Augsburg","Borussia Dortmund","FC Augsburg","5:1","2:0","Marc",2,2,5,1,4,4,2,0,2,2
+"10","8","Borussia Dortmund - FC Augsburg","Borussia Dortmund","FC Augsburg","5:1","2:0","Schmonkey",2,2,5,1,4,4,2,0,2,2
+"10","8","Borussia Dortmund - FC Augsburg","Borussia Dortmund","FC Augsburg","5:1","2:0","Kryztianov",2,2,5,1,4,4,2,0,2,2
+"10","8","Borussia Dortmund - FC Augsburg","Borussia Dortmund","FC Augsburg","5:1","2:0","AJ",2,2,5,1,4,4,2,0,2,2
+"10","8","Borussia Dortmund - FC Augsburg","Borussia Dortmund","FC Augsburg","5:1","3:1","BastiS.",2,2,5,1,4,4,3,1,2,2
+"10","8","Borussia Dortmund - FC Augsburg","Borussia Dortmund","FC Augsburg","5:1","4:1","phil4delphia",2,2,5,1,4,4,4,1,3,3
+"11","8","VfB Stuttgart - SV Darmstadt 98","VfB Stuttgart","SV Darmstadt 98","2:0","0:1","GesuSan",0,0,2,0,2,2,0,1,-1,1
+"11","8","VfB Stuttgart - SV Darmstadt 98","VfB Stuttgart","SV Darmstadt 98","2:0","2:0","Marc",4,4,2,0,2,2,2,0,2,2
+"11","8","VfB Stuttgart - SV Darmstadt 98","VfB Stuttgart","SV Darmstadt 98","2:0","2:1","Schmonkey",2,2,2,0,2,2,2,1,1,1
+"11","8","VfB Stuttgart - SV Darmstadt 98","VfB Stuttgart","SV Darmstadt 98","2:0","1:0","Chris",2,2,2,0,2,2,1,0,1,1
+"11","8","VfB Stuttgart - SV Darmstadt 98","VfB Stuttgart","SV Darmstadt 98","2:0","1:1","Kryztianov",0,0,2,0,2,2,1,1,0,0
+"11","8","VfB Stuttgart - SV Darmstadt 98","VfB Stuttgart","SV Darmstadt 98","2:0","3:1","AJ",3,3,2,0,2,2,3,1,2,2
+"11","8","VfB Stuttgart - SV Darmstadt 98","VfB Stuttgart","SV Darmstadt 98","2:0","3:1","phil4delphia",3,3,2,0,2,2,3,1,2,2
+"11","8","VfB Stuttgart - SV Darmstadt 98","VfB Stuttgart","SV Darmstadt 98","2:0","1:1","BastiS.",0,0,2,0,2,2,1,1,0,0
+"12","8","Borussia Dortmund - FC Schalke 04","Borussia Dortmund","FC Schalke 04","3:2","2:1","GesuSan",3,3,3,2,1,1,2,1,1,1
+"12","8","Borussia Dortmund - FC Schalke 04","Borussia Dortmund","FC Schalke 04","3:2","2:0","Marc",2,2,3,2,1,1,2,0,2,2
+"12","8","Borussia Dortmund - FC Schalke 04","Borussia Dortmund","FC Schalke 04","3:2","3:0","Schmonkey",2,2,3,2,1,1,3,0,3,3
+"12","8","Borussia Dortmund - FC Schalke 04","Borussia Dortmund","FC Schalke 04","3:2","3:0","Chris",2,2,3,2,1,1,3,0,3,3
+"12","8","Borussia Dortmund - FC Schalke 04","Borussia Dortmund","FC Schalke 04","3:2","3:1","Kryztianov",2,2,3,2,1,1,3,1,2,2
+"12","8","Borussia Dortmund - FC Schalke 04","Borussia Dortmund","FC Schalke 04","3:2","3:1","AJ",2,2,3,2,1,1,3,1,2,2
+"12","8","Borussia Dortmund - FC Schalke 04","Borussia Dortmund","FC Schalke 04","3:2","3:1","phil4delphia",2,2,3,2,1,1,3,1,2,2
+"12","8","Borussia Dortmund - FC Schalke 04","Borussia Dortmund","FC Schalke 04","3:2","2:0","BastiS.",2,2,3,2,1,1,2,0,2,2
+"13","8","Hertha BSC - 1899 Hoffenheim","Hertha BSC","1899 Hoffenheim","1:0","2:0","GesuSan",2,2,1,0,1,1,2,0,2,2
+"13","8","Hertha BSC - 1899 Hoffenheim","Hertha BSC","1899 Hoffenheim","1:0","1:0","Schmonkey",4,4,1,0,1,1,1,0,1,1
+"13","8","Hertha BSC - 1899 Hoffenheim","Hertha BSC","1899 Hoffenheim","1:0","1:1","Marc",0,0,1,0,1,1,1,1,0,0
+"13","8","Hertha BSC - 1899 Hoffenheim","Hertha BSC","1899 Hoffenheim","1:0","1:0","Chris",4,4,1,0,1,1,1,0,1,1
+"13","8","Hertha BSC - 1899 Hoffenheim","Hertha BSC","1899 Hoffenheim","1:0","1:0","Kryztianov",4,4,1,0,1,1,1,0,1,1
+"13","8","Hertha BSC - 1899 Hoffenheim","Hertha BSC","1899 Hoffenheim","1:0","0:1","AJ",0,0,1,0,1,1,0,1,-1,1
+"13","8","Hertha BSC - 1899 Hoffenheim","Hertha BSC","1899 Hoffenheim","1:0","2:1","phil4delphia",3,3,1,0,1,1,2,1,1,1
+"13","8","Hertha BSC - 1899 Hoffenheim","Hertha BSC","1899 Hoffenheim","1:0","1:0","BastiS.",4,4,1,0,1,1,1,0,1,1
+"14","8","Bayer 04 Leverkusen - FC Schalke 04","Bayer 04 Leverkusen","FC Schalke 04","1:1","1:0","GesuSan",0,0,1,1,0,0,1,0,1,1
+"14","8","Bayer 04 Leverkusen - FC Schalke 04","Bayer 04 Leverkusen","FC Schalke 04","1:1","3:2","Schmonkey",0,0,1,1,0,0,3,2,1,1
+"14","8","Bayer 04 Leverkusen - FC Schalke 04","Bayer 04 Leverkusen","FC Schalke 04","1:1","2:1","Marc",0,0,1,1,0,0,2,1,1,1
+"14","8","Bayer 04 Leverkusen - FC Schalke 04","Bayer 04 Leverkusen","FC Schalke 04","1:1","1:0","Chris",0,0,1,1,0,0,1,0,1,1
+"14","8","Bayer 04 Leverkusen - FC Schalke 04","Bayer 04 Leverkusen","FC Schalke 04","1:1","2:1","phil4delphia",0,0,1,1,0,0,2,1,1,1
+"14","8","Bayer 04 Leverkusen - FC Schalke 04","Bayer 04 Leverkusen","FC Schalke 04","1:1","2:1","Kryztianov",0,0,1,1,0,0,2,1,1,1
+"14","8","Bayer 04 Leverkusen - FC Schalke 04","Bayer 04 Leverkusen","FC Schalke 04","1:1","0:2","AJ",0,0,1,1,0,0,0,2,-2,2
+"14","8","Bayer 04 Leverkusen - FC Schalke 04","Bayer 04 Leverkusen","FC Schalke 04","1:1","3:2","BastiS.",0,0,1,1,0,0,3,2,1,1
+"15","8","VfB Stuttgart - Werder Bremen","VfB Stuttgart","Werder Bremen","1:1","0:1","GesuSan",0,0,1,1,0,0,0,1,-1,1
+"15","8","VfB Stuttgart - Werder Bremen","VfB Stuttgart","Werder Bremen","1:1","1:0","Schmonkey",0,0,1,1,0,0,1,0,1,1
+"15","8","VfB Stuttgart - Werder Bremen","VfB Stuttgart","Werder Bremen","1:1","2:0","Marc",0,0,1,1,0,0,2,0,2,2
+"15","8","VfB Stuttgart - Werder Bremen","VfB Stuttgart","Werder Bremen","1:1","0:1","Chris",0,0,1,1,0,0,0,1,-1,1
+"15","8","VfB Stuttgart - Werder Bremen","VfB Stuttgart","Werder Bremen","1:1","1:1","Kryztianov",4,4,1,1,0,0,1,1,0,0
+"15","8","VfB Stuttgart - Werder Bremen","VfB Stuttgart","Werder Bremen","1:1","3:1","phil4delphia",0,0,1,1,0,0,3,1,2,2
+"15","8","VfB Stuttgart - Werder Bremen","VfB Stuttgart","Werder Bremen","1:1","0:1","AJ",0,0,1,1,0,0,0,1,-1,1
+"15","8","VfB Stuttgart - Werder Bremen","VfB Stuttgart","Werder Bremen","1:1","2:0","BastiS.",0,0,1,1,0,0,2,0,2,2
+"1","9","VfB Stuttgart - 1. FC Köln","VfB Stuttgart","1. FC Köln","1:3","0:1","GesuSan",2,2,1,3,-2,2,0,1,-1,1
+"1","9","VfB Stuttgart - 1. FC Köln","VfB Stuttgart","1. FC Köln","1:3","1:1","Marc",0,0,1,3,-2,2,1,1,0,0
+"1","9","VfB Stuttgart - 1. FC Köln","VfB Stuttgart","1. FC Köln","1:3","1:1","AJ",0,0,1,3,-2,2,1,1,0,0
+"1","9","VfB Stuttgart - 1. FC Köln","VfB Stuttgart","1. FC Köln","1:3","1:1","BastiS.",0,0,1,3,-2,2,1,1,0,0
+"1","9","VfB Stuttgart - 1. FC Köln","VfB Stuttgart","1. FC Köln","1:3","1:1","Kryztianov",0,0,1,3,-2,2,1,1,0,0
+"1","9","VfB Stuttgart - 1. FC Köln","VfB Stuttgart","1. FC Köln","1:3","2:0","phil4delphia",0,0,1,3,-2,2,2,0,2,2
+"1","9","VfB Stuttgart - 1. FC Köln","VfB Stuttgart","1. FC Köln","1:3","0:0","Chris",0,0,1,3,-2,2,0,0,0,0
+"1","9","VfB Stuttgart - 1. FC Köln","VfB Stuttgart","1. FC Köln","1:3","2:0","Schmonkey",0,0,1,3,-2,2,2,0,2,2
+"2","9","Bor. Mönchengladbach - FSV Mainz 05","Bor. Mönchengladbach","FSV Mainz 05","1:2","2:1","Marc",0,0,1,2,-1,1,2,1,1,1
+"2","9","Bor. Mönchengladbach - FSV Mainz 05","Bor. Mönchengladbach","FSV Mainz 05","1:2","2:1","GesuSan",0,0,1,2,-1,1,2,1,1,1
+"2","9","Bor. Mönchengladbach - FSV Mainz 05","Bor. Mönchengladbach","FSV Mainz 05","1:2","2:1","Kryztianov",0,0,1,2,-1,1,2,1,1,1
+"2","9","Bor. Mönchengladbach - FSV Mainz 05","Bor. Mönchengladbach","FSV Mainz 05","1:2","1:0","AJ",0,0,1,2,-1,1,1,0,1,1
+"2","9","Bor. Mönchengladbach - FSV Mainz 05","Bor. Mönchengladbach","FSV Mainz 05","1:2","3:1","BastiS.",0,0,1,2,-1,1,3,1,2,2
+"2","9","Bor. Mönchengladbach - FSV Mainz 05","Bor. Mönchengladbach","FSV Mainz 05","1:2","1:0","Chris",0,0,1,2,-1,1,1,0,1,1
+"2","9","Bor. Mönchengladbach - FSV Mainz 05","Bor. Mönchengladbach","FSV Mainz 05","1:2","2:0","phil4delphia",0,0,1,2,-1,1,2,0,2,2
+"2","9","Bor. Mönchengladbach - FSV Mainz 05","Bor. Mönchengladbach","FSV Mainz 05","1:2","2:0","Schmonkey",0,0,1,2,-1,1,2,0,2,2
+"3","9","Werder Bremen - Bor. Mönchengladbach","Werder Bremen","Bor. Mönchengladbach","2:1","1:1","Marc",0,0,2,1,1,1,1,1,0,0
+"3","9","Werder Bremen - Bor. Mönchengladbach","Werder Bremen","Bor. Mönchengladbach","2:1","1:2","Kryztianov",0,0,2,1,1,1,1,2,-1,1
+"3","9","Werder Bremen - Bor. Mönchengladbach","Werder Bremen","Bor. Mönchengladbach","2:1","0:1","GesuSan",0,0,2,1,1,1,0,1,-1,1
+"3","9","Werder Bremen - Bor. Mönchengladbach","Werder Bremen","Bor. Mönchengladbach","2:1","0:1","AJ",0,0,2,1,1,1,0,1,-1,1
+"3","9","Werder Bremen - Bor. Mönchengladbach","Werder Bremen","Bor. Mönchengladbach","2:1","1:1","Chris",0,0,2,1,1,1,1,1,0,0
+"3","9","Werder Bremen - Bor. Mönchengladbach","Werder Bremen","Bor. Mönchengladbach","2:1","1:1","phil4delphia",0,0,2,1,1,1,1,1,0,0
+"3","9","Werder Bremen - Bor. Mönchengladbach","Werder Bremen","Bor. Mönchengladbach","2:1","2:2","BastiS.",0,0,2,1,1,1,2,2,0,0
+"3","9","Werder Bremen - Bor. Mönchengladbach","Werder Bremen","Bor. Mönchengladbach","2:1","2:2","Schmonkey",0,0,2,1,1,1,2,2,0,0
+"4","9","FC Schalke 04 - FSV Mainz 05","FC Schalke 04","FSV Mainz 05","2:1","1:0","Marc",3,3,2,1,1,1,1,0,1,1
+"4","9","FC Schalke 04 - FSV Mainz 05","FC Schalke 04","FSV Mainz 05","2:1","1:0","GesuSan",3,3,2,1,1,1,1,0,1,1
+"4","9","FC Schalke 04 - FSV Mainz 05","FC Schalke 04","FSV Mainz 05","2:1","2:1","AJ",4,4,2,1,1,1,2,1,1,1
+"4","9","FC Schalke 04 - FSV Mainz 05","FC Schalke 04","FSV Mainz 05","2:1","2:2","Kryztianov",0,0,2,1,1,1,2,2,0,0
+"4","9","FC Schalke 04 - FSV Mainz 05","FC Schalke 04","FSV Mainz 05","2:1","2:1","Chris",4,4,2,1,1,1,2,1,1,1
+"4","9","FC Schalke 04 - FSV Mainz 05","FC Schalke 04","FSV Mainz 05","2:1","1:0","BastiS.",3,3,2,1,1,1,1,0,1,1
+"4","9","FC Schalke 04 - FSV Mainz 05","FC Schalke 04","FSV Mainz 05","2:1","2:2","phil4delphia",0,0,2,1,1,1,2,2,0,0
+"4","9","FC Schalke 04 - FSV Mainz 05","FC Schalke 04","FSV Mainz 05","2:1","1:1","Schmonkey",0,0,2,1,1,1,1,1,0,0
+"5","9","Borussia Dortmund - Bayer 04 Leverkusen","Borussia Dortmund","Bayer 04 Leverkusen","3:0","2:1","GesuSan",2,2,3,0,3,3,2,1,1,1
+"5","9","Borussia Dortmund - Bayer 04 Leverkusen","Borussia Dortmund","Bayer 04 Leverkusen","3:0","2:1","Kryztianov",2,2,3,0,3,3,2,1,1,1
+"5","9","Borussia Dortmund - Bayer 04 Leverkusen","Borussia Dortmund","Bayer 04 Leverkusen","3:0","1:2","Marc",0,0,3,0,3,3,1,2,-1,1
+"5","9","Borussia Dortmund - Bayer 04 Leverkusen","Borussia Dortmund","Bayer 04 Leverkusen","3:0","2:1","Chris",2,2,3,0,3,3,2,1,1,1
+"5","9","Borussia Dortmund - Bayer 04 Leverkusen","Borussia Dortmund","Bayer 04 Leverkusen","3:0","1:0","AJ",2,2,3,0,3,3,1,0,1,1
+"5","9","Borussia Dortmund - Bayer 04 Leverkusen","Borussia Dortmund","Bayer 04 Leverkusen","3:0","3:2","phil4delphia",2,2,3,0,3,3,3,2,1,1
+"5","9","Borussia Dortmund - Bayer 04 Leverkusen","Borussia Dortmund","Bayer 04 Leverkusen","3:0","2:0","BastiS.",2,2,3,0,3,3,2,0,2,2
+"5","9","Borussia Dortmund - Bayer 04 Leverkusen","Borussia Dortmund","Bayer 04 Leverkusen","3:0","3:1","Schmonkey",2,2,3,0,3,3,3,1,2,2
+"6","9","Hannover 96 - VfB Stuttgart","Hannover 96","VfB Stuttgart","1:3","0:1","GesuSan",2,2,1,3,-2,2,0,1,-1,1
+"6","9","Hannover 96 - VfB Stuttgart","Hannover 96","VfB Stuttgart","1:3","0:0","Chris",0,0,1,3,-2,2,0,0,0,0
+"6","9","Hannover 96 - VfB Stuttgart","Hannover 96","VfB Stuttgart","1:3","0:1","Kryztianov",2,2,1,3,-2,2,0,1,-1,1
+"6","9","Hannover 96 - VfB Stuttgart","Hannover 96","VfB Stuttgart","1:3","1:2","Marc",2,2,1,3,-2,2,1,2,-1,1
+"6","9","Hannover 96 - VfB Stuttgart","Hannover 96","VfB Stuttgart","1:3","0:2","AJ",3,3,1,3,-2,2,0,2,-2,2
+"6","9","Hannover 96 - VfB Stuttgart","Hannover 96","VfB Stuttgart","1:3","2:1","Schmonkey",0,0,1,3,-2,2,2,1,1,1
+"6","9","Hannover 96 - VfB Stuttgart","Hannover 96","VfB Stuttgart","1:3","2:1","phil4delphia",0,0,1,3,-2,2,2,1,1,1
+"6","9","Hannover 96 - VfB Stuttgart","Hannover 96","VfB Stuttgart","1:3","2:1","BastiS.",0,0,1,3,-2,2,2,1,1,1
+"7","9","Borussia Dortmund - SV Darmstadt 98","Borussia Dortmund","SV Darmstadt 98","2:2","2:0","GesuSan",0,0,2,2,0,0,2,0,2,2
+"7","9","Borussia Dortmund - SV Darmstadt 98","Borussia Dortmund","SV Darmstadt 98","2:2","2:0","Chris",0,0,2,2,0,0,2,0,2,2
+"7","9","Borussia Dortmund - SV Darmstadt 98","Borussia Dortmund","SV Darmstadt 98","2:2","3:0","Marc",0,0,2,2,0,0,3,0,3,3
+"7","9","Borussia Dortmund - SV Darmstadt 98","Borussia Dortmund","SV Darmstadt 98","2:2","3:0","Kryztianov",0,0,2,2,0,0,3,0,3,3
+"7","9","Borussia Dortmund - SV Darmstadt 98","Borussia Dortmund","SV Darmstadt 98","2:2","2:0","AJ",0,0,2,2,0,0,2,0,2,2
+"7","9","Borussia Dortmund - SV Darmstadt 98","Borussia Dortmund","SV Darmstadt 98","2:2","2:0","BastiS.",0,0,2,2,0,0,2,0,2,2
+"7","9","Borussia Dortmund - SV Darmstadt 98","Borussia Dortmund","SV Darmstadt 98","2:2","2:0","Schmonkey",0,0,2,2,0,0,2,0,2,2
+"7","9","Borussia Dortmund - SV Darmstadt 98","Borussia Dortmund","SV Darmstadt 98","2:2","3:0","phil4delphia",0,0,2,2,0,0,3,0,3,3
+"8","9","Bayer 04 Leverkusen - FC Augsburg","Bayer 04 Leverkusen","FC Augsburg","1:1","2:0","GesuSan",0,0,1,1,0,0,2,0,2,2
+"8","9","Bayer 04 Leverkusen - FC Augsburg","Bayer 04 Leverkusen","FC Augsburg","1:1","2:0","Marc",0,0,1,1,0,0,2,0,2,2
+"8","9","Bayer 04 Leverkusen - FC Augsburg","Bayer 04 Leverkusen","FC Augsburg","1:1","2:0","Chris",0,0,1,1,0,0,2,0,2,2
+"8","9","Bayer 04 Leverkusen - FC Augsburg","Bayer 04 Leverkusen","FC Augsburg","1:1","2:0","Kryztianov",0,0,1,1,0,0,2,0,2,2
+"8","9","Bayer 04 Leverkusen - FC Augsburg","Bayer 04 Leverkusen","FC Augsburg","1:1","3:0","Schmonkey",0,0,1,1,0,0,3,0,3,3
+"8","9","Bayer 04 Leverkusen - FC Augsburg","Bayer 04 Leverkusen","FC Augsburg","1:1","1:0","AJ",0,0,1,1,0,0,1,0,1,1
+"8","9","Bayer 04 Leverkusen - FC Augsburg","Bayer 04 Leverkusen","FC Augsburg","1:1","3:1","phil4delphia",0,0,1,1,0,0,3,1,2,2
+"8","9","Bayer 04 Leverkusen - FC Augsburg","Bayer 04 Leverkusen","FC Augsburg","1:1","3:1","BastiS.",0,0,1,1,0,0,3,1,2,2
+"9","9","VfB Stuttgart - FC Ingolstadt","VfB Stuttgart","FC Ingolstadt","1:0","0:1","GesuSan",0,0,1,0,1,1,0,1,-1,1
+"9","9","VfB Stuttgart - FC Ingolstadt","VfB Stuttgart","FC Ingolstadt","1:0","2:1","Marc",3,3,1,0,1,1,2,1,1,1
+"9","9","VfB Stuttgart - FC Ingolstadt","VfB Stuttgart","FC Ingolstadt","1:0","1:0","Chris",4,4,1,0,1,1,1,0,1,1
+"9","9","VfB Stuttgart - FC Ingolstadt","VfB Stuttgart","FC Ingolstadt","1:0","1:0","Schmonkey",4,4,1,0,1,1,1,0,1,1
+"9","9","VfB Stuttgart - FC Ingolstadt","VfB Stuttgart","FC Ingolstadt","1:0","2:2","Kryztianov",0,0,1,0,1,1,2,2,0,0
+"9","9","VfB Stuttgart - FC Ingolstadt","VfB Stuttgart","FC Ingolstadt","1:0","1:1","AJ",0,0,1,0,1,1,1,1,0,0
+"9","9","VfB Stuttgart - FC Ingolstadt","VfB Stuttgart","FC Ingolstadt","1:0","3:1","phil4delphia",2,2,1,0,1,1,3,1,2,2
+"9","9","VfB Stuttgart - FC Ingolstadt","VfB Stuttgart","FC Ingolstadt","1:0","1:1","BastiS.",0,0,1,0,1,1,1,1,0,0
+"10","9","Bor. Mönchengladbach - FC Schalke 04","Bor. Mönchengladbach","FC Schalke 04","3:1","0:1","GesuSan",0,0,3,1,2,2,0,1,-1,1
+"10","9","Bor. Mönchengladbach - FC Schalke 04","Bor. Mönchengladbach","FC Schalke 04","3:1","1:0","Chris",2,2,3,1,2,2,1,0,1,1
+"10","9","Bor. Mönchengladbach - FC Schalke 04","Bor. Mönchengladbach","FC Schalke 04","3:1","1:0","Marc",2,2,3,1,2,2,1,0,1,1
+"10","9","Bor. Mönchengladbach - FC Schalke 04","Bor. Mönchengladbach","FC Schalke 04","3:1","2:0","Schmonkey",3,3,3,1,2,2,2,0,2,2
+"10","9","Bor. Mönchengladbach - FC Schalke 04","Bor. Mönchengladbach","FC Schalke 04","3:1","2:0","Kryztianov",3,3,3,1,2,2,2,0,2,2
+"10","9","Bor. Mönchengladbach - FC Schalke 04","Bor. Mönchengladbach","FC Schalke 04","3:1","1:0","AJ",2,2,3,1,2,2,1,0,1,1
+"10","9","Bor. Mönchengladbach - FC Schalke 04","Bor. Mönchengladbach","FC Schalke 04","3:1","2:0","BastiS.",3,3,3,1,2,2,2,0,2,2
+"10","9","Bor. Mönchengladbach - FC Schalke 04","Bor. Mönchengladbach","FC Schalke 04","3:1","2:1","phil4delphia",2,2,3,1,2,2,2,1,1,1
+"11","9","Hamburger SV - Hannover 96","Hamburger SV","Hannover 96","1:2","1:0","GesuSan",0,0,1,2,-1,1,1,0,1,1
+"11","9","Hamburger SV - Hannover 96","Hamburger SV","Hannover 96","1:2","1:0","Marc",0,0,1,2,-1,1,1,0,1,1
+"11","9","Hamburger SV - Hannover 96","Hamburger SV","Hannover 96","1:2","1:0","Schmonkey",0,0,1,2,-1,1,1,0,1,1
+"11","9","Hamburger SV - Hannover 96","Hamburger SV","Hannover 96","1:2","1:0","Chris",0,0,1,2,-1,1,1,0,1,1
+"11","9","Hamburger SV - Hannover 96","Hamburger SV","Hannover 96","1:2","2:1","Kryztianov",0,0,1,2,-1,1,2,1,1,1
+"11","9","Hamburger SV - Hannover 96","Hamburger SV","Hannover 96","1:2","1:0","AJ",0,0,1,2,-1,1,1,0,1,1
+"11","9","Hamburger SV - Hannover 96","Hamburger SV","Hannover 96","1:2","1:2","phil4delphia",4,4,1,2,-1,1,1,2,-1,1
+"11","9","Hamburger SV - Hannover 96","Hamburger SV","Hannover 96","1:2","1:0","BastiS.",0,0,1,2,-1,1,1,0,1,1
+"12","9","FC Augsburg - Werder Bremen","FC Augsburg","Werder Bremen","1:2","0:1","GesuSan",3,3,1,2,-1,1,0,1,-1,1
+"12","9","FC Augsburg - Werder Bremen","FC Augsburg","Werder Bremen","1:2","1:1","Marc",0,0,1,2,-1,1,1,1,0,0
+"12","9","FC Augsburg - Werder Bremen","FC Augsburg","Werder Bremen","1:2","2:0","Schmonkey",0,0,1,2,-1,1,2,0,2,2
+"12","9","FC Augsburg - Werder Bremen","FC Augsburg","Werder Bremen","1:2","0:0","Chris",0,0,1,2,-1,1,0,0,0,0
+"12","9","FC Augsburg - Werder Bremen","FC Augsburg","Werder Bremen","1:2","1:1","Kryztianov",0,0,1,2,-1,1,1,1,0,0
+"12","9","FC Augsburg - Werder Bremen","FC Augsburg","Werder Bremen","1:2","1:0","AJ",0,0,1,2,-1,1,1,0,1,1
+"12","9","FC Augsburg - Werder Bremen","FC Augsburg","Werder Bremen","1:2","2:1","phil4delphia",0,0,1,2,-1,1,2,1,1,1
+"12","9","FC Augsburg - Werder Bremen","FC Augsburg","Werder Bremen","1:2","2:0","BastiS.",0,0,1,2,-1,1,2,0,2,2
+"13","9","FC Ingolstadt - SV Darmstadt 98","FC Ingolstadt","SV Darmstadt 98","3:1","2:2","GesuSan",0,0,3,1,2,2,2,2,0,0
+"13","9","FC Ingolstadt - SV Darmstadt 98","FC Ingolstadt","SV Darmstadt 98","3:1","1:2","Schmonkey",0,0,3,1,2,2,1,2,-1,1
+"13","9","FC Ingolstadt - SV Darmstadt 98","FC Ingolstadt","SV Darmstadt 98","3:1","0:1","Marc",0,0,3,1,2,2,0,1,-1,1
+"13","9","FC Ingolstadt - SV Darmstadt 98","FC Ingolstadt","SV Darmstadt 98","3:1","2:2","Chris",0,0,3,1,2,2,2,2,0,0
+"13","9","FC Ingolstadt - SV Darmstadt 98","FC Ingolstadt","SV Darmstadt 98","3:1","1:1","Kryztianov",0,0,3,1,2,2,1,1,0,0
+"13","9","FC Ingolstadt - SV Darmstadt 98","FC Ingolstadt","SV Darmstadt 98","3:1","0:0","AJ",0,0,3,1,2,2,0,0,0,0
+"13","9","FC Ingolstadt - SV Darmstadt 98","FC Ingolstadt","SV Darmstadt 98","3:1","1:1","phil4delphia",0,0,3,1,2,2,1,1,0,0
+"13","9","FC Ingolstadt - SV Darmstadt 98","FC Ingolstadt","SV Darmstadt 98","3:1","2:2","BastiS.",0,0,3,1,2,2,2,2,0,0
+"14","9","FC Augsburg - VfL Wolfsburg","FC Augsburg","VfL Wolfsburg","0:0","0:2","GesuSan",0,0,0,0,0,0,0,2,-2,2
+"14","9","FC Augsburg - VfL Wolfsburg","FC Augsburg","VfL Wolfsburg","0:0","1:2","Schmonkey",0,0,0,0,0,0,1,2,-1,1
+"14","9","FC Augsburg - VfL Wolfsburg","FC Augsburg","VfL Wolfsburg","0:0","0:2","Marc",0,0,0,0,0,0,0,2,-2,2
+"14","9","FC Augsburg - VfL Wolfsburg","FC Augsburg","VfL Wolfsburg","0:0","1:2","Chris",0,0,0,0,0,0,1,2,-1,1
+"14","9","FC Augsburg - VfL Wolfsburg","FC Augsburg","VfL Wolfsburg","0:0","1:0","phil4delphia",0,0,0,0,0,0,1,0,1,1
+"14","9","FC Augsburg - VfL Wolfsburg","FC Augsburg","VfL Wolfsburg","0:0","1:3","Kryztianov",0,0,0,0,0,0,1,3,-2,2
+"14","9","FC Augsburg - VfL Wolfsburg","FC Augsburg","VfL Wolfsburg","0:0","0:2","AJ",0,0,0,0,0,0,0,2,-2,2
+"14","9","FC Augsburg - VfL Wolfsburg","FC Augsburg","VfL Wolfsburg","0:0","0:3","BastiS.",0,0,0,0,0,0,0,3,-3,3
+"15","9","Eintracht Frankfurt - SV Darmstadt 98","Eintracht Frankfurt","SV Darmstadt 98","0:1","0:1","GesuSan",4,4,0,1,-1,1,0,1,-1,1
+"15","9","Eintracht Frankfurt - SV Darmstadt 98","Eintracht Frankfurt","SV Darmstadt 98","0:1","2:0","Schmonkey",0,0,0,1,-1,1,2,0,2,2
+"15","9","Eintracht Frankfurt - SV Darmstadt 98","Eintracht Frankfurt","SV Darmstadt 98","0:1","2:0","Marc",0,0,0,1,-1,1,2,0,2,2
+"15","9","Eintracht Frankfurt - SV Darmstadt 98","Eintracht Frankfurt","SV Darmstadt 98","0:1","2:0","Chris",0,0,0,1,-1,1,2,0,2,2
+"15","9","Eintracht Frankfurt - SV Darmstadt 98","Eintracht Frankfurt","SV Darmstadt 98","0:1","2:2","Kryztianov",0,0,0,1,-1,1,2,2,0,0
+"15","9","Eintracht Frankfurt - SV Darmstadt 98","Eintracht Frankfurt","SV Darmstadt 98","0:1","1:1","phil4delphia",0,0,0,1,-1,1,1,1,0,0
+"15","9","Eintracht Frankfurt - SV Darmstadt 98","Eintracht Frankfurt","SV Darmstadt 98","0:1","1:0","AJ",0,0,0,1,-1,1,1,0,1,1
+"15","9","Eintracht Frankfurt - SV Darmstadt 98","Eintracht Frankfurt","SV Darmstadt 98","0:1","2:0","BastiS.",0,0,0,1,-1,1,2,0,2,2
